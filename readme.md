@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 
+heroText:
 heroImage: /images/ecn-tagline.png
 tagline: Knowledge Base
 features:

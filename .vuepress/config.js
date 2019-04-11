@@ -5,7 +5,7 @@ module.exports = {
   description: '',
   plugins: ['@vuepress/back-to-top'],
   themeConfig: {
-    logo: '/images/ecn-tagline.png',
+    logo: '/images/logo.png',
     nav: [{
       text: 'Knowledge Base',
       items: [{
