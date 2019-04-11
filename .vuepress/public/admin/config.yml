@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: "ECNTechnology/knowledge-base"
+  name: git-gateway
+  # repo: "ECNTechnology/knowledge-base"
   branch: Production # Branch to update (optional; defaults to master)
 media_folder: "/.vuepress/public/images"
 public_folder: "/images"
@@ -12,6 +12,8 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "business-sip" # Used in routes, e.g., /admin/collections/blog
     label: "Business SIP articles" # Used in the UI
@@ -20,6 +22,8 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "email" # Used in routes, e.g., /admin/collections/blog
     label: "Email articles" # Used in the UI
@@ -28,4 +32,6 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
       - {label: "Body", name: "body", widget: "markdown"}
