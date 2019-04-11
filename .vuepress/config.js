@@ -1,12 +1,17 @@
-var getChildren = require('./childScript')
+const getChildren = require('./childScript')
 
 module.exports = {
-  title: '',
+  title: 'ECN Technology',
   description: '',
+  logo: '/images/logo.png',
+  footer: '© 1995 - 2019 ECN Pty Ltd.',
   plugins: ['@vuepress/back-to-top'],
   themeConfig: {
-    logo: '/images/logo.png',
     nav: [{
+      text: 'Home',
+      link: '/'
+    },
+    {
       text: 'Knowledge Base',
       items: [{
         text: 'PBX',
