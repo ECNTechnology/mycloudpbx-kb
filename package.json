@@ -4,11 +4,21 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git+https://github.com/ECNTechnology/knowledge-base.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ECNTechnology/knowledge-base/issues"
+  },
+  "private": true,
   "dependencies": {
     "vuepress": "^1.0.0-alpha.47"
   }
