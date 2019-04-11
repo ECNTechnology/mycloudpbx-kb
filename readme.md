@@ -7,8 +7,6 @@ features:
   details: Lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet
 - title: PBX
   details: Lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet
-- title: Email Configuration
-  details: Lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet
+- title: Email Setup Guides
+  details: Our email guides will step you through configuring your ECN email address on all devices.
 ---
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/90312190-ecbf-465e-a6ed-d931dad1292d/deploy-status)](https://app.netlify.com/sites/ecn-kb/deploys)
