@@ -10,3 +10,5 @@ features:
 - title: Email Configuration
   details: Lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet
 ---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/90312190-ecbf-465e-a6ed-d931dad1292d/deploy-status)](https://app.netlify.com/sites/ecn-kb/deploys)
