@@ -1,9 +1,11 @@
 var getChildren = require('./childScript')
 
 module.exports = {
-  title: 'ECN Technology',
+  title: '',
   description: '',
+  plugins: ['@vuepress/back-to-top'],
   themeConfig: {
+    logo: '/images/ecn-tagline.png',
     nav: [{
       text: 'Knowledge Base',
       items: [{
@@ -39,7 +41,6 @@ module.exports = {
         children: getChildren('./guides/pbx/')
       }]
     },
-    displayAllHeaders: true,
     activeHeaderLinks: true
   },
 };

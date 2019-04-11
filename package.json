@@ -9,11 +9,11 @@
     "docs:build": "vuepress build"
   },
   "repository": {
-  "type": "git",
-  "url": "git+https://github.com/ECNTechnology/knowledge-base.git"
+    "type": "git",
+    "url": "git+https://github.com/ECNTechnology/knowledge-base.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "ECN Technology",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/ECNTechnology/knowledge-base/issues"
@@ -21,5 +21,8 @@
   "private": true,
   "dependencies": {
     "vuepress": "^1.0.0-alpha.47"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47"
   }
 }

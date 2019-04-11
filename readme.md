@@ -1,7 +1,8 @@
 ---
 home: true
-heroText:
+heroText: 
 heroImage: /images/ecn-tagline.png
+tagline: Knowledge Base
 features:
 - title: Business SIP
   details: Lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet
