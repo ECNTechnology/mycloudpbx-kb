@@ -6,15 +6,6 @@ publish_mode: editorial_workflow
 media_folder: "/.vuepress/public/images"
 public_folder: "/images"
 collections:
-  - name: "readme" # Used in routes, e.g., /admin/collections/blog
-    label: "Home" # Used in the UI
-    folder: "/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pbx" # Used in routes, e.g., /admin/collections/blog
     label: "PBX articles" # Used in the UI
     folder: "/guides/pbx" # The path to the folder where the documents are stored

@@ -1,3 +1,5 @@
+var getChildren = require('./childScript')
+
 module.exports = {
   title: 'ECN Technology',
   description: '',
@@ -23,5 +25,21 @@ module.exports = {
       link: 'https://www.ecn.net.au/Contact/'
     },
     ],
+    sidebar: {
+      '/docs/email/': [{
+        title: 'Email',
+        children: getChildren('./docs/email/')
+      }],
+      '/docs/business-sip/': [{
+        title: 'Business SIP',
+        children: getChildren('./docs/business-sip/')
+      }],
+      '/docs/pbx/': [{
+        title: 'PBX',
+        children: getChildren('./docs/pbx/')
+      }]
+    },
+    displayAllHeaders: true,
+    activeHeaderLinks: true
   },
 };
