@@ -26,17 +26,17 @@ module.exports = {
     },
     ],
     sidebar: {
-      '/docs/email/': [{
+      '/guides/email/': [{
         title: 'Email',
-        children: getChildren('./docs/email/')
+        children: getChildren('./guides/email/')
       }],
-      '/docs/business-sip/': [{
+      '/guides/business-sip/': [{
         title: 'Business SIP',
-        children: getChildren('./docs/business-sip/')
+        children: getChildren('./guides/business-sip/')
       }],
-      '/docs/pbx/': [{
+      '/guides/pbx/': [{
         title: 'PBX',
-        children: getChildren('./docs/pbx/')
+        children: getChildren('./guides/pbx/')
       }]
     },
     displayAllHeaders: true,
