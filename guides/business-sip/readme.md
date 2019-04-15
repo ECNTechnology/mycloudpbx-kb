@@ -100,4 +100,4 @@ On this screen you will be prompted to configure the following:
 
 This is where you'll configure what happens if the call is not answered.
 
-- ** Divert When:** Divert options include: **_Never_**, **_On New Answer_**, **_All Calls_**, and **_All Devices Offline_**.
+- ** Divert When:** Divert options include: **_Never_**, **_On New Answer_**, **_All Calls_**, and **_All Devices Offline_**. 
