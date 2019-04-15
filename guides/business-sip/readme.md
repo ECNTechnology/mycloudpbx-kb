@@ -115,6 +115,6 @@ On this screen you will be prompted to configure the following:
 
 - Send to external number.
 
-**Voicemail**
+### **Voicemail**
 
 Voicemail messages can be retrieved by dialling **777** from your handset, or if enabled voicemail will be emailed to an address of your choice.**
