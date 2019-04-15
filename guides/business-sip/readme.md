@@ -172,3 +172,25 @@ Here you will be able to configure the call routing for individual numbers. You 
 For more information on an existing number, click '**Edit**' or click **'Add New Number**' to create a new one.
 
 ![trunk mode number configuration](/images/business_sip_trunk_number_configuration2.png)
+
+On this screen you will be prompted to configure the following:
+
+**SIP Device Settings**
+
+- **Phone Number:** This is the inbound number to be configured.
+
+- **SIP Device:** This is the endpoint to receive the inbound call.
+
+**Divert When**
+
+- **Never** - No diversion enabled.
+
+-  **No Answer** - Calls will be diverted to the number specified if the call is not answered after 60 seconds.
+
+- **All Calls** - All calls will be diverted to the number specified.
+
+- **All Devices Offline** - If your 'endpoint' is offline the call will be diverted.
+
+::: tip HINT:
+When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue.
+:::
