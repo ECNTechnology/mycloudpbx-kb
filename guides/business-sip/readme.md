@@ -20,5 +20,3 @@ Once logged in, click '**My Services**' and select your Business SIP service fro
 There are a few fundamental differences between **Direct Mode** and **Trunk Mode**.
 
 
-
-
