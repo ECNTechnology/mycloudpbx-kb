@@ -4,7 +4,7 @@ date: 2019-04-15T04:56:03.485Z
 ---
 # Logging into the management portal
 
-To log into the [**Management Portal**](https://my.ecn.net.au) head to https://my.ecn.net.au and enter your Username & Password.
+To log into the [**Management Portal**](https://my.ecn.net.au) head to <https://my.ecn.net.au> and enter your Username & Password.
 
 Note that you can click '**Register**' on the right hand side if you do not already have an account and you can recover your password with the '**Having trouble signing in**' button.
 
