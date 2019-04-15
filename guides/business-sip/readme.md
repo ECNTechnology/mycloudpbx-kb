@@ -21,4 +21,6 @@ There are a few fundamental differences between **Direct Mode** and **Trunk Mode
 
 **Direct Mode** is designed for a **_single endpoint_** such as an Analog Telephone Adapter (*ATA*) or an IP Phone.
 
-**Trunk Mode** is designed for 
+**Trunk Mode** is designed to be used with a PBX system, either hardware based such as an NEC SL1100 or a software based solution, such as FusionPBX.
+
+
