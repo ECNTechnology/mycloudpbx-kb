@@ -78,3 +78,4 @@ On this screen you will be prompted to configure the following:
 
 When you have finished making changes, click '**_Save_**'.
 
+###Phone Number Configuration
