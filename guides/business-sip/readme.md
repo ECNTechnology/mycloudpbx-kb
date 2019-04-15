@@ -115,7 +115,7 @@ On this screen you will be prompted to configure the following:
 
 - Send to external number.
 
-### **Voicemail**
+**Voicemail**
 
 Voicemail messages can be retrieved by dialling **777** from your handset, or if enabled voicemail will be emailed to an address of your choice.**
 
@@ -126,4 +126,3 @@ Set your '**_Voicemail PIN_**'
 You can also configure your voicemail to go to your email address by ticking the '**_Send messages to my mailbox_**' option and adding your email address in the field below.
 
 Click '**_Save_**' to apply your changes.
- 
