@@ -1,7 +1,7 @@
 const getChildren = require('./childScript')
 
 module.exports = {
-  title: '',
+  title: 'ECN Technology  |  Knowledge Base',
   description: '',
   plugins: ['@vuepress/back-to-top'],
   head: [
