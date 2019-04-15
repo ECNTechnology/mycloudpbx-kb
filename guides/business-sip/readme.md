@@ -47,9 +47,11 @@ Choose **Direct Mode** for a single endpoint solution, or **Trunk Mode** if you 
 Direct mode has a lot of features built in for your convenience and you can see a lot of information from the direct mode configuration page.
 
 ### SIP Devices
+
 Here you will be able to **_Add_**, **_Edit_** and **_Delete_** SIP devices from your configuration.
 
 These are your individual endpoints. (ATA's or IP Phones).
 
 
-![direct mode configuration page](/images/business_sip_direct_mode1.png)
+
+![sip devices configuration section](/images/business_sip_direct_sip_devices.png)
