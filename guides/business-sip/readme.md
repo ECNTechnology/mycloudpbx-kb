@@ -140,6 +140,6 @@ From this screen you can see the current _**Auth ID**_ (_This is the "username" 
 
 You cannot see the _**Password**_ for security reasons, however you can click the '_**Reset**_' button to reset a forgotten password.
 
-\----
+----
 
 Select '_**Add New Device**_' to add a new endpoint, or click '**Edit**' to modify existing.
