@@ -115,11 +115,11 @@ On this screen you will be prompted to configure the following:
 
 - Send to external number.
 
-**Voicemail**
+### **Voicemail**
 
 Voicemail messages can be retrieved by dialling **777** from your handset, or if enabled voicemail will be emailed to an address of your choice.**
 
-Select '**_Send To Voicemail_**' from the divert options to enable voicemail.
+From the ['Phone Number Configuration' page](#phone-number-configuration) page, select '**_Send To Voicemail_**' from the divert options to enable voicemail.
 
 Set your '**_Voicemail PIN_**' 
 
