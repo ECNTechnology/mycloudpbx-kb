@@ -27,4 +27,10 @@ There are a few fundamental differences between **Direct Mode** and **Trunk Mode
 
 ## Initial Setup
 
-When you log into the [**ECN Portal**](https://my.ecn.net.au)
+When you log into the [**ECN Portal**](https://my.ecn.net.au) you will need to configure your _Region_ and _Operating Mode_.
+
+### Region & Operating Mode
+
+Choose the region that has closest represents your location.
+
+```**HINT:** ping each server to find the one with the best response time!```
