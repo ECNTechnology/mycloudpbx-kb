@@ -20,6 +20,7 @@ There are a few fundamental differences between **Direct Mode** and **Trunk Mode
 **Direct Mode** is designed for a **_single endpoint_** such as an Analog Telephone Adapter (_ATA_) or an IP Phone.
 
 **Trunk Mode** is designed to be used with a PBX system, either hardware based such as an NEC SL1100 or a software based solution, such as FusionPBX.
+With trunk mode, you will handle options such as voicemail and other intelligent routing on your PBX system.
 
 `If you are unsure which option to select, call 1300 790 111 to talk to one of our friendly staff.`
 
@@ -94,27 +95,10 @@ On this screen you will be prompted to configure the following:
 **SIP Device Settings**
 
 - **Phone Number:** This is the **_inbound number_** to be configured.
-- **SIP Device:** This is the **_Endpoint Name_** to receive the inbound call.
-
-::: tip HINT!
-Select multiple SIP Devices to ring on multiple devices at once
-:::
+- **SIP Device:** This is the **_Endpoint** to receive the inbound call.
 
 **Divert Settings**
 
 This is where you'll configure what happens if the call is not answered.
 
-**Divert When**
-- Never.
-- No Answer - Calls will be diverted if not answered after 60 seconds.
-- All Calls - All calls will be diverted.
-- All Devices Offline - If your '**_endpoint_**' is offline the call will be diverted.
-
-**Divert Option**
-- Send to voicemail.
-- Send to external number.
-
-----
-**Voicemail**
-
-Voicemail messages can be retrieved by dialling **777** from your handset, or if enabled voicemail will be emailed to an address of your choice.
+- ** Divert When:** Divert options include: **_Never_**, **_On New Answer_**, **_All Calls_**, and **_All Devices Offline_**. 
