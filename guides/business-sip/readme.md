@@ -10,7 +10,6 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 ![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
 
- 
 
 Once logged in, click '**My Services**' and select your Business SIP service from under the '**Voice**' menu.
 
@@ -32,6 +31,8 @@ When you log into the [**ECN Portal**](https://my.ecn.net.au) you will need to c
 ### Region & Operating Mode
 
 Choose the region that has closest represents your location.
+
+```**HINT:** ping each server to find the one with the best response time!```
 
 ::: tip HINT:
 Ping each server to find the one with the best response time!
