@@ -42,7 +42,7 @@ Ping each server to find the one with the best response time!
 
 Choose **Direct Mode** for a single endpoint solution, or **Trunk Mode** if you have your own PBX infrastructure.
 
-## Configure Direct Mode
+## Configuring Direct Mode
 
 Direct mode has a lot of features built in for your convenience and you can see a lot of information from the direct mode configuration page.
 
