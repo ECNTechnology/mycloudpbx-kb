@@ -119,9 +119,9 @@ On this screen you will be prompted to configure the following:
 
 Voicemail messages can be retrieved by dialling **777** from your handset, or if enabled voicemail will be emailed to an address of your choice.**
 
-From the ['Phone Number Configuration'](#phone-number-configuration) page, select '**_Send To Voicemail_**' from the divert options to enable voicemail.
+From the ['Phone Number Configuration'](#phone-number-configuration) screen, select '**_Send To Voicemail_**' from the divert options to enable voicemail.
 
-Set your '**_Voicemail PIN_**' 
+Set your '**_Voicemail PIN_**' - You will need this PIN when you need to access voicemail.
 
 You can also configure your voicemail to go to your email address by ticking the '**_Send messages to my mailbox_**' option and adding your email address in the field below.
 
