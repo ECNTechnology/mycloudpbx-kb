@@ -10,7 +10,6 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 ![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
 
- 
 
 Once logged in, click '**My Services**' and select your Business SIP service from under the '**Voice**' menu.
 
@@ -29,10 +28,15 @@ There are a few fundamental differences between **Direct Mode** and **Trunk Mode
 
 When you log into the [**ECN Portal**](https://my.ecn.net.au) you will need to configure your _Region_ and _Operating Mode_.
 
-### Region & Operating Mode
-
-Choose the region that has closest represents your location.
+### SIP Server
+Choose the SIP Server that has closest represents your location.
 
 ::: tip HINT:
 Ping each server to find the one with the best response time!
 :::
+
+### Operating Mode
+Choose **Direct Mode** for a single endpoint solution, or **Trunk Mode** if you have your own PBX infrastructure.
+
+
+
