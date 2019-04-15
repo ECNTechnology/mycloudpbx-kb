@@ -44,7 +44,9 @@ Choose **Direct Mode** for a single endpoint solution, or **Trunk Mode** if you 
 
 ## Configuring Direct Mode
 
-Direct mode has a lot of features built in for your convenience and you can see a lot of information from the direct mode configuration page.
+Direct mode has a lot of features built in for your convenience and you can see a lot of information from the direct mode configuration page such as your '**outbound caller ID**', '**divert options**' and '**call strategy**', etc..
+
+![direct mode screen](/images/business_sip_direct_mode1.png)
 
 ### SIP Devices
 
@@ -121,7 +123,5 @@ You can also configure your voicemail to go to your email address by ticking the
 Click '_**Save**_' to apply your changes.
 
 ## Configuring Trunk Mode
-
-
 
 ![trunk mode configuration page](/images/business_sip__trunk_mode.png)
