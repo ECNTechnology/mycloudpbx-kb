@@ -27,9 +27,9 @@ There are a few fundamental differences between **Direct Mode** and **Trunk Mode
 ## Initial Setup
 
 When you log into the [**ECN Portal**](https://my.ecn.net.au) you will need to configure your _Region_ and _Operating Mode_.
-
-**NOTE:** You can also see a list of all numbers associated with the service below.
-
+::: tip
+You can also see a list of all numbers associated with the service below.
+:::
 **_IMAGE GOES HERE ONCE KRUNAL HAS FIXED STAGING...._**
 
 ### SIP Server
