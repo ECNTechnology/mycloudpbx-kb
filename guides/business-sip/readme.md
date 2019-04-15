@@ -81,4 +81,8 @@ When you have finished making changes, click '**_Save_**'.
 
 ### Phone Number Configuration
 
+Here you will be able to configure the call routing for individual numbers. You can **_add_**, **_edit_**, and **_remove_** routing as well as see a quick overview of existing configuration.
+For more information click '**_Edit_**'.
+
 ![phone number configuration screen](/images/business_sip_direct_phone_numbers.png)
+
