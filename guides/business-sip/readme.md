@@ -34,7 +34,7 @@ Image needs to go here ones Business SIP has been updated!.
 
 Choose the SIP Server that has closest represents your location.
 
-::: tip 
+::: tip Pro Tip:
 Ping each server to find the one with the best response time!
 :::
 
@@ -110,7 +110,7 @@ On this screen you will be prompted to configure the following:
 * Send to voicemail.
 * Send to external number.
 
-::: tip 
+::: tip Pro Tip:
 When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue.
 :::
 
@@ -191,6 +191,6 @@ On this screen you will be prompted to configure the following:
 * All Calls - All calls will be diverted to the number specified.
 * All Devices Offline - If your 'endpoint' is offline the call will be diverted.
 
-::: tip 
+::: tip Pro Tip:
 When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue.
 :::
