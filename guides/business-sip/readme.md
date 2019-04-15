@@ -2,7 +2,6 @@
 title: Business SIP
 date: 2019-04-15T04:56:03.485Z
 ---
-![number configuration page](/images/business_sip_direct_number_configuration.png)
 
 ## Logging into the management portal
 
@@ -27,10 +26,9 @@ There are a few fundamental differences between **Direct Mode** and **Trunk Mode
 ## Initial Setup
 
 When you log into the [**ECN Portal**](https://my.ecn.net.au) you will need to configure your _Region_ and _Operating Mode_.
-::: tip
-You can also see a list of all numbers associated with the service below.
+::: warning KRUNAL
+Image needs to go here ones Business SIP has been updated!.
 :::
-**_IMAGE GOES HERE ONCE KRUNAL HAS FIXED STAGING...._**
 
 ### SIP Server
 
@@ -89,4 +87,17 @@ Here you will be able to configure the call routing for individual numbers. You 
 
 For more information on an existing number, click '**_Edit_**' or click '**Add New Number**' to create a new one.
 
-![number configuration page](/images/business_sip_direct_number_configuration.png)
+![number configuration page](/images/business_sip_direct_number_configuration2.png)
+
+On this screen you will be prompted to configure the following:
+
+**SIP Device Settings**
+
+- **Phone Number:** This is the **_inbound number_** to be configured.
+- **SIP Device:** This is the **_Endpoint Name_** to receive the inbound call.
+
+**Divert Settings**
+
+This is where you'll configure what happens if the call is not answered.
+
+- ** Divert When:** 
