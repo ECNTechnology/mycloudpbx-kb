@@ -19,4 +19,6 @@ Once logged in, click '**My Services**' and select your Business SIP service fro
 
 There are a few fundamental differences between **Direct Mode** and **Trunk Mode**.
 
+**Direct Mode** is designed for a **_single endpoint_** such as an Analog Telephone Adapter (*ATA*) or an IP Phone.
 
+**Trunk Mode** is designed for 
