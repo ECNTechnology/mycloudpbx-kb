@@ -100,7 +100,7 @@ On this screen you will be prompted to configure the following:
 Select multiple SIP Devices to ring on multiple devices at once
 :::
 
-**Divert Settings**
+#### Divert Settings**
 
 This is where you'll configure what happens if the call is not answered.
 
