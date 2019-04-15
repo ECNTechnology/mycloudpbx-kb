@@ -126,3 +126,7 @@ Set your '**_Voicemail PIN_**' - You will need this PIN when you need to access 
 You can also configure your voicemail to go to your email address by ticking the '**_Send messages to my mailbox_**' option and adding your email address in the field below.
 
 Click '**_Save_**' to apply your changes.
+
+
+## Configuring Trunk Mode
+
