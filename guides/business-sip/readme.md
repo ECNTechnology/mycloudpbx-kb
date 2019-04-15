@@ -2,6 +2,8 @@
 title: Business SIP
 date: 2019-04-15T04:56:03.485Z
 ---
+![number configuration page](/images/business_sip_direct_number_configuration.png)
+
 ## Logging into the management portal
 
 To log into the [**Management Portal**](https://my.ecn.net.au) head to https://my.ecn.net.au and enter your Username & Password.
@@ -83,8 +85,8 @@ When you have finished making changes, click '**_Save_**'.
 
 Here you will be able to configure the call routing for individual numbers. You can **_add_**, **_edit_**, and **_remove_** routing as well as see a quick overview of existing configuration.
 
-
 ![phone number configuration screen](/images/business_sip_direct_phone_numbers.png)
 
-For more information click '**_Edit_**'.
+For more information on an existing number, click '**_Edit_**' or click '**Add New Number**' to create a new one.
 
+![number configuration page](/images/business_sip_direct_number_configuration.png)
