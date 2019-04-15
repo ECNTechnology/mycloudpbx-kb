@@ -16,7 +16,7 @@ Once logged in, click '**My Services**' and select your Business SIP service fro
 
 There are a few fundamental differences between **Direct Mode** and **Trunk Mode**.
 
-**Direct Mode** is designed for a _**single endpoint**_ such as an Analog Telephone Adapter (_ATA_) or an IP Phone.
+**Direct Mode** is designed for a **_single endpoint_** such as an Analog Telephone Adapter (_ATA_) or an IP Phone.
 
 **Trunk Mode** is designed to be used with a PBX system, either hardware based such as an NEC SL1100 or a software based solution, such as FusionPBX.
 
@@ -28,7 +28,7 @@ When you log into the [**ECN Portal**](https://my.ecn.net.au) you will need to c
 ::: tip
 You can also see a list of all numbers associated with the service below.
 :::
-_**IMAGE GOES HERE ONCE KRUNAL HAS FIXED STAGING....**_
+**_IMAGE GOES HERE ONCE KRUNAL HAS FIXED STAGING...._**
 
 ### SIP Server
 
@@ -48,12 +48,33 @@ Direct mode has a lot of features built in for your convenience and you can see 
 
 ### SIP Devices
 
-Here you will be able to _**Add**_, _**Edit**_ and _**Delete**_ SIP devices from your configuration.
+Here you will be able to **_Add_**, **_Edit_** and **_Delete_** SIP devices from your configuration.
 
 These are your individual endpoints. (ATA's or IP Phones).
 
 ![sip devices configuration section](/images/business_sip_direct_sip_devices.png)
 
-From this screen you can see the currently **_Auth ID_** (_This is the "username" for the service_)
+From this screen you can see the currently _**Auth ID**_ (_This is the "username" for the service_)
 
-You cannot see the **_Password_** for security reasons, however you can click the '**_Reset_**' button to reset a forgotten password.
+You cannot see the _**Password**_ for security reasons, however you can click the '_**Reset**_' button to reset a forgotten password.
+
+----
+
+
+Select '_**Add New Device**_' to add a new endpoint.
+
+![adding new endpoint](/images/business_sip_direct_new_device.png)
+
+On this screen you will be prompted to configure the following:
+
+**SIP Device Settings**
+- **Device Name:** This is for your reference.
+- **Authentication ID:** This is the '**_username_**' for the service.
+- **Password:** This is the **ONLY** time your password will be visible to you, please pay attention here.
+- **Default Outbound Caller ID:** This is the outbound caller ID that will be used unless otherwise specified by your endpoint.
+
+**Enabled Call Types**
+- Here you will choose the types of calls that are allowed. Local, National, Mobile, etc..
+
+When you have finished making changes, click '**_Save_**'.
+
