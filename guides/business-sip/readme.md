@@ -2,7 +2,6 @@
 title: Business SIP
 date: 2019-04-15T04:56:03.485Z
 ---
-![number configuration page](/images/business_sip_direct_number_configuration.png)
 
 ## Logging into the management portal
 
