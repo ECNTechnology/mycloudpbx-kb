@@ -95,7 +95,7 @@ On this screen you will be prompted to configure the following:
 **SIP Device Settings**
 
 - **Phone Number:** This is the **_inbound number_** to be configured.
-- **SIP Device:** This is the **_Endpoint** to receive the inbound call.
+- **SIP Device:** This is the **_Endpoint_** to receive the inbound call.
 
 **Divert Settings**
 
