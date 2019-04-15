@@ -183,16 +183,14 @@ On this screen you will be prompted to configure the following:
 
 **Divert When**
 
-- **Never**.
+- **Never** - No diversion enabled.
 
--  **No Answer** - Calls will be diverted if not answered after 60 seconds.
+-  **No Answer** - Calls will be diverted to the number specified if the call is not answered after 60 seconds.
 
-- **All Calls** - All calls will be diverted.
+- **All Calls** - All calls will be diverted to the number specified.
 
 - **All Devices Offline** - If your 'endpoint' is offline the call will be diverted.
 
-**Divert Option**
-
-- Send to voicemail.
-
-- Send to external number.
+::: tip HINT:
+When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue.
+:::
