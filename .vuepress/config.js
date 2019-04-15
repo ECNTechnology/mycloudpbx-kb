@@ -5,7 +5,7 @@ module.exports = {
   description: '',
   plugins: ['@vuepress/back-to-top'],
   head: [
-    ['link', { rel: 'icon', href: '/favicon.png' }]
+    ['link', { rel: 'icon', href: '/images/favicon.png' }]
   ],
   themeConfig: {
     logo: '/images/logo.png',
