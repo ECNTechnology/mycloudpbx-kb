@@ -4,6 +4,9 @@ module.exports = {
   title: '',
   description: '',
   plugins: ['@vuepress/back-to-top'],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.png' }]
+  ],
   themeConfig: {
     logo: '/images/logo.png',
     nav: [{
