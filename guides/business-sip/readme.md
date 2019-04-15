@@ -16,7 +16,7 @@ Once logged in, click '**My Services**' and select your Business SIP service fro
 
 There are a few fundamental differences between **Direct Mode** and **Trunk Mode**.
 
-**Direct Mode** is designed for a **_single endpoint_** such as an Analog Telephone Adapter (_ATA_) or an IP Phone.
+**Direct Mode** is designed for a _**single endpoint**_ such as an Analog Telephone Adapter (_ATA_) or an IP Phone.
 
 **Trunk Mode** is designed to be used with a PBX system, either hardware based such as an NEC SL1100 or a software based solution, such as FusionPBX.
 
@@ -28,7 +28,7 @@ When you log into the [**ECN Portal**](https://my.ecn.net.au) you will need to c
 ::: tip
 You can also see a list of all numbers associated with the service below.
 :::
-**_IMAGE GOES HERE ONCE KRUNAL HAS FIXED STAGING...._**
+_**IMAGE GOES HERE ONCE KRUNAL HAS FIXED STAGING....**_
 
 ### SIP Server
 
@@ -47,9 +47,9 @@ Choose **Direct Mode** for a single endpoint solution, or **Trunk Mode** if you 
 Direct mode has a lot of features built in for your convenience and you can see a lot of information from the direct mode configuration page.
 
 ### SIP Devices
-Here you will be able to **_Add_**, **_Edit_** and **_Delete_** SIP devices from your configuration.
+
+Here you will be able to _**Add**_, _**Edit**_ and _**Delete**_ SIP devices from your configuration.
 
 These are your individual endpoints. (ATA's or IP Phones).
 
-
-![direct mode configuration page](/images/business_sip_direct_mode1.png)
+![sip devices configuration section](/images/business_sip_direct_sip_devices.png)
