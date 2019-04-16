@@ -2,12 +2,16 @@
 title: Email Setup Guides
 date: 2019-04-16T09:15:16.967Z
 ---
+# Email Setup Guides
+
+Use the menu on the left hand side of the screen to select the user guide for your device.
+
 ![webnow logo](/images/webnowlogo.png "## Webnow Logo")
 
 ## Guides for WebNow accounts
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
-You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for the most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
 - - -
 
@@ -51,7 +55,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 ## Guides for ecn.net.au accounts
 
-You will find setup instructions for your **_@ecn.net.au_** account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
 - - -
 
@@ -73,7 +77,7 @@ You will find setup instructions for your **_@ecn.net.au_** account for most com
 
 ### General Settings
 
-Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
+Advanced users will be able to configure their **_@ecn.net.au_** email account using the following settings:
 
 **Login Credentials**
 
@@ -97,15 +101,9 @@ Advanced users will be able to configure their _**@ecn.net.au**_ email account u
 
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
 
-### Password Recovery
----
-
-Self Password Recovery can be enabled for your account upon request. This will allow you to reset your password in the event you forget your password without contacting ECN.
-
+- - -
 
 ### Mac - Outlook 365
-
-- - -
 
 The following guide will walk you through configuring your Office 365 email on Outlook 365 for Mac.
 
@@ -113,7 +111,7 @@ When you first open Outlook 365 for Mac, you will be prompted to add a new accou
 
 ![office 365 for outlook step 1](/images/365-outlook-office365-image1.png)
 
-Enter your _**email address**_ and click _**Continue**_.
+Enter your **_email address_** and click **_Continue_**.
 
 ![office 365 password prompt](/images/365-outlook-office365-image2.png)
 
@@ -124,6 +122,8 @@ At the prompt, enter your **password** and click **Sign in**.
 If prompted for a security code, type in your code then click **Verify**.
 
 ![email setup complete image](/images/365-outlook-office365-image4.png)
+
+
 
 Your email has now been configured successfully. If you would like to add another account, click **Add Another Account.**
 
