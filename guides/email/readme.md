@@ -43,7 +43,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 
 
-You will find setup instructions for your \*\*\_@ecn.net.au\_\*\* account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for your **_@ecn.net.au_** account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
 
 ### Mac - Outlook 365
 
