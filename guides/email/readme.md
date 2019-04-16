@@ -3,7 +3,7 @@ title: Email Setup Guides
 date: 2019-04-16T09:15:16.967Z
 ---
 
-**ECN Setup Guides**
+
 
 Use the menu on the left hand side of the screen to select the user guide for your device.
 
