@@ -1,16 +1,19 @@
 ---
 title: Email Setup Guides
-date: 2019-04-16T09:14:32.236Z
+date: 2019-04-16T09:15:16.967Z
 ---
 
 # Contents
 [[toc]]
 
-## sub item
+## Guides for WebNow accounts
 
-test
+Guides for WebNow accounts coming soon
 
-## sub item 2
+## Guides for ecn.net.au accounts
 
-### sub - sub item
-test
+Guides for @ecn.net.au accounts coming soon
+
+## Guides for Office 365 accounts
+
+Guides for Office 365 accounts coming soon
