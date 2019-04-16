@@ -107,6 +107,8 @@ When you first open Outlook 365 for Mac, you will be prompted to add a new accou
 
 ![office 365 for outlook step 1](/images/365-outlook-office365-image1.png)
 
+Enter your **_email address_** and click **_Continue_**.
+
 
 
 - - -
