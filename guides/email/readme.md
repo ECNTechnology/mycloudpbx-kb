@@ -4,7 +4,7 @@ date: 2019-04-16T09:15:16.967Z
 ---
 ## Guides for WebNow accounts
 
-![webnow logo](/images/webnowwebsiteslogo.png)
+![webnow logo](/images/webnowlogo.png)
 
 Guides for WebNow accounts coming soon
 
