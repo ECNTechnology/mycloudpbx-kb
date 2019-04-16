@@ -18,7 +18,7 @@ You will find setup instructions for the most common devices below, or if you ar
 ### Android
 ----
 ### General Settings
-
+----
 Advanced users will be able to configure their WebNow email account using the following settings:
 
 **Login Credentials**
@@ -53,7 +53,7 @@ You will find setup instructions for your **_@ecn.net.au_** account for most com
 ### Android
 ----
 ### General Settings
-
+----
 Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
 
 **Login Credentials**
@@ -87,3 +87,4 @@ The following guides contain the steps needed to configure your Office 365 Email
 ### iPhone
 ----
 ### Android
+----
