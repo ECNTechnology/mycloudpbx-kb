@@ -30,6 +30,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 * **Incoming Mail Server:** mail.webconnect.com.au
 * **Incoming Mail Server Port (IMAP):** 143 with TLS encryption
+* **Incoming Mail Server Port (POP):** 110 
 
 **Outgoing Mail Server Settings**
 
