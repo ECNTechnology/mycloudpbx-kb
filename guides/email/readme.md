@@ -41,10 +41,30 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 ![](/images/ecnemaillogo.png)
 
-Guides for @ecn.net.au accounts coming soon..
+
+
+You will find setup instructions for your \*\*\_@ecn.net.au\_\*\* account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+
+### Mac - Outlook 365
+
+### Windows - Outlook 2019
+
+### iPhone
+
+### Android
+
+### General Settings
 
 ## Guides for Office 365 accounts
 
 ![office 365 email logo](/images/office365logo.png)
 
-Guides for Office 365 accounts coming soon..
+The following guides contain the steps needed to configure your Office 365 Email account on your devices.
+
+### Mac - Outlook 365
+
+### Windows - Outlook 2019
+
+### iPhone
+
+### Android
