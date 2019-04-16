@@ -7,7 +7,7 @@ date: 2019-04-16T09:15:16.967Z
 ![webnow logo](/images/webnowlogo.png "## Webnow Logo")
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
-You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for the most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
 ### Mac - Outlook 365
 
@@ -41,10 +41,10 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 ![](/images/ecnemaillogo.png)
 
-Guides for @ecn.net.au accounts coming soon..
+The following guides contain the steps needed to configure your @ecn.net.au POP / IMAP account on your devices.
 
 ## Guides for Office 365 accounts
 
 ![office 365 email logo](/images/office365logo.png)
 
-Guides for Office 365 accounts coming soon..
+The following guides contain the steps needed to configure your Office 365 Email account on your devices.
