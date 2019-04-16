@@ -8,6 +8,7 @@ date: 2019-04-16T09:15:16.967Z
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
 You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+
 ----
 ### Mac - Outlook 365
 ----
