@@ -39,6 +39,8 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 ## Guides for ecn.net.au accounts
 
+![](/images/ecnemaillogo.png)
+
 Guides for @ecn.net.au accounts coming soon..
 
 ## Guides for Office 365 accounts
