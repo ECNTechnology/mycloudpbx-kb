@@ -38,7 +38,6 @@ Advanced users will be able to configure their WebNow email account using the fo
 * **Outgoing Mail Server Port (SMTP):** 587 with TLS encryption
 
 ![](/images/ecnemaillogo.png)
-
 ## Guides for ecn.net.au accounts
 
 You will find setup instructions for your \*\*\_@ecn.net.au\_\*\* account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
