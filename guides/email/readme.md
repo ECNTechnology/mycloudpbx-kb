@@ -2,11 +2,11 @@
 title: Email Setup Guides
 date: 2019-04-16T09:15:16.967Z
 ---
-## Email Setup Guides
+
 
 Use the menu on the left hand side of the screen to select the user guide for your device.
 
-## ECN Portal Access
+# ECN Portal Access
 
 Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
@@ -14,7 +14,7 @@ Use the ECN Portal to setup your individual emails, set passwords, configure ema
 more information to come soon..
 :::
 
-## Guides for WebNow accounts
+# Guides for WebNow accounts
 
 
 ![webnow logo](/images/webnowlogo.png "## Webnow Logo")
@@ -25,23 +25,23 @@ You will find setup instructions for the most common devices below, or if you ar
 
 - - -
 
-### Mac - Outlook 365
+## Mac - Outlook 365
 
 - - -
 
-### Windows - Outlook 2019
+## Windows - Outlook 2019
 
 - - -
 
-### iPhone
+## iPhone
 
 - - -
 
-### Android
+## Android
 
 - - -
 
-### General Settings
+## General Settings
 
 Advanced users will be able to configure their WebNow email account using the following settings:
 
@@ -61,7 +61,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 * **Outgoing Mail Server:** mail.webconnect.com.au
 * **Outgoing Mail Server Port (SMTP):** 587 with TLS encryption
 
-## Guides for ecn.net.au accounts
+# Guides for ecn.net.au accounts
 
 ![](/images/ecnemaillogo.png)
 
@@ -71,23 +71,23 @@ You will find setup instructions for your **_@ecn.net.au_** account for most com
 
 - - -
 
-### Mac - Outlook 365
+## Mac - Outlook 365
 
 - - -
 
-### Windows - Outlook 2019
+## Windows - Outlook 2019
 
 - - -
 
-### iPhone
+## iPhone
 
 - - -
 
-### Android
+## Android
 
 - - -
 
-### General Settings
+## General Settings
 
 Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
 
@@ -107,20 +107,20 @@ Advanced users will be able to configure their _**@ecn.net.au**_ email account u
 * **Outgoing Mail Server:** mail.ecn.net.au
 * **Outgoing Mail Server Port (SMTP):** 25 OR 465 with TLS
 
-## Guides for Office 365 accounts
+# Guides for Office 365 accounts
 
 ![office 365 email logo](/images/office365logo.png)
 
 
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
 
-### Password Recovery
+## Password Recovery
 ---
 
 Self Password Recovery can be enabled for your account upon request. This will allow you to reset your password in the event you forget your password without contacting ECN.
 
 
-### Mac - Outlook 365
+## Mac - Outlook 365
 
 - - -
 
@@ -146,12 +146,12 @@ Your email has now been configured successfully. If you would like to add anothe
 
 Click **Done** if you are finished.
 
-### Windows - Outlook 2019
+## Windows - Outlook 2019
 
 - - -
 
-### iPhone
+## iPhone
 
 - - -
 
-### Android
+## Android
