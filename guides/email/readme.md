@@ -21,7 +21,17 @@ You will find setup instructions for the most common devices below, or if you ar
 
 Advanced users will be able to configure their WebNow email account using the following settings:
 
+**Login Credentials**
 
+* **Username:** Your _mailbox ID_
+* **Password:** Your _Password_
+
+**Server Settings**
+
+* **Incoming Mail Server:** mail.webconnect.com.au
+* **Incoming Mail Server Port (IMAP):** 143 with TLS encryption
+* **Outgoing Mail Server:** mail.webconnect.com.au
+* **Outgoing Mail Server Port (SMTP):** 587 with TLS encryption
 
 ## Guides for ecn.net.au accounts
 
