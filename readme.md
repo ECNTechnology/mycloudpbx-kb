@@ -21,4 +21,20 @@ tagline: Knowledge Base
     <p>Our email guides will step you through configuring your ECN email address on all devices.</p>
     <router-link to="/guides/email">Read more</router-link>
   </div>
+  <div class="feature">
+    <h2>Internet</h2>
+    <p>Lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet</p>
+    <router-link to="/guides/internet">Read more</router-link>
+  </div>
 </div>
+
+<style scoped>
+
+.home .feature {
+    flex-grow: 1;
+    flex-basis: 21%;
+    max-width: 30%;
+    margin: 15px;
+}
+
+  </style>

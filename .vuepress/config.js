@@ -26,6 +26,10 @@ module.exports = {
       {
         text: 'Email',
         link: '/guides/email/'
+      },
+      {
+        text: 'Internet',
+        link: '/guides/internet/'
       }
       ]
     },
@@ -46,6 +50,10 @@ module.exports = {
       '/guides/pbx/': [{
         title: 'PBX',
         children: getChildren('./guides/pbx/')
+      }],
+      '/guides/internet/': [{
+        title: 'Internet',
+        children: getChildren('./guides/internet/')
       }]
     },
     activeHeaderLinks: true,
