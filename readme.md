@@ -31,10 +31,15 @@ tagline: Knowledge Base
 <style scoped>
 
 .home .feature {
-    flex-grow: 1;
-    flex-basis: 21%;
-    max-width: 30%;
-    margin: 15px;
+  flex-grow: 1;
+  flex-basis: 21%;
+  max-width: 100%;
+  margin: 15px;
 }
 
-  </style>
+.content:not(.custom),
+.page-edit, .page-nav{
+    max-width: 100%!important;
+}
+
+</style>
