@@ -16,8 +16,7 @@ more information to come soon..
 
 ## Guides for WebNow accounts
 
-
-![webnow logo](/images/webnowlogo.png "## Webnow Logo")
+<img style="width: 400px; height: auto;" src="/images/webnowlogo.png">
 
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
