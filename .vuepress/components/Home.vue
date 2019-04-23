@@ -1,0 +1,159 @@
+<template>
+
+<div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-sm-12">
+      <img class="home-logo" src="/images/ecn-tagline.png" alt="">
+      <h1 class="home-kb">Knowledge Base</h1>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-sm-12 col-md-4 col-lg-2">
+
+      <router-link to="/guides/business-sip/" class="guide-link">
+        <div class="guide-item">
+          <img src="/images/sip.svg" alt="Business SIP" class="guide-icon">
+          <h2 class="guide-title">Business SIP</h2>
+          <p class="guide-text">Our Business SIP guides will assist you with configuring your Business SIP service.</p>
+        </div>
+      </router-link>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-2">
+      <router-link to="/guides/pbx/" class="guide-link">
+        <div class="guide-item">
+          <img src="/images/pbx.svg" alt="PBX" class="guide-icon">
+
+          <h2 class="guide-title">PBX</h2>
+          <p class="guide-text">Our PBX guides will assist you with configuring the myCloudPBX platform.</p>
+        </div>
+      </router-link>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-2">
+      <router-link to="/guides/internet/" class="guide-link">
+        <div class="guide-item">
+          <img src="/images/internet.svg" alt="Internet" class="guide-icon">
+
+          <h2 class="guide-title">Internet</h2>
+          <p class="guide-text">Our Internet guides will step you through configuring your Internet connection on your modem.</p>
+        </div>
+      </router-link>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-2">
+      <router-link to="/guides/inbound-1300/" class="guide-link">
+        <div class="guide-item">
+          <img src="/images/1300.svg" alt="Inbound 1300" class="guide-icon">
+
+          <h2 class="guide-title">Inbound 1300</h2>
+          <p class="guide-text">Our 1300 guides will assist you with configuring your inbound 1300 number.</p>
+        </div>
+      </router-link>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-2">
+      <router-link to="/guides/email/" class="guide-link">
+        <div class="guide-item">
+          <img src="/images/email.svg" alt="Email" class="guide-icon">
+          <h2 class="guide-title">Email</h2>
+          <p class="guide-text">Our email guides will step you through configuring your ECN email address on all devices.</p>
+        </div>
+      </router-link>
+    </div>
+  </div>
+</div>
+
+</template>
+
+<style scoped>
+
+h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
+  transform: none;
+}
+
+.home-logo{
+  position: relative;
+  margin: 60px auto;
+  display: block;
+  width: 400px;
+}
+
+.home-kb{
+  text-align: center;
+  color: #ccc;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+.guide-item{
+  border: 1px solid #ccc;
+  padding: 15px;
+  transition: 0.3s;
+}
+
+.guide-link{
+  text-decoration: none;
+  color: #444;
+  margin: 30px;
+}
+
+.guide-link:hover .guide-item{
+  border: 1px solid #0395E5;
+  transition: 0.3s;
+}
+.guide-link:hover .guide-icon{
+  transform: rotate(7deg);
+  transition: 0.3s;
+}
+
+.guide-link:hover h2{
+  border-bottom: 1px solid #0395E5;
+  transition: 0.3s;
+}
+
+.guide-icon{
+  width: 60px;
+  position: relative;
+  margin: 30px auto;
+  display: block;
+  transition: 0.3s;
+}
+.guide-title{
+  margin: 15px 0;
+  text-align: center;
+}
+.guide-text{
+  text-align: center;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 767px) {
+  .guide-item{
+    height: auto;
+    min-height: auto;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width: 990px) {
+  .guide-item{
+    min-height: 360px;
+  }
+}
+
+
+@media screen and (min-width:991px) and (max-width: 1130px) {
+  .guide-item{
+    min-height: 470px;
+  }
+}
+
+@media screen and (min-width:1131px) and (max-width:1300px) {
+  .guide-item{
+    min-height: 420px;
+  }
+}
+
+@media screen and (min-width:1301px) {
+  .guide-item{
+    min-height: 360px;
+  }
+}
+
+</style>

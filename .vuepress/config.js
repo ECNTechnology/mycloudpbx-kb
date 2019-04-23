@@ -16,20 +16,24 @@ module.exports = {
     {
       text: 'Knowledge Base',
       items: [{
-        text: 'PBX',
-        link: '/guides/pbx/'
-      },
-      {
         text: 'Business SIP',
         link: '/guides/business-sip/'
       },
       {
-        text: 'Email',
-        link: '/guides/email/'
+        text: 'PBX',
+        link: '/guides/pbx/'
       },
       {
         text: 'Internet',
         link: '/guides/internet/'
+      },
+      {
+        text: 'Inbound 1300',
+        link: '/guides/inbound-1300/'
+      },
+      {
+        text: 'Email',
+        link: '/guides/email/'
       }
       ]
     },
@@ -39,10 +43,6 @@ module.exports = {
     },
     ],
     sidebar: {
-      '/guides/email/': [{
-        title: 'Email',
-        children: getChildren('./guides/email/')
-      }],
       '/guides/business-sip/': [{
         title: 'Business SIP',
         children: getChildren('./guides/business-sip/')
@@ -54,9 +54,18 @@ module.exports = {
       '/guides/internet/': [{
         title: 'Internet',
         children: getChildren('./guides/internet/')
-      }]
+      }],
+      '/guides/inbound-1300/': [{
+        title: 'Inbound 1300',
+        children: getChildren('./guides/inbound-1300/')
+      }],
+      '/guides/email/': [{
+        title: 'Email',
+        children: getChildren('./guides/email/')
+      }],
     },
     activeHeaderLinks: true,
-    sidebarDepth: 2
+    sidebarDepth: 2,
+    lastUpdated: 'Last Updated:', // string | boolean
   },
 };
