@@ -2,8 +2,6 @@
 title: Email Guides
 date: 2019-04-17T09:15:16.967Z
 ---
-
-
 Use the menu on the left hand side of the screen to select the user guide for your device.
 
 ## ECN Portal Access
@@ -18,9 +16,8 @@ more information to come soon..
 
 <img style="width: 400px; height: auto;" src="/images/webnowlogo.png">
 
-
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
-You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for the most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
 - - -
 
@@ -64,9 +61,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 ![](/images/ecnemaillogo.png)
 
-
-
-You will find setup instructions for your **_@ecn.net.au_** account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
 - - -
 
@@ -88,7 +83,7 @@ You will find setup instructions for your **_@ecn.net.au_** account for most com
 
 ### General Settings
 
-Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
+Advanced users will be able to configure their **_@ecn.net.au_** email account using the following settings:
 
 **Login Credentials**
 
@@ -110,14 +105,13 @@ Advanced users will be able to configure their _**@ecn.net.au**_ email account u
 
 ![office 365 email logo](/images/office365logo.png)
 
-
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
 
 ### Password Recovery
----
+
+- - -
 
 Self Password Recovery can be enabled for your account upon request. This will allow you to reset your password in the event you forget your password without contacting ECN.
-
 
 ### Mac - Outlook 365
 
@@ -129,7 +123,7 @@ When you first open Outlook 365 for Mac, you will be prompted to add a new accou
 
 ![office 365 for outlook step 1](/images/365-outlook-office365-image1.png)
 
-Enter your _**email address**_ and click _**Continue**_.
+Enter your **_email address_** and click **_Continue_**.
 
 ![office 365 password prompt](/images/365-outlook-office365-image2.png)
 
@@ -154,3 +148,6 @@ Click **Done** if you are finished.
 - - -
 
 ### Android
+
+
+<img style="width: 400px; height: auto;" src="/images/office365logo.png">
