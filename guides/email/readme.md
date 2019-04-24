@@ -148,6 +148,3 @@ Click **Done** if you are finished.
 - - -
 
 ### Android
-
-
-<img style="width: 400px; height: auto;" src="/images/office365logo.png">
