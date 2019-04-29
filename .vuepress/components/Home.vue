@@ -12,7 +12,7 @@
 
       <router-link to="/guides/business-sip/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/sip.svg" alt="Business SIP" class="guide-icon">
+          <img src="/images/business-sip.png" alt="Business SIP" class="guide-icon">
           <h2 class="guide-title">Business SIP</h2>
           <p class="guide-text">Our Business SIP guides will assist you with configuring your Business SIP service.</p>
         </div>
@@ -21,7 +21,7 @@
     <div class="col-sm-12 col-md-4 col-lg-2">
       <router-link to="/guides/pbx/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/pbx.svg" alt="PBX" class="guide-icon">
+          <img src="/images/mycloudpbx.png" alt="PBX" class="guide-icon">
 
           <h2 class="guide-title">PBX</h2>
           <p class="guide-text">Our PBX guides will assist you with configuring the myCloudPBX platform.</p>
@@ -31,7 +31,7 @@
     <div class="col-sm-12 col-md-4 col-lg-2">
       <router-link to="/guides/internet/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/internet.svg" alt="Internet" class="guide-icon">
+          <img src="/images/business-data.png" alt="Internet" class="guide-icon">
 
           <h2 class="guide-title">Internet</h2>
           <p class="guide-text">Our Internet guides will step you through configuring your Internet connection on your modem.</p>
@@ -41,7 +41,7 @@
     <div class="col-sm-12 col-md-4 col-lg-2">
       <router-link to="/guides/inbound-1300/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/1300.svg" alt="Inbound 1300" class="guide-icon">
+          <img src="/images/inbound-1300.png" alt="Inbound 1300" class="guide-icon">
 
           <h2 class="guide-title">Inbound 1300</h2>
           <p class="guide-text">Our 1300 guides will assist you with configuring your inbound 1300 number.</p>
@@ -51,7 +51,7 @@
     <div class="col-sm-12 col-md-4 col-lg-2">
       <router-link to="/guides/email/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/email.svg" alt="Email" class="guide-icon">
+          <img src="/images/email.png" alt="Email" class="guide-icon">
           <h2 class="guide-title">Email</h2>
           <p class="guide-text">Our email guides will step you through configuring your ECN email address on all devices.</p>
         </div>
@@ -109,7 +109,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
 }
 
 .guide-icon{
-  width: 60px;
+  width: 140px;
   position: relative;
   margin: 30px auto;
   display: block;
