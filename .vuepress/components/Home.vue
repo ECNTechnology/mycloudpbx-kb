@@ -44,7 +44,7 @@
           <img src="/images/inbound-1300.png" alt="Inbound 1300" class="guide-icon">
 
           <h2 class="guide-title">Inbound 1300</h2>
-          <p class="guide-text">Our 1300 guides will assist you with configuring your inbound 1300 number.</p>
+          <p class="guide-text">Our 1300 guides will assist you with configuring your Inbound 1300 number.</p>
         </div>
       </router-link>
     </div>
