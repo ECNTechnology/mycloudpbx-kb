@@ -148,3 +148,4 @@ Click **Done** if you are finished.
 - - -
 
 ### Android
+<img style="width: 500px; height: auto;" src="/images/365-outlook-office365-image2.png">
