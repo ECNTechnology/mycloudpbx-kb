@@ -17,7 +17,7 @@ more information to come soon..
 <img style="width: 400px; height: auto;" src="/images/webnowlogo.png">
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
-You will find setup instructions for the most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
+You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
 
 - - -
 
@@ -61,7 +61,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 <img style="width: 500px; height: auto;" src="/images/ecnemaillogo.png">
 
-You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
+You will find setup instructions for your **_@ecn.net.au_** account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
 
 - - -
 
@@ -83,7 +83,7 @@ You will find setup instructions for your _**@ecn.net.au**_ account for most com
 
 ### General Settings
 
-Advanced users will be able to configure their **_@ecn.net.au_** email account using the following settings:
+Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
 
 **Login Credentials**
 
@@ -106,6 +106,42 @@ Advanced users will be able to configure their **_@ecn.net.au_** email account u
 <img style="width: 400px; height: auto;" src="/images/office365logo.png">
 
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
+
+### Downloading Microsoft Office 365 Software Suite
+
+- - -
+
+**NOTE: This only applies to customers with the Business Premium Package.**
+
+Navigate to **portal.office.com**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image1.jpg">
+
+Click on **Sign in**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image2.jpg">
+
+Enter your **email address**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image3.jpg">
+
+Enter your **password**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image4.jpg">
+
+If you would like your browser to remember your sign in info, click **yes**, otherwise, click **no**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image5.jpg">
+
+Click on **Install Office**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image6.jpg">
+
+Click on **Office 365 Apps**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image7.jpg">
+
+Your office setup file has begun downloading, upon completion, **open** the file to begin the installation
 
 ### Password Recovery
 
