@@ -121,19 +121,19 @@ The following guide will walk you through configuring your Office 365 email on O
 
 When you first open Outlook 365 for Mac, you will be prompted to add a new account.
 
-![office 365 for outlook step 1](/images/365-outlook-office365-image1.png)
+![office 365 for outlook step 1]<img style="width: 500px; height: auto;" src="/images/365-outlook-office365-image1.png">
 
 Enter your **_email address_** and click **_Continue_**.
 
-![office 365 password prompt](/images/365-outlook-office365-image2.png)
+![office 365 password prompt]<img style="width: 500px; height: auto;" src="/images/365-outlook-office365-image2.png">
 
 At the prompt, enter your **password** and click **Sign in**.
 
-![office 365 security code prompt](/images/365-outlook-office365-image3.png)
+![office 365 security code prompt]<img style="width: 500px; height: auto;" src="/images/365-outlook-office365-image3.png">
 
 If prompted for a security code, type in your code then click **Verify**.
 
-![email setup complete image](/images/365-outlook-office365-image4.png)
+![email setup complete image]<img style="width: 500px; height: auto;" src="/images/365-outlook-office365-image4.png">
 
 Your email has now been configured successfully. If you would like to add another account, click **Add Another Account.**
 
