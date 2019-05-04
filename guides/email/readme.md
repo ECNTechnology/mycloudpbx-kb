@@ -123,7 +123,7 @@ When you first open Outlook 365 for Mac, you will be prompted to add a new accou
 
 <img style="width: 500px; height: auto;" src="/images/365-outlook-office365-image1.png">
 
-Enter your **_email address_** and click **_Continue_**.
+Enter your **email address** and click **Continue**.
 
 <img style="width: 500px; height: auto;" src="/images/365-outlook-office365-image2.png">
 
@@ -149,3 +149,50 @@ Click **Done** if you are finished.
 
 ### Android
 
+The following guide will walk you through configuring your Office 365 account on the "Email" app for Android.
+
+You will need to navigate to your "Settings" app first.
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image1.jpg">
+
+Tap on **Accounts and backup**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image2.jpg">
+
+Tap on **Accounts**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image3.jpg">
+
+Tap on **Email**
+
+<img style="width: 500px; height: auto;" src="/images/365-android-image4.jpg">
+
+You will find this button at the bottom of the screen, tap on it to continue.
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image5.jpg">
+
+Tap on **Office365**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image6.jpg">
+
+Enter your **email address** and tap **next**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image7.jpg">
+
+Enter your **password** and tap **Sign in**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image8.jpg">
+
+Tap on **Accept**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image9.jpg">
+
+Tap on **Apply**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image10.jpg">
+
+Tap on **Activate**
+
+<img style="width: auto; height: 500px;" src="/images/365-android-image11.jpg">
+
+Your email has now been configured successfully.
