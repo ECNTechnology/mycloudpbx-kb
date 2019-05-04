@@ -59,7 +59,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 ## Guides for ecn.net.au accounts
 
-![](/images/ecnemaillogo.png)
+<img style="width: 500px; height: auto;" src="/images/ecnemaillogo.png">
 
 You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
@@ -103,7 +103,7 @@ Advanced users will be able to configure their **_@ecn.net.au_** email account u
 
 ## Guides for Office 365 accounts
 
-![office 365 email logo](/images/office365logo.png)
+<img style="width: 400px; height: auto;" src="/images/office365logo.png">
 
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
 
