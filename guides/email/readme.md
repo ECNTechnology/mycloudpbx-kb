@@ -21,7 +21,7 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 <img style="width: 400px; height: auto;" src="/images/webnowlogo.png">
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
-You will find setup instructions for the most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
+You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
 
 - - -
 
@@ -65,7 +65,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 <img style="width: 500px; height: auto;" src="/images/ecnemaillogo.png">
 
-You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
+You will find setup instructions for your **_@ecn.net.au_** account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
 
 - - -
 
@@ -87,7 +87,7 @@ You will find setup instructions for your _**@ecn.net.au**_ account for most com
 
 ### General Settings
 
-Advanced users will be able to configure their **_@ecn.net.au_** email account using the following settings:
+Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
 
 **Login Credentials**
 
@@ -110,8 +110,6 @@ Advanced users will be able to configure their **_@ecn.net.au_** email account u
 <img style="width: 400px; height: auto;" src="/images/office365logo.png">
 
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
-
-
 
 ### Password Recovery
 
@@ -157,8 +155,45 @@ The following guide will walk you through configuring your Office 365 account on
 
 Open the "**Settings**" app by clicking the 
 <img style="width: 30px; height: auto;" src="/images/iphone-settings-icon.png"> icon.
+ 
 
+<img style="width: auto; height: 500px;" src="/images/iphone-365-1.png">
 
+Click '**_Passwords and Accounts_**'.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-2.png">
+
+Click '**_Add Account_**'.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-3.png">
+
+Choose '**_Exchange_**' from the list of account types.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-6.png">
+
+Enter your '**_Email Address_**' and add a **_description_** for your reference.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-5.png">
+
+When prompted click '**_Sign In_**'.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-7.png">
+
+Enter your '**_password_**' and click '**_Sign In_**'.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-8.png">
+
+If prompted for an account code, use the code displayed on your authenticator app and click '**_Verify_**'. 
+
+If you have not enabled 2 factor authentication you will not see this prompt.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-9.png">
+
+When prompted, click the checkbox and click '**_Accept_**'.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-10.png">
+
+Choose the applications you would like to use this email account with and then click '**_Save_**'.
 
 ### Android
 
@@ -214,7 +249,7 @@ Your email has now been configured successfully.
 
 - - -
 
-The **_Business Premium_** Office 365 accounts come with the a suite of Microsoft Office applications.
+The _**Business Premium**_ Office 365 accounts come with the a suite of Microsoft Office applications.
 Use the following guide to download and install them on your computer. 
 
 Navigate to **portal.office.com**
