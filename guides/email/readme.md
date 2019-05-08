@@ -16,7 +16,6 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 ![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
 
-Once logged in, click '**My Services**' and select your Business SIP service from under the '**Voice**' menu.
 
 
 ## Guides for WebNow accounts
