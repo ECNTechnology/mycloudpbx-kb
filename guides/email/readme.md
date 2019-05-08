@@ -111,41 +111,7 @@ Advanced users will be able to configure their **_@ecn.net.au_** email account u
 
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
 
-### Downloading Microsoft Office 365 Software Suite
 
-- - -
-
-**NOTE: This only applies to customers with the Business Premium Package.**
-
-Navigate to **portal.office.com**
-
-<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image1.jpg">
-
-Click on **Sign in**
-
-<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image2.jpg">
-
-Enter your **email address**
-
-<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image3.jpg">
-
-Enter your **password**
-
-<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image4.jpg">
-
-If you would like your browser to remember your sign in info, click **yes**, otherwise, click **no**
-
-<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image5.jpg">
-
-Click on **Install Office**
-
-<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image6.jpg">
-
-Click on **Office 365 Apps**
-
-<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image7.jpg">
-
-Your office setup file has begun downloading, upon completion, **open** the file to begin the installation
 
 ### Password Recovery
 
@@ -243,3 +209,40 @@ Tap on **Activate**
 <img style="width: auto; height: 500px;" src="/images/365-android-image11.jpg">
 
 Your email has now been configured successfully.
+
+### Downloading Microsoft Office 365 Software Suite
+
+- - -
+
+The **_Business Premium_** Office 365 accounts come with the a suite of Microsoft Office applications.
+Use the following guide to download and install them on your computer. 
+
+Navigate to **portal.office.com**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image1.jpg">
+
+Click on **Sign in**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image2.jpg">
+
+Enter your **email address**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image3.jpg">
+
+Enter your **password**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image4.jpg">
+
+If you would like your browser to remember your sign in info, click **yes**, otherwise, click **no**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image5.jpg">
+
+Click on **Install Office**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image6.jpg">
+
+Click on **Office 365 Apps**
+
+<img style="width: 600px; height: auto;" src="/images/365-softwaredownload-image7.jpg">
+
+Your office setup file has begun downloading, upon completion, **open** the file to begin the installation
