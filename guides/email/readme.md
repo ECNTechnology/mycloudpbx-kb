@@ -8,9 +8,16 @@ Use the menu on the left hand side of the screen to select the user guide for yo
 
 Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
-::: warning
-more information to come soon..
-::: 
+### Logging into the management portal
+
+To log into the [**Management Portal**](https://my.ecn.net.au) head to https://my.ecn.net.au and enter your Username & Password.
+
+Note that you can click '**Register**' on the right hand side if you do not already have an account and you can recover your password with the '**Having trouble signing in**' button.
+
+![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
+
+Once logged in, click '**My Services**' and select your Business SIP service from under the '**Voice**' menu.
+
 
 ## Guides for WebNow accounts
 
