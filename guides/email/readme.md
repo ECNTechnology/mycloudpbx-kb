@@ -10,7 +10,7 @@ Use the ECN Portal to setup your individual emails, set passwords, configure ema
 
 ### Logging into the Management Portal
 
-To log into the [**Management Portal**](https://my.ecn.net.au) head to https://my.ecn.net.au and enter your Username & Password.
+To log into the management portal navigate to [https://my.ecn.net.au](https://my.ecn.net.au) and enter your Username & Password.
 
 Note that you can click '**Register**' on the right hand side if you do not already have an account and you can recover your password with the '**Having trouble signing in**' button.
 
