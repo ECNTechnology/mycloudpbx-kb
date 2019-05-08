@@ -99,7 +99,6 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   transition: 0.3s;
 }
 .guide-link:hover .guide-icon{
-  transform: rotate(7deg);
   transition: 0.3s;
 }
 
