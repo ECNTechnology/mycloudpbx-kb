@@ -16,14 +16,12 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 ![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
 
-
-
 ## Guides for WebNow accounts
 
 <img style="width: 400px; height: auto;" src="/images/webnowlogo.png">
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
-You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for the most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
 - - -
 
@@ -67,7 +65,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 <img style="width: 500px; height: auto;" src="/images/ecnemaillogo.png">
 
-You will find setup instructions for your **_@ecn.net.au_** account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
+You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
 - - -
 
@@ -89,7 +87,7 @@ You will find setup instructions for your **_@ecn.net.au_** account for most com
 
 ### General Settings
 
-Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
+Advanced users will be able to configure their **_@ecn.net.au_** email account using the following settings:
 
 **Login Credentials**
 
@@ -188,6 +186,13 @@ Click **Done** if you are finished.
 ### iPhone
 
 - - -
+
+The following guide will walk you through configuring your Office 365 account on the "**mail**" app for iPhone.
+
+Open the "**Settings**" app by clicking the 
+<img style="width: 30px; height: auto;" src="/images/iphone-settings-icon.png"> icon.
+
+
 
 ### Android
 
