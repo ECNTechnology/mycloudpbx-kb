@@ -37,6 +37,26 @@ You will find setup instructions for the most common devices below, or if you ar
 
 - - -
 
+The following guide will walk you through configuring your custom domain Webnow email address on the "**mail**" app for iPhone.
+
+Open the "**Settings**" app by clicking the 
+<img style="width: 30px; height: auto;" src="/images/iphone-settings-icon.png"> icon.
+ 
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-1.png">
+
+Click '**_Passwords and Accounts_**'.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-2.png">
+
+Click '**_Add Account_**'.
+
+<img style="width: auto; height: 500px;" src="/images/iphone-365-3.png">
+
+Choose '**_Other_**' from the options menu.
+
+ben
+
 ### Android
 
 - - -
