@@ -4,13 +4,19 @@ date: 2019-04-17T09:15:16.967Z
 ---
 Use the menu on the left hand side of the screen to select the user guide for your device.
 
-## ECN Portal Access
+## ECN Management Portal
 
 Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
-::: warning
-more information to come soon..
-::: 
+### Logging into the management portal
+
+To log into the [**Management Portal**](https://my.ecn.net.au) head to https://my.ecn.net.au and enter your Username & Password.
+
+Note that you can click '**Register**' on the right hand side if you do not already have an account and you can recover your password with the '**Having trouble signing in**' button.
+
+![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
+
+
 
 ## Guides for WebNow accounts
 
