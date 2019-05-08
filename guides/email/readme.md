@@ -8,7 +8,7 @@ Use the menu on the left hand side of the screen to select the user guide for yo
 
 Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
-### Logging into the management portal
+### Logging into the Management Portal
 
 To log into the [**Management Portal**](https://my.ecn.net.au) head to https://my.ecn.net.au and enter your Username & Password.
 
