@@ -41,3 +41,12 @@ info here..
 ---
 ::: TIP Coming Soon! :
 
+# Virtual FAX
+
+## Allowed Senders
+
+info here.. 
+
+## Virtual FAX Call Routing
+
+info here..
