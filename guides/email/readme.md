@@ -248,7 +248,69 @@ Click '**_Save_**' to complete the setup process.
 
 - - -
 
+The following guide will walk you through configuring your custom domain Webnow email address on the "Email" app for Android.
+
+Start by opening the **Settings** app.
+
+<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image1.jpg">
+
+Now tap on **Accounts and backup**.
+
+<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image2.jpg">
+
+Now tap on **Accounts**
+
+<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image3.jpg">
+
+Now tap on **Email**
+
+<img style="width: auto; height: 150px;" src="/images/ECN Email-Android-image4.jpg">
+
+At the bottom of the page look for this button, tap on this button.
+
+<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image5.jpg">
+
+Tap on **Other**
+
+<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image6.jpg">
+
+Enter in your **email address** and **password** and then tap **Manual Setup**
+
+<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image7.jpg">
+
+Tap on **IMAP account**
+
+<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image8.jpg">
+
+Fill in the details as per below:
+
+**Email address:** Your email address
+
+**Username:** Your email address
+
+**Pasword:** Your email password
+
+**Incoming server:**
+
+* **IMAP server:** mail.ecn.net.au
+* **Security type:** TLS (Accept all certificates)
+* **Port:** 143
+
+**Outgoing server:**
+* **SMTP Server:** mail.ecn.net.au
+* **Security type:** TLS (Accept all certificates)
+* **Port:** 25
+* **Require authentication to send emails:** Enabled
+* **Username:** Your email address
+* **Password:** Your email password
+
+Once you have verified the information is correct, tap "Sign in"
+
+You have now added your account to the Email app.
+
 ### General Settings
+
+- - -
 
 Advanced users will be able to configure their **_@ecn.net.au_** email account using the following settings:
 
