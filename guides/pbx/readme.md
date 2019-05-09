@@ -63,7 +63,7 @@ The basics command line steps to generate a private and public key using OpenSSL
  openssl req -newkey rsa:2048 -nodes -keyout myprivatekey.pem -x509 -days 1825 -out mypublickey.pem
 :::
 
-::: warning 
+::: danger WARNING! 
 STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, ENCRYPTED FILES CAN NOT BE DECRYPTED
 :::
 
