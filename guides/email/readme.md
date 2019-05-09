@@ -373,6 +373,36 @@ Click **Done** if you are finished.
 
 - - -
 
+The following guide will walk you through configuring your Office 365 account on **Microsoft Outlook 2019** for Windows.
+
+Open **Microsoft Outlook 2019** by double clicking the desktop icon or searching for it in the start menu
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image1.png">
+
+Enter in a suitable name for your new profile and click **OK**. 
+
+NOTE: this will not affect the usability of the account, it is only for the purpose of identification.
+
+<img style="width: 500px; height: auto;" src="/images/office365-windows-outlook2019-image2.png">
+
+Type in your **email address** and then click on **Connect**
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image3.png">
+
+It will load for a few seconds before opening a new window and prompting you for your **password**, simply type this in.
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image4.png">
+
+Click **Yes**
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image5.png">
+
+Click **Done**
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image6.png">
+
+Click **OK** to complete the account setup!
+
 ### iPhone
 
 - - -
