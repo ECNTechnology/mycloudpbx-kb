@@ -23,6 +23,21 @@ The Hosted PBX Dashboard can be used by management to easily view statistics and
 
 <https://dashboard.ecn.net.au>
 
+# Call Recordings
+---
+## Enabling Call Recordings
+
+info here..
+
+## Accessing Call Recordings
+
+info here..
+
+## Call Recording Encryption
+
+info here.. 
+
 # Conference Calls
 ---
 ::: TIP Coming Soon! :
+
