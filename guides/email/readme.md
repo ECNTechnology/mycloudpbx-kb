@@ -128,7 +128,9 @@ Tap on **IMAP account**
 Fill in the details as per below:
 
 **Email address:** Your email address
+
 **Username:** Your mailbox ID (found in the ECN Portal)
+
 **Pasword:** Your email password
 
 **Incoming server:**
