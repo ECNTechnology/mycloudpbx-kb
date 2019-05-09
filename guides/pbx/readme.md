@@ -108,12 +108,10 @@ openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECOR
 
 :::
 
-~~~~
-test
-~~~~
+
 
 ```
-test
+openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem
 ```
 
 ## Conference Calls
