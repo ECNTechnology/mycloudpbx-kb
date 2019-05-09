@@ -252,35 +252,35 @@ The following guide will walk you through configuring your custom domain Webnow 
 
 Start by opening the **Settings** app.
 
-<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image1.jpg">
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image1.jpg">
 
 Now tap on **Accounts and backup**.
 
-<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image2.jpg">
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image2.jpg">
 
 Now tap on **Accounts**
 
-<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image3.jpg">
+<img style="width: auto; height: 100px;" src="/images/ecn-email-android-image3.jpg">
 
 Now tap on **Email**
 
-<img style="width: auto; height: 150px;" src="/images/ECN Email-Android-image4.jpg">
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image4.jpg">
 
 At the bottom of the page look for this button, tap on this button.
 
-<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image5.jpg">
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image5.jpg">
 
 Tap on **Other**
 
-<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image6.jpg">
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image6.jpg">
 
 Enter in your **email address** and **password** and then tap **Manual Setup**
 
-<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image7.jpg">
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image7.jpg">
 
 Tap on **IMAP account**
 
-<img style="width: auto; height: 500px;" src="/images/ECN Email-Android-image8.jpg">
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image8.jpg">
 
 Fill in the details as per below:
 
