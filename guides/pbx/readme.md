@@ -102,7 +102,7 @@ Recorded calls will now have a “.enc” suffix to identify call recorded with 
 
 Decrypt Recordings using Openssl
 
-::: tip 
+::: warning 
 
 openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem
 
