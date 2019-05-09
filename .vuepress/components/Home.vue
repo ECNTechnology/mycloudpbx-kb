@@ -132,7 +132,7 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
 
 @media screen and (min-width:768px) and (max-width: 990px) {
   .guide-item{
-    min-height: 360px;
+    min-height: 390px;
   }
 }
 
@@ -143,13 +143,19 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   }
 }
 
-@media screen and (min-width:1131px) and (max-width:1300px) {
+@media screen and (min-width:1131px) and (max-width:1359px) {
   .guide-item{
-    min-height: 420px;
+    min-height: 450px;
   }
 }
 
-@media screen and (min-width:1301px) {
+@media screen and (min-width:1360px) and (max-width: 1585px) {
+  .guide-item{
+    min-height: 390px;
+  }
+}
+
+@media screen and (min-width:1586px) {
   .guide-item{
     min-height: 360px;
   }
