@@ -27,19 +27,25 @@ The Hosted PBX Dashboard can be used by management to easily view statistics and
 ---
 ## Enabling Call Recordings
 
-info here..
+::: TIP 
+Coming Soon! 
+:::
 
 ## Accessing Call Recordings
 
-info here..
+::: TIP 
+Coming Soon! 
+:::
 
 ## Call Recording Encryption
 
-info here.. 
+::: TIP 
+Coming Soon! 
+:::
 
 # Conference Calls
 ---
-::: tip
+::: TIP 
 Coming Soon! 
 :::
 
@@ -47,8 +53,12 @@ Coming Soon!
 
 ## Allowed Senders
 
-info here.. 
+::: TIP 
+Coming Soon! 
+:::
 
 ## Virtual FAX Call Routing
 
-info here..
+::: TIP 
+Coming Soon! 
+:::
