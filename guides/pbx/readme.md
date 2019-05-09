@@ -32,7 +32,7 @@ Coming Soon!
 :::
 
 ## Call Recording Encryption
-- - -
+
 
 To comply with data protection regulations and to provide enhanced security, myCloudPBX provides the option to encrypt call recordings with a user provided public key.
 
@@ -62,7 +62,8 @@ You can use Terminal to run OpenSSL (Open _Applications_ > _Utilities_ > _Termin
 
 ::: tip 
 
-You may need to run each OpenSSL command lines with elevated privileges – add sudo before each command lines
+You may need to run each OpenSSL command lines with elevated privileges.
+– add _sudo_ before each command as needed.
 
 :::
 
@@ -70,7 +71,7 @@ You may need to run each OpenSSL command lines with elevated privileges – add 
 
 The basics command line steps to generate a private and public key using OpenSSL are as follows:
 
-::: tip 
+::: warning 
 
 openssl req -newkey rsa:2048 -nodes -keyout myprivatekey.pem -x509 -days 1825 -out mypublickey.pem
 
@@ -101,7 +102,7 @@ Recorded calls will now have a “.enc” suffix to identify call recorded with 
 
 Decrypt Recordings using Openssl
 
-::: tip 
+::: warning 
 
 openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem
 
