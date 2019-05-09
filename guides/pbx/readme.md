@@ -36,9 +36,9 @@ Coming Soon!
 To comply with data protection regulations and to provide enhanced security, myCloudPBX provides the option to encrypt call recordings with a user provided public key.
 
 ### Configuration Steps
-Generate Public/Private key pair
+To enable call recording encryption you will first need to generate a Public/Private key pair.
 
-To create a public/private key-pair we recommend using OpenSSL
+To create a Public/Private key-pair we recommend using OpenSSL
 
 **Windows users**
 
@@ -54,14 +54,17 @@ To run the commands below, go to the OpenSSL32 directory on your PC, and change 
 
 OpenSSL comes shipped with Mac OS X version 10.6.2 onwards. 
 
-You can use Terminal to run OpenSSL (Open Applications > Utilities > Terminal or search for ‘_terminal_’ using the search bar in the top right hand corner of your screen) run the commands below.
+You can use Terminal to run OpenSSL (Open _Applications_ > _Utilities_ > _Terminal_ or search for ‘_terminal_’ using the search bar in the top right hand corner of your screen) run the commands below.
 
-::: tip Note: You may need to run each OpenSSL command lines with elevated privileges – add sudo before each command lines
+::: tip Note: You may need to run each OpenSSL command lines with elevated privileges 
+– add sudo before each command lines
 
 :::
 
 **Using OpenSSL**
+
 The basics command line steps to generate a private and public key using OpenSSL are as follows:
+
 ::: tip
  openssl req -newkey rsa:2048 -nodes -keyout myprivatekey.pem -x509 -days 1825 -out mypublickey.pem
 :::
@@ -71,7 +74,6 @@ STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, E
 :::
 
  
-
 Enable Call Recording Encryption and upload Public Key
 myCloudPBX > Add ons > Call Recording Encryption
 
