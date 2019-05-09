@@ -71,9 +71,11 @@ You may need to run each OpenSSL command lines with elevated privileges.
 
 The basics command line steps to generate a private and public key using OpenSSL are as follows:
 
-```
+::: warning 
+
 openssl req -newkey rsa:2048 -nodes -keyout myprivatekey.pem -x509 -days 1825 -out mypublickey.pem
-```
+
+:::
 
 ::: danger WARNING!
 
@@ -98,12 +100,7 @@ Click '**_Save_**'
 Recorded calls will now have a “.enc” suffix to identify call recorded with a user provided public key. 
 ### Decrypting Call Recordings
 
-Decrypting Recordings using Openssl
-
-```
-openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem
-```
-
+Decrypt Recordings using Openssl
 
 
 ```
