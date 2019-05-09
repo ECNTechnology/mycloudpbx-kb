@@ -30,30 +30,39 @@ Coming Soon!
 ::: tip 
 Coming Soon! 
 :::
-### Call Recording Encryption
+## Call Recording Encryption
+- - -
 
 To comply with data protection regulations and to provide enhanced security, myCloudPBX provides the option to encrypt call recordings with a user provided public key.
 
-#### Configuration Steps
+### Configuration Steps
 Generate Public/Private key pair
 To create a public/private key-pair we recommend using OpenSSL
 
 **Windows users**
+
 Download OpenSSL for Windows (<https://wiki.openssl.org/index.php/Binaries>)
 
 To run the commands below, go to the OpenSSL32 directory on your PC, and change to the /bin directory
 
-::: tip Note: You may need to open the command prompt with admin privileges (Run as administrator) and you will need to restart your computer before generating a cert
+::: tip Note: You may need to open the command prompt with admin privileges (Run as administrator) and you will need to restart your computer before generating a certificate.
+
 :::
 
 **Mac users**
-OpenSSL comes shipped with Mac OS X version 10.6.2 onwards. You can use Terminal to run OpenSSL (Open Applications > Utilities > Terminal or search for ‘terminal’ using the search bar in the top right of your screen) run the commands below.
 
-Note: You may need to run each OpenSSL command lines with elevated privileges – add sudo before each command lines
+OpenSSL comes shipped with Mac OS X version 10.6.2 onwards. 
+You can use Terminal to run OpenSSL (Open Applications > Utilities > Terminal or search for ‘_terminal_’ using the search bar in the top right hand corner of your screen) run the commands below.
+::: tip Note: You may need to run each OpenSSL command lines with elevated privileges – add sudo before each command lines
+
+:::
 
 **Using OpenSSL**
 The basics command line steps to generate a private and public key using OpenSSL are as follows:
+:::
  openssl req -newkey rsa:2048 -nodes -keyout myprivatekey.pem -x509 -days 1825 -out mypublickey.pem
+:::
+
 ::: warning 
 STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, ENCRYPTED FILES CAN NOT BE DECRYPTED
 :::
