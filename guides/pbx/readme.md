@@ -42,6 +42,7 @@ info here..
 ::: TIP Coming Soon! :
 
 ## Holiday Conditions
+---
 
 ### Initial Setup
 
@@ -52,6 +53,7 @@ info here..
 info here.. 
 
 ## Virtual FAX
+---
 
 ### Allowed Senders
 
