@@ -41,6 +41,16 @@ info here..
 ---
 ::: TIP Coming Soon! :
 
+# Holiday Conditions
+
+## Initial Setup
+
+info here..
+
+## Editing an existing holiday condition
+
+info here.. 
+
 # Virtual FAX
 
 ## Allowed Senders
