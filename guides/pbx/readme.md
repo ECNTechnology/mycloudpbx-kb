@@ -39,7 +39,7 @@ info here..
 
 # Conference Calls
 ---
-::: TIP 
+::: tip
 Coming Soon! 
 :::
 
