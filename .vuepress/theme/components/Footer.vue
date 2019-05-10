@@ -56,7 +56,7 @@
                 <a href="https://www.ecn.net.au/Contact/" target="_blank" class="footer-link"><p class="footer-text">Contact Us</p></a>
                 <a href="https://www.ecn.net.au/CheckEmail/" target="_blank" class="footer-link"><p class="footer-text">Check my Email</p></a>
                 <a href="https://my.ecn.net.au/paynow.aspx" target="_blank" class="footer-link"><p class="footer-text">Pay my Bill</p></a>
-                <a href="https://my.ecn.net.au/Login.aspx?ReturnUrl=%2f" target="_blank" class="footer-link"><p class="footer-text">myECN Portal</p></a>
+                <a href="https://my.ecn.net.au/Login.aspx" target="_blank" class="footer-link"><p class="footer-text">myECN Portal</p></a>
                 <a href="https://www.ecn.net.au/Support/" target="_blank" class="footer-link"><p class="footer-text">Support</p></a>
                 <a href="https://blog.ecn.net.au/" target="_blank" class="footer-link"><p class="footer-text">Blog</p></a>
               </div>
