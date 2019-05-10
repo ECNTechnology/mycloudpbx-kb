@@ -8,7 +8,7 @@ Use the menu on the left hand side of the screen to select the user guide for yo
 
 Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
-### Logging into the Management Portal
+### Logging into the PBX Management Portal
 
 To log into the management portal navigate to <https://my.ecn.net.au> and enter your Username & Password.
 
@@ -16,23 +16,30 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 ![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
 
+![login screen](/images/pbx-logging-in-1.png)
+
+![login screen](/images/pbx-logging-in-2.png)
+
 ## Hosted PBX Dashboard
 
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
 <https://dashboard.ecn.net.au>
+
 ## Call Recordings
 
 ### Enabling Call Recordings
+
 ::: tip 
 Coming Soon! 
 :::
+
 ### Accessing Call Recordings
+
 ::: tip 
 Coming Soon! 
 :::
 
 ## Call Recording Encryption
-
 
 To comply with data protection regulations and to provide enhanced security, myCloudPBX provides the option to encrypt call recordings with a user provided public key.
 
@@ -83,21 +90,21 @@ STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, E
 
 To enable call recording encryption you will first need to log into the https://my.ecn.net.au Portal.
 
-Once logged in, click on '**_My Services_**' and then expand the '**_Voice_**' section.
+Once logged in, click on '_**My Services**_' and then expand the '_**Voice**_' section.
 
 Select the PBX you wish to enable call recording encryption.
 
-Hover over '**_Addons_**' and click '**_Configure Addons_**'.
+Hover over '_**Addons**_' and click '_**Configure Addons**_'.
 
-Enable the call recording encryption and paste a copy of your **_PUBLIC KEY_**.
+Enable the call recording encryption and paste a copy of your _**PUBLIC KEY**_.
 
-Click '**_Save_**'
+Click '_**Save**_'
 
 Recorded calls will now have a “.enc” suffix to identify call recorded with a user provided public key. 
+
 ### Decrypting Call Recordings
 
 To decrypt call recordings, use the following command. (Adjust for your filename..)
-
 
 ```
 openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem
@@ -108,12 +115,17 @@ openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECOR
 ::: tip 
 Coming Soon! 
 :::
+
 ## Virtual FAX
+
 ### Allowed Senders
+
 ::: tip 
 Coming Soon! 
 :::
+
 ### Virtual FAX Call Routing
+
 ::: tip 
 Coming Soon! 
 :::
