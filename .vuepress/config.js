@@ -3,7 +3,13 @@ const getChildren = require('./childScript')
 module.exports = {
   title: 'ECN Technology  |  Knowledge Base',
   description: '',
-  plugins: ['@vuepress/back-to-top'],
+  plugins: [
+    '@vuepress/back-to-top',
+    '@vuepress/google-analytics',
+      {
+        'ga': 'UA-107905087-6' // UA-00000000-0
+      }
+  ],
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.png' }]
   ],
