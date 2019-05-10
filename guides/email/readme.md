@@ -91,7 +91,70 @@ Click '_**Save**_' to complete the setup process.
 
 - - -
 
+The following guide will walk you through configuring your custom domain Webnow email address on the "Email" app for Android.
+
+Start by opening the **Settings** app.
+
+<img style="width: auto; height: 500px;" src="/images/WebNow-Android-image1.jpg">
+
+Now tap on **Accounts and backup**.
+
+<img style="width: auto; height: 500px;" src="/images/WebNow-Android-image2.jpg">
+
+Now tap on **Accounts**
+
+<img style="width: auto; height: 500px;" src="/images/WebNow-Android-image3.jpg">
+
+Now tap on **Email**
+
+<img style="width: auto; height: 100px;" src="/images/WebNow-Android-image4.jpg">
+
+At the bottom of the page look for this button, tap on this button.
+
+<img style="width: auto; height: 500px;" src="/images/WebNow-Android-image5.jpg">
+
+Tap on **Other**
+
+<img style="width: auto; height: 500px;" src="/images/WebNow-Android-image6.jpg">
+
+Enter in your **email address** and **password** and then tap **Manual Setup**
+
+<img style="width: auto; height: 500px;" src="/images/WebNow-Android-image7.jpg">
+
+Tap on **IMAP account**
+
+<img style="width: auto; height: 500px;" src="/images/WebNow-Android-image8.jpg">
+
+Fill in the details as per below:
+
+**Email address:** Your email address
+
+**Username:** Your mailbox ID (found in the ECN Portal)
+
+**Pasword:** Your email password
+
+**Incoming server:**
+
+* **IMAP server:** mail.webconnect.com.au
+* **Security type:** TLS (Accept all certificates)
+* **Port:** 143
+
+**Outgoing server:**
+
+* **SMTP Server:** mail.webconnect.com.au
+* **Security type:** TLS (Accept all certificates)
+* **Port:** 587
+* **Require authentication to send emails:** Enabled
+* **Username:** Your mailbox ID (Found in the ECN Portal)
+* **Password:** Your email password
+
+Once you have verified the information is correct, tap "Sign in"
+
+You have now added your account to the Email app.
+
 ### General Settings
+
+- - -
 
 Advanced users will be able to configure their WebNow email account using the following settings:
 
@@ -181,12 +244,74 @@ Once you have verified the information is correct, click '_**Next**_'
 
 Click '_**Save**_' to complete the setup process.
 
-
 ### Android
 
 - - -
 
+The following guide will walk you through configuring your ECN email address on the "Email" app for Android.
+
+Start by opening the **Settings** app.
+
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image1.jpg">
+
+Now tap on **Accounts and backup**.
+
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image2.jpg">
+
+Now tap on **Accounts**
+
+<img style="width: auto; height: 100px;" src="/images/ecn-email-android-image3.jpg">
+
+Now tap on **Email**
+
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image4.jpg">
+
+At the bottom of the page look for this button, tap on this button.
+
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image5.jpg">
+
+Tap on **Other**
+
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image6.jpg">
+
+Enter in your **email address** and **password** and then tap **Manual Setup**
+
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image7.jpg">
+
+Tap on **IMAP account**
+
+<img style="width: auto; height: 500px;" src="/images/ecn-email-android-image8.jpg">
+
+Fill in the details as per below:
+
+**Email address:** Your email address
+
+**Username:** Your email address
+
+**Pasword:** Your email password
+
+**Incoming server:**
+
+* **IMAP server:** mail.ecn.net.au
+* **Security type:** TLS (Accept all certificates)
+* **Port:** 143
+
+**Outgoing server:**
+
+* **SMTP Server:** mail.ecn.net.au
+* **Security type:** TLS (Accept all certificates)
+* **Port:** 25
+* **Require authentication to send emails:** Enabled
+* **Username:** Your email address
+* **Password:** Your email password
+
+Once you have verified the information is correct, tap "Sign in"
+
+You have now added your account to the Email app.
+
 ### General Settings
+
+- - -
 
 Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
 
@@ -247,6 +372,36 @@ Click **Done** if you are finished.
 ### Windows - Outlook 2019
 
 - - -
+
+The following guide will walk you through configuring your Office 365 account on **Microsoft Outlook 2019** for Windows.
+
+Open **Microsoft Outlook 2019** by double clicking the desktop icon or searching for it in the start menu
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image1.png">
+
+Enter in a suitable name for your new profile and click **OK**. 
+
+NOTE: this will not affect the usability of the account, it is only for the purpose of identification.
+
+<img style="width: 500px; height: auto;" src="/images/office365-windows-outlook2019-image2.png">
+
+Type in your **email address** and then click on **Connect**
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image3.png">
+
+It will load for a few seconds before opening a new window and prompting you for your **password**, simply type this in.
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image4.png">
+
+Click **Yes**
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image5.png">
+
+Click **Done**
+
+<img style="width: 400px; height: auto;" src="/images/office365-windows-outlook2019-image6.png">
+
+Click **OK** to complete the account setup!
 
 ### iPhone
 
