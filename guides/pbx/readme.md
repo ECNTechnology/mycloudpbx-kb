@@ -76,9 +76,7 @@ openssl req -newkey rsa:2048 -nodes -keyout myprivatekey.pem -x509 -days 1825 -o
 ```
 
 ::: danger WARNING!
-
 STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, ENCRYPTED FILES CAN NOT BE DECRYPTED
-
 :::
 
 ### Enabling Call Recording Encryption.
