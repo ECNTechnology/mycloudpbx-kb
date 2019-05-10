@@ -28,7 +28,6 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
 }
 
 #search-home .search-box{
-  width: 60%;
   position: relative;
   margin: 0 auto;
   display: block;
@@ -49,5 +48,25 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   .content:not(.custom),
   .page-edit, .page-nav{
       max-width: 100%!important;
+  }
 }
+
+@media screen and (max-width:960px){
+  #search-home .search-box input{
+    border-color: #cfd4db;
+    left: 0;
+  }
+  #search-home .search-box{
+    width: 80%;
+  }
+  #search-home .search-box input:focus {
+    cursor: auto;
+    border-color: #2a65af;
+  }
+}
+
+@media screen and (min-width:961px){
+  #search-home .search-box{
+    width: 50%;
+  }
 }
