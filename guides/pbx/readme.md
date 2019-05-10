@@ -98,7 +98,7 @@ Click '**_Save_**'
 Recorded calls will now have a “.enc” suffix to identify call recorded with a user provided public key. 
 ### Decrypting Call Recordings
 
-Decrypt Recordings using Openssl
+To decrypt call recordings, use the following command. (Adjust for your filename..)
 
 
 ```
