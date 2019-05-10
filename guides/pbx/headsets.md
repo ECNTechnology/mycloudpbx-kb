@@ -10,12 +10,12 @@ This page will contain information about the supported headsets for each handset
 
 The following images show how the headset should be plugged into the phone and assumes that you have already plugged the phone into your local network and can make & receive calls.
 
-1
+
 <img style="width: 400px; height: auto;" src="/images/yealink-headset-setup1.jpg">
 
-2
+
 <img style="width: 400px; height: auto;" src="/images/yealink-headset-setup3.jpg"> 
 
-3
+
 <img style="width: 400px; height: auto;" src="/images/yealink-headset-setup2.jpg">
 
