@@ -8,7 +8,8 @@ This page will contain information about the supported headsets for each handset
 
 ### Plantronics Savi 8210
 
-The following images show how the headset should be plugged into the phone and assumes that you have already plugged the phone into your local network and can make & receive calls.
+The following images show how the headset should be plugged into the phone and assumes that you have already plugged the phone into your local network and can make & receive calls. 
+Note that we have removed the Ethernet cable that would be plugged into the 'Internet' port to avoid confusion.
 
 
 <img style="width: 400px; height: auto;" src="/images/yealink-headset-setup1.jpg">
