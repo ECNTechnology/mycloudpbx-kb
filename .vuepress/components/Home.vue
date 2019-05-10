@@ -1,15 +1,25 @@
 <template>
 
 <div class="container-fluid">
-  <div class="row justify-content-center">
+  <div class="row justify-content-center pt-4 pb-4">
     <div class="col-sm-12">
-      <img class="home-logo" src="/images/ecn-tagline.png" alt="">
-      <h1 class="home-kb">Knowledge Base</h1>
+      <!-- <img class="home-logo" src="/images/ecn-tagline.png" alt=""> -->
+      <h1 class="kb-title">Hi, how can we help you?</h1>
+      <p class="kb-description">Enter a search term to find all related articles</p>
+    </div>
+    <div class="col-sm-12" id="search-home">
+      <AlgoliaSearchBox
+        v-if="isAlgoliaSearch"
+        :options="algolia"
+      />
+      <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false"/>
     </div>
   </div>
   <div class="row justify-content-center">
+    <div class="col-sm-12">
+      <h1 class="home-kb">Knowledge Base</h1>
+    </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-
       <router-link to="/guides/business-sip/" class="guide-link">
         <div class="guide-item">
           <img src="/images/business-sip.png" alt="Business SIP" class="guide-icon">
@@ -62,6 +72,30 @@
 
 </template>
 
+<script>
+import AlgoliaSearchBox from '@AlgoliaSearchBox'
+import SearchBox from '@SearchBox'
+
+export default {
+  components: { SearchBox, AlgoliaSearchBox },
+
+  data () {
+    return {
+    }
+  },
+  mounted () {
+  },
+  computed: {
+    algolia () {
+      return this.$themeLocaleConfig.algolia || this.$site.themeConfig.algolia || {}
+    },
+    isAlgoliaSearch () {
+      return this.algolia && this.algolia.apiKey && this.algolia.indexName
+    }
+  }
+}
+</script>
+
 <style scoped>
 
 h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
@@ -72,7 +106,16 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   position: relative;
   margin: 60px auto;
   display: block;
-  width: 400px;
+  width: 300px;
+}
+
+.kb-title,
+.kb-description{
+  text-align: center;
+}
+
+.kb-description{
+  font-size: 22px;
 }
 
 .home-kb{
