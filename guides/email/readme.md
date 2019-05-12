@@ -6,7 +6,7 @@ Use the menu on the left hand side of the screen to select the user guide for yo
 
 ## ECN Management Portal
 
-Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
+Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding and auto-replies.
 
 ### Logging into the Management Portal
 
