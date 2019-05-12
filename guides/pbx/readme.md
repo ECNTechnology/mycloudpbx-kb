@@ -12,27 +12,23 @@ Use the ECN Portal to setup your individual emails, set passwords, configure ema
 
 To log into the management portal navigate to <https://my.ecn.net.au> and enter your Username & Password.
 
-
 <img style="width: auto; height: auto;" src="/images/screen-shot-2019-04-15-at-2.49.17-pm.png">
 
 Note that you can click '**Register**' on the right hand side if you do not already have an account and you can recover your password with the '**Having trouble signing in**' button.
-
-
 
 <img style="width: 1100px; height: auto;" src="/images/pbx-logging-in-1.png">
 
 Once logged in, you'll see a selection of options based on your users permissions.
 
 ::: tip TIP!
-Click '**_My Account_**' to modify your account information.
+Click '_**My Account**_' to modify your account information.
 :::
 
-Click '**_My Services_**' to view your services.
+Click '_**My Services**_' to view your services.
 
 <img style="width: 1100px; height: auto;" src="/images/pbx-logging-in-2.png">
 
-Expand the '**_Voice_**' list and select the PBX you wish to manage.
-
+Expand the '_**Voice**_' list and select the PBX you wish to manage.
 
 ## Hosted PBX Dashboard
 
@@ -43,9 +39,20 @@ The Hosted PBX Dashboard can be used by management to easily view statistics and
 
 ### Enabling Call Recordings
 
-::: tip 
-Coming Soon! 
-:::
+To turn on call recordings for a call route, you must first enable the call recording functionality on your PBX.
+
+
+<img style="width: 1100px; height: auto;" src="/images/pbx-callrecordings-1.png">
+
+Hover over '**_Addons_**' and select '**_Configure Addons_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-2.png">
+
+Scroll down until you see '**_Enable Call Recording Plugin_**'.
+
+Note that you will have to agree to the disclaimer before you can enable the plugin.
+
+
 
 ### Accessing Call Recordings
 
@@ -104,15 +111,15 @@ STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, E
 
 To enable call recording encryption you will first need to log into the https://my.ecn.net.au Portal.
 
-Once logged in, click on '_**My Services**_' and then expand the '_**Voice**_' section.
+Once logged in, click on '**_My Services_**' and then expand the '**_Voice_**' section.
 
 Select the PBX you wish to enable call recording encryption.
 
-Hover over '_**Addons**_' and click '_**Configure Addons**_'.
+Hover over '**_Addons_**' and click '**_Configure Addons_**'.
 
-Enable the call recording encryption and paste a copy of your _**PUBLIC KEY**_.
+Enable the call recording encryption and paste a copy of your **_PUBLIC KEY_**.
 
-Click '_**Save**_'
+Click '**_Save_**'
 
 Recorded calls will now have a “.enc” suffix to identify call recorded with a user provided public key. 
 
