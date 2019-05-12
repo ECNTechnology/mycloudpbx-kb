@@ -23,7 +23,7 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 Once logged in, you'll see a selection of options based on your users permissions.
 
-::: tip
+::: tip TIP!
 Click '**_My Account_**' to modify your account information.
 :::
 
