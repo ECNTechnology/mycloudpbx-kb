@@ -19,7 +19,7 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 
 
-<img style="width: 800px; height: auto;" src="/images/pbx-logging-in-1.png">
+<img style="width: 1000px; height: auto;" src="/images/pbx-logging-in-1.png">
 
 Once logged in, you'll see a selection of options based on your users permissions.
 
@@ -29,7 +29,7 @@ Click '**_My Account_**' to modify your account information.
 
 Click '**_My Services_**' to view your services.
 
-<img style="width: 800px; height: auto;" src="/images/pbx-logging-in-2.png">
+<img style="width: 1000px; height: auto;" src="/images/pbx-logging-in-2.png">
 
 Expand the '**_Voice_**' list and select the PBX you wish to manage.
 
