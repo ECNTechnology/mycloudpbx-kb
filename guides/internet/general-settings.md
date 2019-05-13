@@ -15,6 +15,7 @@ mail.ecn.net.au
 
 ### Proxy Server
 
-**Server:** proxy.ecn.net.au 
+**Server:** proxy.ecn.net.au
+
 **Port:** 80
 
