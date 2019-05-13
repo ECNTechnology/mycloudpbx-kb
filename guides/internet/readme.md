@@ -2,7 +2,6 @@
 title: Netcomm NF18ACV
 date: 2019-05-13T01:37:22.245Z
 ---
-
 ## Netcomms Management Interface
 
 Unbox Modem, connect it to power then power it on. 
@@ -33,11 +32,19 @@ The modem comes default with the following username & password.
 It is highly recommended that you change this password!
 :::
 
-Click '**_Login_**'.
+Click '_**Login**_'.
 
-****
+- - -
 
 ## Configuration Guides
+
+### Configuring for ADSL
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-adsl-1.png">
+
+From the Netcomm homepage, click on '_**Internet**_' on the left hand column.
+
+Click on 
 
 ### Configuring for NBN Fibre to the Node
 
