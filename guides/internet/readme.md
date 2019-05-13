@@ -197,6 +197,7 @@ Here you can change the username & password that will be used to **login** to yo
 **Note:** This is **not** your WiFi password!
 :::
 
+Click '**_Apply/Save_**' when you are finished.
 
 ## Configuring Voip Service
 
