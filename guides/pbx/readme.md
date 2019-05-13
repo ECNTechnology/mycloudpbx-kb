@@ -62,6 +62,16 @@ You will now be taken back to the main homepage and can now turn on recordings f
 
 To enable call recordings for an inbound route, select '**_Call Routing_**' from the PBX main homepage.
 
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-3.png">
+
+Find the number for which you wish to enable call recordings and then click '**_view/edit_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-4.png">
+
+Click the checkbox to '**_Enable Call Recording_**' for all **inbound calls**.
+
+Scroll down to the bottome of the page and click '**_Save_**' to save your changes.
+
 
 
 ### Accessing Call Recordings
