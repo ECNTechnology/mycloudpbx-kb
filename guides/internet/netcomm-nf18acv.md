@@ -5,9 +5,18 @@ date: 2019-05-10T07:14:15.838Z
 
 ## Logging into your Netcomm NF18ACV Modems Web Interface
 
+Unbox Modem, connect it to power then power it on. 
+Use the provided Ethernet cable to connect it to your computer. (This cable must be plugged into one of the yellow LAN ports on the modem) 
+
+Alternatively, you can use the provided wifi details on the provided card to connect your computer wirelessly to the modem. 
+
 ::: tip
-Coming Soon.
+TIP: You can also find the default WiFi username / password on the bottom of the modem stand).
 :::
+
+Please note that you may not have internet connection even after connecting to the modem if the modem had not been configured by ECN. 
+All modems / routers sent from ECN Technology are preconfigured to connect to ECN network and therefore you don’t need to be reconfigured.
+
 
 ## Configuration Guides
 
