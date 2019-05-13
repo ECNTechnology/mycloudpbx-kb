@@ -62,6 +62,11 @@ If you do not know your username & password, contact ECN on 1300 790 111
 
 Click '**_Apply_**'.
 
+If everything has been plugged in correctly, you should have Internet access within 60 seconds.
+
+You will see the '**_ADSL_**' indicator light go solid on the modem, and the '**_Internet_**' will follow shortly.
+
+You are now connected to the Internet!
 
 ### Configuring for NBN Fibre to the Node
 
