@@ -72,6 +72,13 @@ Click the checkbox to '**_Enable Call Recording_**' for all **inbound calls**.
 
 Scroll down to the bottome of the page and click '**_Save_**' to save your changes.
 
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
+
+Your changes are now ready to '**_Apply_**' to your PBX.
+
+Click '**_Apply PBX Changes_**'.
+
+#### Enabling Call Recordings for outbound calls
 
 
 ### Accessing Call Recordings
