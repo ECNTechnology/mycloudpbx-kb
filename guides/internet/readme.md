@@ -36,7 +36,7 @@ The modem comes default with the following username & password.
 It is highly recommended that you change this password!
 :::
 
-Click '**_Login_**'.
+Click '_**Login**_'.
 
 ## Configuration Guides
 
@@ -51,15 +51,15 @@ Click '**_Login_**'.
 
 <img style="width: 1100px; height: auto;" src="/images/nf18acv-fttn-1.jpg">
 
-From the Netcomm homepage, click on '**_Internet_**' on the left hand column and then click on '**_Create New_**'.
+From the Netcomm homepage, click on '_**Internet**_' on the left hand column and then click on '_**Create New**_'.
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-adsl-2.png">
 
 You will need to enter in the following information:
 
 * **Description:** This is for your reference only.
-* **Internet Service:** Choose '**_ADSL_**'.
-* **Connection Type:** Choose '**_PPPoE_**'.
+* **Internet Service:** Choose '_**ADSL**_'.
+* **Connection Type:** Choose '_**PPPoE**_'.
 * **VPI:** 8
 * **VCI:** 35
 * **Username:** Enter the username provided by ECN. (Available at https://my.ecn.net.au).
@@ -69,11 +69,11 @@ You will need to enter in the following information:
 If you do not know your username & password, contact ECN on 1300 790 111
 :::
 
-Click '**_Apply_**'.
+Click '_**Apply**_'.
 
 If everything has been plugged in correctly, you should have Internet access within 60 seconds.
 
-You will see the '**_ADSL_**' indicator light go solid on the modem, and the '**_Internet_**' will follow shortly.
+You will see the '_**ADSL**_' indicator light go solid on the modem, and the '_**Internet**_' will follow shortly.
 
 ### Configuring for NBN FTTN
 
@@ -86,7 +86,7 @@ You will see the '**_ADSL_**' indicator light go solid on the modem, and the '**
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-fttn-1.jpg">
 
-From the Netcomm homepage, click on '**_Internet_**' on the left hand column and then click on '**_Create New_**'.
+From the Netcomm homepage, click on '_**Internet**_' on the left hand column and then click on '_**Create New**_'.
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-fttn-2.png">
 
@@ -107,7 +107,7 @@ You will need to enter in the following information:
 
 If everything has been plugged in correctly, you should have Internet access within 60 seconds.
 
-You will see the '_**DSL**_' indicator light go solid on the modem, and the '_**Internet**_' will follow shortly.
+You will see the '**_DSL_**' indicator light go solid on the modem, and the '**_Internet_**' will follow shortly.
 
 You are now connected to the Internet!
 
@@ -122,7 +122,7 @@ You are now connected to the Internet!
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-fttn-1.jpg">
 
-From the Netcomm homepage, click on '**_Internet_**' on the left hand column and then click on '**_Create New_**'.
+From the Netcomm homepage, click on '_**Internet**_' on the left hand column and then click on '_**Create New**_'.
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-hfc-fttp-1.png">
 
@@ -149,21 +149,29 @@ You are now connected to the Internet!
 
 ## WiFi Settings
 
-### Changing your WiFi Password
+The Netcomm NF18ACV comes preconfigured with WiFi and the default username / password can be found in the following locations:
 
-- - -
+* On the WiFi security card provided with the modem.
+* On the bottom of the modem.
 
-::: tip
-Coming Soon!
+::: warning
+**Note:** If you have changed your WiFi name / password this will no longer be correct.
 :::
 
-### Changing your WiFi Name
+### Changing your WiFi Name & Password
+---
 
-- - -
+**Prerequisites:** 
 
-::: tip
-Coming Soon!
-:::
+* Netcomm NF18ACV
+
+Log into the Netcomm Management Interface.
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-wifi-1.png">
+
+From the Netcomm homepage, select '**_Wireless_**'
+
+On this page you will be able to change the '**_Name_**' and password for your WiFi connection.
 
 ## Configuring Voip Service
 
