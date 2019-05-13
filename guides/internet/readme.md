@@ -2,7 +2,6 @@
 title: Netcomm NF18ACV
 date: 2019-05-13T01:37:22.245Z
 ---
-
 ## Netcomms Management Interface
 
 Unbox Modem, connect it to power then power it on. 
@@ -35,9 +34,34 @@ It is highly recommended that you change this password!
 
 Click '**_Login_**'.
 
-****
+- - -
 
 ## Configuration Guides
+
+### Configuring for ADSL
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-adsl-1.png">
+
+From the Netcomm homepage, click on '**_Internet_**' on the left hand column and then click on '**_Create New_**'.
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-adsl-2.png">
+
+You will need to enter in the following information:
+
+* **Description:** This is for your reference only.
+* **Internet Service:** Choose '**_ADSL_**'.
+* **Connection Type:** Choose '**_PPPoE_**'.
+* **VPI:** 8
+* **VCI:** 35
+* **Username:** Enter the username provided by ECN. (Available at https://my.ecn.net.au).
+* **Password:** Enter the password provided by ECN. (Available at https://my.ecn.net.au).
+
+::: tip
+If you do not know your username & password, contact ECN on 1300 790 111
+:::
+
+Click '**_Apply_**'.
+
 
 ### Configuring for NBN Fibre to the Node
 
