@@ -32,25 +32,30 @@ The modem comes default with the following username & password.
 It is highly recommended that you change this password!
 :::
 
-Click '**_Login_**'.
-
-- - -
+Click '_**Login**_'.
 
 ## Configuration Guides
 
 ### Configuring for ADSL
 
-<img style="width: auto; height: auto;" src="/images/nf18acv-adsl-1.png">
+- - -
 
-From the Netcomm homepage, click on '**_Internet_**' on the left hand column and then click on '**_Create New_**'.
+**Prerequisites:** 
+
+* An ADSL connection provided by ECN.
+* Netcomm NF18ACV
+
+<img style="width: 1100px; height: auto;" src="/images/nf18acv-fttn-1.jpg">
+
+From the Netcomm homepage, click on '_**Internet**_' on the left hand column and then click on '_**Create New**_'.
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-adsl-2.png">
 
 You will need to enter in the following information:
 
 * **Description:** This is for your reference only.
-* **Internet Service:** Choose '**_ADSL_**'.
-* **Connection Type:** Choose '**_PPPoE_**'.
+* **Internet Service:** Choose '_**ADSL**_'.
+* **Connection Type:** Choose '_**PPPoE**_'.
 * **VPI:** 8
 * **VCI:** 35
 * **Username:** Enter the username provided by ECN. (Available at https://my.ecn.net.au).
@@ -60,21 +65,53 @@ You will need to enter in the following information:
 If you do not know your username & password, contact ECN on 1300 790 111
 :::
 
-Click '**_Apply_**'.
+Click '_**Apply**_'.
 
 If everything has been plugged in correctly, you should have Internet access within 60 seconds.
 
-You will see the '**_ADSL_**' indicator light go solid on the modem, and the '**_Internet_**' will follow shortly.
-
-You are now connected to the Internet!
+You will see the '_**ADSL**_' indicator light go solid on the modem, and the '_**Internet**_' will follow shortly.
 
 ### Configuring for NBN Fibre to the Node
 
+- - -
+
+**Prerequisites:** 
+
+* Fibre to the Node NBN connection provided by ECN.
+* Netcomm NF18ACV
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-fttn-1.jpg">
+
+From the Netcomm homepage, click on '_**Internet**_' on the left hand column and then click on '_**Create New**_'.
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-fttn-2.png">
+
+You will need to enter in the following information:
+
+* **Description**: This is for your reference only.
+* **Internet Service**: Choose 'VDSL'.
+* **Connection Type**: Choose 'PPPoE'.
+* **Username**: Enter the username provided by ECN. (Available at * https://my.ecn.net.au).
+* **Password**: Enter the password provided by ECN. (Available at 
+https://my.ecn.net.au).
+* **802.1P:** Leave unchanged at -1
+* **VLAN Tag:** Leave unchanged at -1 (unless advised specifically by ECN).
 ::: tip
-Coming Soon!
+If you do not know your username & password, contact ECN on 1300 790 111
 :::
+Click 'Apply'.
+
+If everything has been plugged in correctly, you should have Internet access within 60 seconds.
+
+You will see the '**_DSL_**' indicator light go solid on the modem, and the '**_Internet_**' will follow shortly.
+
+You are now connected to the Internet!
+
+# Configuring for NBN Fibre to the Node
 
 ### Configuring for NBN FTTP or HFC
+
+- - -
 
 ::: tip
 Coming Soon!
@@ -84,11 +121,15 @@ Coming Soon!
 
 ### Changing your WiFi Password
 
+- - -
+
 ::: tip
 Coming Soon!
 :::
 
 ### Changing your WiFi Name
+
+- - -
 
 ::: tip
 Coming Soon!
