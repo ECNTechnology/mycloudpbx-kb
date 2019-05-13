@@ -57,7 +57,15 @@ Make sure that it is ticked and note down the '**_Allocated Dial Code_**'
 
 **To Disable Call Forwarding:** Dial the allocated dial code, and after the tone, hangup.
 
-## Call Recordings
+
+
+## Conference Calls
+
+::: tip 
+Coming Soon! 
+:::
+
+## Recording Calls
 
 Call recordings can be enabled for inbound calls (per call route), outbound calls (per extensions), or both.
 
@@ -222,12 +230,6 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 ```
 openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem
 ```
-
-## Conference Calls
-
-::: tip 
-Coming Soon! 
-:::
 
 ## Virtual FAX
 
