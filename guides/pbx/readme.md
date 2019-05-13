@@ -78,11 +78,30 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
 
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-6.png">
+
 Click '**_Return to Service_**' to go back to the main PBX homepage.
 
 #### Enabling Call Recordings for outbound calls
 
 To enable call recordings for outbound calls, select '**_Offices & Users_**' from the PBX main homepage.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-7.png">
+
+Select the extension you wish to modify.
+
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-8.png">
+
+Scroll to the bottom of the page to the "**_Security and Other Features_**' section and use the checkbox to enable call recording as shown.
+
+Click '**_Save & Close_**
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
+
+Your changes are now ready to '**_Apply_**' to your PBX.
+
+Click '**_Apply PBX Changes_**'.
 
 
 
