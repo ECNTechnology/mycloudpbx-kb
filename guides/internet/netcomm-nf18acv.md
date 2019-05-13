@@ -18,6 +18,8 @@ Please note that you may not have internet connection even after connecting to t
 All modems / routers sent from ECN Technology are preconfigured to connect to ECN network and therefore you don’t need to be reconfigured.
 
 
+
+
 ## Configuration Guides
 
 ### Configuring for NBN Fibre to the Node
