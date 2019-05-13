@@ -30,7 +30,7 @@ Click '_**My Services**_' to view your services.
 
 Expand the '_**Voice**_' list and select the PBX you wish to manage.
 
-## Hosted PBX Dashboard
+### Hosted PBX Dashboard
 
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
 <https://dashboard.ecn.net.au>
@@ -57,15 +57,7 @@ Make sure that it is ticked and note down the '**_Allocated Dial Code_**'
 
 **To Disable Call Forwarding:** Dial the allocated dial code, and after the tone, hangup.
 
-
-
-## Conference Calls
-
-::: tip 
-Coming Soon! 
-:::
-
-## Recording Calls
+## Call Recordings
 
 Call recordings can be enabled for inbound calls (per call route), outbound calls (per extensions), or both.
 
@@ -230,6 +222,27 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 ```
 openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem
 ```
+
+## Conference Calls
+
+::: tip 
+Coming Soon! 
+:::
+
+## Holidays
+
+This guide will help you configure a Holiday Condition for your PBX.
+
+<img style="width: auto; height: auto;" src="/images/pbx_homepage_1.png">
+
+From the PBX Homepage select '**_Holidays_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-holidays-1.png">
+
+If you want to edit an existing condition, you can click '_**View/Edit**_' on that, otherwise click '_**Add Condition**_'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-holidays-2.png">
+
 
 ## Virtual FAX
 
