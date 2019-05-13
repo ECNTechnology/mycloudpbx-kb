@@ -158,21 +158,9 @@ The Netcomm NF18ACV comes preconfigured with WiFi and the default username / pas
 **Note:** If you have changed your WiFi name / password this will no longer be correct.
 :::
 
-### Changing your WiFi Password
+### Changing your WiFi Name & Password
 
-- - -
 
-::: tip
-Coming Soon!
-:::
-
-### Changing your WiFi Name
-
-- - -
-
-::: tip
-Coming Soon!
-:::
 
 ## Configuring Voip Service
 
