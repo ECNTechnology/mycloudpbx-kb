@@ -20,6 +20,10 @@ All modems / routers sent from ECN Technology are preconfigured to connect to EC
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-webinterface-1.png">
 
+The default IP Address of the Netcomm NF18ACV is **192.168.20.1**.
+
+Open your web browser and type in **192.168.20.1** in the address bar as shown in the above image.
+
 The modem comes default with the following username & password.
 
 * **Username:** admin
