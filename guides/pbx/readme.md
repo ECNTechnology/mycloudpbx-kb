@@ -375,7 +375,7 @@ To enable inbound virtual FAX you will need to click on '_**Call Routing**_' fro
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-4.png">
 
-If you are modifying an existing an existing call route, click '**_view/edit_**', otherwise click '**_Add Call Route_**'.
+If you are modifying an existing an existing call route, click '**_view/edit_**' next to the number you wish to modify, otherwise click '**_Add Call Route_**'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-5.png">
 
