@@ -54,7 +54,7 @@
           <img src="/images/inbound-1300.png" alt="Inbound 1300" class="guide-icon">
 
           <h2 class="guide-title">Inbound 1300</h2>
-          <p class="guide-text">Our 1300 guides will assist you with configuring your Inbound 1300 number.</p>
+          <p class="guide-text">Our Inbound 1300 guides will assist you with configuring your Inbound 1300 number.</p>
         </div>
       </router-link>
     </div>
@@ -63,7 +63,7 @@
         <div class="guide-item">
           <img src="/images/email.png" alt="Email" class="guide-icon">
           <h2 class="guide-title">Email</h2>
-          <p class="guide-text">Our email guides will step you through configuring your ECN email address on all devices.</p>
+          <p class="guide-text">Our Email guides will step you through configuring your ECN email address on all devices.</p>
         </div>
       </router-link>
     </div>
