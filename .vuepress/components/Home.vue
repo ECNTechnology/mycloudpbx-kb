@@ -1,7 +1,7 @@
 <template>
 
 <div class="container-fluid">
-  <div class="row justify-content-center pt-4 pb-4">
+  <div class="row justify-content-center pt-4 pb-5 search-container">
     <div class="col-sm-12">
       <!-- <img class="home-logo" src="/images/ecn-tagline.png" alt=""> -->
       <h1 class="kb-title">Hi, how can we help you?</h1>
@@ -15,7 +15,7 @@
       <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false"/>
     </div>
   </div>
-  <div class="row justify-content-center">
+  <div class="row justify-content-center pt-2">
     <div class="col-sm-12">
       <h1 class="home-kb">Knowledge Base</h1>
     </div>
@@ -107,6 +107,13 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   margin: 60px auto;
   display: block;
   width: 300px;
+}
+
+.search-container{
+  background-image: url('/images/main-bg.png');
+  color: #fff;
+  background-size: cover;
+  background-position: left;
 }
 
 .kb-title,
