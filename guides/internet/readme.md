@@ -182,11 +182,11 @@ Prerequisites:
 
 * Netcomm NF18ACV
 
-<img style="width: auto; height: auto;" src="/images/nf18acv-credentials-1.png">
+<img style="width: auto; height: auto;" src="/images/nf18acv-credentials-1.jpg">
 
 
 Log into the Netcomm Management Interface and select '**Passwords**' from the '**Management**' menu.
-<img style="width: auto; height: auto;" src="/images/nf18acv-credentials-2.png">
+<img style="width: auto; height: auto;" src="/images/nf18acv-credentials-2.jpg">
 
 
 From this page you can change your usernames & passwords that are used to log into the Netcomm Management Interface.
