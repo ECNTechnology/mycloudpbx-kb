@@ -71,7 +71,7 @@ If everything has been plugged in correctly, you should have Internet access wit
 
 You will see the '_**ADSL**_' indicator light go solid on the modem, and the '_**Internet**_' will follow shortly.
 
-### Configuring for NBN Fibre to the Node
+### Configuring for NBN FTTN
 
 - - -
 
@@ -107,7 +107,6 @@ You will see the '**_DSL_**' indicator light go solid on the modem, and the '**_
 
 You are now connected to the Internet!
 
-# Configuring for NBN Fibre to the Node
 
 ### Configuring for NBN FTTP or HFC
 
