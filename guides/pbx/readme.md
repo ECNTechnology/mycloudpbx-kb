@@ -106,7 +106,19 @@ Click '_**Apply PBX Changes**_'.
 There are two ways to access your call recordings.
 
 * FTP
-* [ECN PBX Dashboard](#dashboard)
+* Hosted PBX Dashboard
+
+#### Hosted PBX Dashboard
+
+Log into the [Hosted PBX Dashboard ](https://dashboard.ecn.net.au) with the same username / password you use for the management portal. - If you do not have this, contact your administrator.
+
+
+
+#### FTP
+
+::: tip
+Coming Soon!
+:::
 
 ## Call Recording Encryption
 
