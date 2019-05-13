@@ -104,7 +104,6 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 Click '**_Apply PBX Changes_**'.
 
 
-
 ### Accessing Call Recordings
 
 ::: tip 
