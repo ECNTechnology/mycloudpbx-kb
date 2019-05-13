@@ -2,6 +2,9 @@
 title: Email Guides
 date: 2019-04-17T09:15:16.967Z
 ---
+
+
+
 Use the menu on the left hand side of the screen to select the user guide for your device.
 
 ## ECN Management Portal
@@ -21,24 +24,23 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 <img style="width: 400px; height: auto;" src="/images/webnowlogo.png">
 
 WebNow email can be configured on any modern email client that supports POP or IMAP with TLS encryption.
-You will find setup instructions for the most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
+You will find setup instructions for the most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
 
 ### Mac - Apple Mail
 
 - - -
 
-The following guide will walk you through configuring your custom domain Webnow email address on the "_**mail**_" app for OSX.
+The following guide will walk you through configuring your custom domain Webnow email address on the "**_mail_**" app for OSX.
 
 Open Apple Mail.
 
 <img style="width: auto; height: auto;" src="/images/webnow-mail-1.png">
 
-From the '**_Mail_**' menu, select '**_Add Account_**'.
-
+From the '_**Mail**_' menu, select '_**Add Account**_'.
 
 <img style="width: auto; height: auto;" src="/images/webnow-mail-2.png">
 
-When prompted to choose a Mail account provider, select '_**Other Mail Account**_' and then click '**_Continue_**'.
+When prompted to choose a Mail account provider, select '**_Other Mail Account_**' and then click '_**Continue**_'.
 
 <img style="width: auto; height: auto;" src="/images/webnow-mail-3.png">
 
@@ -49,17 +51,17 @@ Enter you name, email address, and password.
 Make sure you have the following information filled in:
 
 * **Email Address:** Your email address.
-* **Username:** This is your _**Mailbox ID**_ (If you do not know what this is, contact your administrator.)
+* **Username:** This is your **_Mailbox ID_** (If you do not know what this is, contact your administrator.)
 * **Password:** Your password.
 * **Account Type:** Choose either IMAP or POP based on your preferences.
 * **Incoming Mail Server:** mail.webconnect.com.au
 * **Outgoing Mail Server:** mail.webconnect.com.au
 
-Click '**_Sign In_**'.
+Click '_**Sign In**_'.
 
 <img style="width: auto; height: auto;" src="/images/webnow-mail-5.png">
 
-click '**_Done_**'.
+click '_**Done**_'.
 
 You are now finished and will be taken to your inbox.
 
@@ -67,57 +69,62 @@ You are now finished and will be taken to your inbox.
 
 - - -
 
-
-The following guide will walk you through configuring your custom domain Webnow email address on the "_**Outlook 365**_" app for OSX.
+The following guide will walk you through configuring your custom domain Webnow email address on the "**_Outlook 365_**" app for OSX.
 
 Open Outlook 365.
 
-image1
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-1.png">
 
-From the overhead menu, select '**_Outlook_**' and then '**_Preferences_**'.
 
-image2
+From the overhead menu, select '_**Outlook**_' and then '_**Preferences**_'.
 
-Select '**_Accounts_**' from the menu.
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-2.png">
 
-image3
+Select '_**Accounts**_' from the menu.
 
-In the window that shows up, click the '**_+_**' button then click '**_New Account_**'
+<img style="width: 550px; height: auto;" src="/images/osx-365-webnow-3.png">
 
-image4
+In the window that shows up, click the '_**+**_' button then click '_**New Account**_'
 
-Enter your email address and press '**_Continue_**'
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-4.png">
 
-image5
+Enter your email address and press '_**Continue**_'
 
-When prompted, select, '**_Choose the Provider_**'.
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-5.png">
 
-image6
 
-Choose '**_IMAP/POP_**' from the list of providers.
+When prompted, select, '_**Choose the Provider**_'.
 
-image7
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-6.png">
+
+Choose '_**IMAP/POP**_' from the list of providers.
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-7.png">
+
 
 Enter the following information:
 
 * **Type:** Choose either IMAP or POP.
 * **Email Address:** Your email address.
-* **Username:** Your **_Maibox ID_** (If you do not know what this is, contact your administrator.)
+* **Username:** Your _**Maibox ID**_ (If you do not know what this is, contact your administrator.)
 * **Password:** Your mailbox password.
 
 **Incoming Mail Server**
+
 * **Incoming Server:** mail.webconnect.com.au
-* **Incoming Server Port (IMAP):** 143
+* **Incoming Server Port (IMAP):** 993 **or** 143
 * **Incoming Server Port (POP):** 110
 * **Use SSL to connect :** This should be ticked only if you are using IMAP
 
 **Outgoing Mail Server**
+
 * **Outgoing Server:** mail.webconnect.com.au
 * **Outgoing Server Port:** 587
 * **Use SSL to connect:** This should be ticked.
 
-Click '**_Add Account_**'
+Click '_**Add Account**_'
 
+image8
 
 ### Windows - Outlook 2019
 
@@ -134,15 +141,15 @@ Open the "**Settings**" app by clicking the
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-1.png">
 
-Click '_**Passwords and Accounts**_'.
+Click '**_Passwords and Accounts_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-2.png">
 
-Click '_**Add Account**_'.
+Click '**_Add Account_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-3.png">
 
-Choose '_**Other**_' from the options menu.
+Choose '**_Other_**' from the options menu.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-webnow-1.png">
 
@@ -155,7 +162,7 @@ Enter the following information:
 
 <img style="width: auto; height: 500px;" src="/images/iphone-webnow-2.png">
 
-From the top of the screen choose '**_IMAP_**'.
+From the top of the screen choose '_**IMAP**_'.
 
 Enter the following information:
 
@@ -171,11 +178,11 @@ Enter the following information:
 * **Username:** Your mailbox ID (found in the ECN Portal).
 * **Password:** Your email password.
 
-Once you have verified the information is correct, click '**_Next_**'
+Once you have verified the information is correct, click '_**Next**_'
 
 <img style="width: auto; height: 160px;" src="/images/iphone-webnow-3.png">
 
-Click '**_Save_**' to complete the setup process.
+Click '_**Save**_' to complete the setup process.
 
 ### Android
 
@@ -268,7 +275,7 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 <img style="width: 500px; height: auto;" src="/images/ecnemaillogo.png">
 
-You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
+You will find setup instructions for your **_@ecn.net.au_** account for most common devices below, or if you are an advanced user, choose '_**General Settings**_' from the left hand menu.
 
 - - -
 
@@ -284,22 +291,22 @@ You will find setup instructions for your _**@ecn.net.au**_ account for most com
 
 - - -
 
-The following guide will walk you through configuring your @ecn.net.au email account on the "**_mail_**" app for iPhone.
+The following guide will walk you through configuring your @ecn.net.au email account on the "_**mail**_" app for iPhone.
 
 Open the "**Settings**" app by clicking the 
 <img style="width: 30px; height: auto;" src="/images/iphone-settings-icon.png"> icon.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-1.png">
 
-Click '_**Passwords and Accounts**_'.
+Click '**_Passwords and Accounts_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-2.png">
 
-Click '_**Add Account**_'.
+Click '**_Add Account_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-3.png">
 
-Choose '_**Other**_' from the options menu.
+Choose '**_Other_**' from the options menu.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-ecnemail-1.png">
 
@@ -312,7 +319,7 @@ Enter the following information:
 
 <img style="width: auto; height: 500px;" src="/images/iphone-ecnemail-2.png">
 
-From the top of the screen choose '**_IMAP_**'.
+From the top of the screen choose '_**IMAP**_'.
 
 Enter the following information:
 
@@ -328,11 +335,11 @@ Enter the following information:
 * **Username:** Your email address.
 * **Password:**  Your email password.
 
-Once you have verified the information is correct, click '**_Next_**'
+Once you have verified the information is correct, click '_**Next**_'
 
 <img style="width: auto; height: 160px;" src="/images/iphone-webnow-3.png">
 
-Click '**_Save_**' to complete the setup process.
+Click '_**Save**_' to complete the setup process.
 
 ### Android
 
@@ -403,7 +410,7 @@ You have now added your account to the Email app.
 
 - - -
 
-Advanced users will be able to configure their **_@ecn.net.au_** email account using the following settings:
+Advanced users will be able to configure their _**@ecn.net.au**_ email account using the following settings:
 
 **Login Credentials**
 
@@ -504,41 +511,41 @@ Open the "**Settings**" app by clicking the
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-1.png">
 
-Click '_**Passwords and Accounts**_'.
+Click '**_Passwords and Accounts_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-2.png">
 
-Click '_**Add Account**_'.
+Click '**_Add Account_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-3.png">
 
-Choose '_**Exchange**_' from the list of account types.
+Choose '**_Exchange_**' from the list of account types.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-6.png">
 
-Enter your '_**Email Address**_' and add a _**description**_ for your reference.
+Enter your '**_Email Address_**' and add a **_description_** for your reference.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-5.png">
 
-When prompted click '_**Sign In**_'.
+When prompted click '**_Sign In_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-7.png">
 
-Enter your '_**password**_' and click '_**Sign In**_'.
+Enter your '**_password_**' and click '**_Sign In_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-8.png">
 
-If prompted for an account code, use the code displayed on your authenticator app and click '_**Verify**_'. 
+If prompted for an account code, use the code displayed on your authenticator app and click '**_Verify_**'. 
 
 If you have not enabled 2 factor authentication you will not see this prompt.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-9.png">
 
-When prompted, click the checkbox and click '_**Accept**_'.
+When prompted, click the checkbox and click '**_Accept_**'.
 
 <img style="width: auto; height: 500px;" src="/images/iphone-365-10.png">
 
-Choose the applications you would like to use this email account with and then click '_**Save**_'.
+Choose the applications you would like to use this email account with and then click '**_Save_**'.
 
 ### Android
 
@@ -594,7 +601,7 @@ Your email has now been configured successfully.
 
 - - -
 
-The **_Business Premium_** Office 365 accounts come with the a suite of Microsoft Office applications.
+The _**Business Premium**_ Office 365 accounts come with the a suite of Microsoft Office applications.
 Use the following guide to download and install them on your computer. 
 
 Navigate to **portal.office.com**
