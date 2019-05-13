@@ -63,11 +63,61 @@ click '**_Done_**'.
 
 You are now finished and will be taken to your inbox.
 
-
-
 ### Mac - Outlook 365
 
 - - -
+
+
+The following guide will walk you through configuring your custom domain Webnow email address on the "_**Outlook 365**_" app for OSX.
+
+Open Outlook 365.
+
+image1
+
+From the overhead menu, select '**_Outlook_**' and then '**_Preferences_**'.
+
+image2
+
+Select '**_Accounts_**' from the menu.
+
+image3
+
+In the window that shows up, click the '**_+_**' button then click '**_New Account_**'
+
+image4
+
+Enter your email address and press '**_Continue_**'
+
+image5
+
+When prompted, select, '**_Choose the Provider_**'.
+
+image6
+
+Choose '**_IMAP/POP_**' from the list of providers.
+
+image7
+
+Enter the following information:
+
+* **Type:** Choose either IMAP or POP.
+* **Email Address:** Your email address.
+* **Username:** Your **_Maibox ID_** (If you do not know what this is, contact your administrator.)
+* **Password:** Your mailbox password.
+
+**Incoming Mail Server**
+* **Incoming Server:** mail.webconnect.com.au
+* **Incoming Server Port (IMAP):** 143
+* **Incoming Server Port (POP):** 110
+* **Use SSL to connect :** This should be ticked only if you are using IMAP
+
+**Outgoing Mail Server**
+* **Outgoing Server:** mail.webconnect.com.au
+* **Outgoing Server Port:** 587
+* **Use SSL to connect:** This should be ticked.
+
+Click '**_Add Account_**'
+
 
 ### Windows - Outlook 2019
 
