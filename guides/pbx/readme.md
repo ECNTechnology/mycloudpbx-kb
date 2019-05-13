@@ -82,6 +82,9 @@ Click '**_Return to Service_**' to go back to the main PBX homepage.
 
 #### Enabling Call Recordings for outbound calls
 
+To enable call recordings for outbound calls, select '**_Offices & Users_**' from the PBX main homepage.
+
+
 
 ### Accessing Call Recordings
 
