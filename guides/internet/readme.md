@@ -149,6 +149,15 @@ You are now connected to the Internet!
 
 ## WiFi Settings
 
+The Netcomm NF18ACV comes preconfigured with WiFi and the default username / password can be found in the following locations:
+
+* On the WiFi security card provided with the modem.
+* On the bottom of the modem.
+
+::: warning
+**Note:** If you have changed your WiFi name / password this will no longer be correct.
+:::
+
 ### Changing your WiFi Password
 
 - - -
