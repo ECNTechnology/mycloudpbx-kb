@@ -192,7 +192,7 @@ Log into the Netcomm Management Interface and select '**Passwords**' from the '*
 From this page you can change your usernames & passwords that are used to log into the Netcomm Management Interface.
 
 
-::: warning
+::: tip
 You will need to login with the new username / password after you hit save.
 :::
 
