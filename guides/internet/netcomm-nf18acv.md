@@ -18,6 +18,19 @@ All modems / routers sent from ECN Technology are preconfigured to connect to EC
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-webinterface-1.png">
 
+The modem comes default with the following username & password.
+
+* **Username:** admin
+* **Password:** admin
+
+::: tip
+It is highly recommended that you change this password!
+:::
+
+Click '**_Login_**'.
+
+****
+
 ## Configuration Guides
 
 ### Configuring for NBN Fibre to the Node
