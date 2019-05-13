@@ -6,8 +6,10 @@ This page will help you configure your **Netcomm NF18ACV** to work with your ECN
 
 ## Netcomms Management Interface
 
-Unbox Modem, connect it to power then power it on. 
-Use the provided Ethernet cable to connect it to your computer. (This cable must be plugged into one of the yellow LAN ports on the modem) 
+**Prerequisites:**
+
+* Netcomm NF18ACV, plugged in and powered on. 
+* Netcomm must be plugged into your computer with the provided Ethernet cable.(This cable must be plugged into one of the yellow LAN ports on the modem) 
 
 Alternatively, you can use the provided wifi details on the provided card to connect your computer wirelessly to the modem. 
 
