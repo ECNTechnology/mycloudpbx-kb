@@ -273,7 +273,6 @@ Choose from the drop down list the holiday condition you wish to enable.
 
 Scroll down the page and click '**_Save_**' when you are finished.
 
-
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
 
 Your changes are now ready to '_**Apply**_' to your PBX.
@@ -288,15 +287,35 @@ Each extension has the option to have personal voicemail enabled. This voicemail
 
 To access the Voicemail system, dial **777** from your phone, or press the **_Voicemail Button_** on your handset if it has one.
 
-The voicemail system will then prompt you to enter your **_PIN_** followed by the **#** key.
+The voicemail system will then prompt you to enter your **_PIN_** followed by the **\#** key.
 
 Once authenticated to the voicemail system, you will be able to follow the prompts to record your personal voicemail messages, and listen to voicemails left for you.
 
 ### Enable Voicemail on Extension
 
-::: tip
-Coming Soon!
-:::
+To configure voicemail on an extension, click on the <img style="width: 50px; height: auto;" src="/images/pbx-officeandusers-icon.png"> icon from the PBX homepage.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-7.png">
+
+Select the extension you wish to modify.
+
+<img style="width: auto; height: auto;" src="/images/pbx-voicemail-1.png">
+
+Scroll down until you reach the '**_Voicemail_**' section.
+
+Here you can set the following information:
+
+* **Voicemail PIN:** This is the PIN you will enter to access the voicemail system.
+* **Send Messages to my Mailbox:** When selected, the voicemail will be emailed to the address nominated.
+* **Delete messages after emailing them:** When selected emails will no longer be retrievable from your handset and will be only accessed via email.
+
+Scroll down the page and click '**_Save_**' when you are finished.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
+
+Your changes are now ready to '_**Apply**_' to your PBX.
+
+Click '_**Apply PBX Changes**_'.
 
 
 ## Virtual FAX
