@@ -78,6 +78,8 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
 
+Click '**_Return to Service_**' to go back to the main PBX homepage.
+
 #### Enabling Call Recordings for outbound calls
 
 
