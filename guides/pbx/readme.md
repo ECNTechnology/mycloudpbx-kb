@@ -265,6 +265,14 @@ The last thing you'll need to configure is the '**_Activity_**':
 * **Activity Type:** Conference (Basic)
 * **Activity:** Choose a conference room number
 
+Click '**_Save_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
+
+Your changes are now ready to '**_Apply_**' to your PBX.
+
+Click '**_Apply PBX Changes_**'.
+
 **Creating a virtual extension**
 
 - - -
@@ -275,7 +283,20 @@ To begin, select '**_Virtual Extensions_**' <img style="width: 50px; height: aut
 
 <img style="width: auto; height: auto;" src="/images/pbx-conference-5.png">
 
+Enter the following information:
 
+* **Name:** This is for your reference.
+* **Extension Number:** This is the 3 or 4 digit speed dial number.
+* **Activity Type:** Conference Basic
+* **Activity:** Select a conference room number.
+
+Click '**_Save_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
+
+Your changes are now ready to '**_Apply_**' to your PBX.
+
+Click '**_Apply PBX Changes_**'.
 
 ## Holidays
 
