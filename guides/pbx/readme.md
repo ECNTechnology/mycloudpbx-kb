@@ -243,6 +243,27 @@ If you want to edit an existing condition, you can click '_**View/Edit**_' on th
 
 <img style="width: auto; height: auto;" src="/images/pbx-holidays-2.png">
 
+Give the holiday condition a **Name**. (This is for your reference later).
+
+Add in as many dates that your office will be **closed**.
+
+::: warning
+**Note:** The office will be closed for the **entire day and night** selected.
+:::
+
+At the bottom of the screen you can choose what will happen on any given holiday.
+
+In this instance we're going onto an '**_Announcement_**' called Voicemail.
+
+Click '**_Save_**' when you're finished making changes.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
+
+Your changes are now ready to '**_Apply_**' to your PBX.
+
+Click '**_Apply PBX Changes_**'.
+
+
 
 ## Virtual FAX
 
