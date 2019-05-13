@@ -323,10 +323,11 @@ There are three steps to configuring Virtual FAX.
 
 * Enabling the Virtual FAX Plugin
 * Enabling outbound Virtual senders.
-* Configure a number as inbound Virtual FAX.
+* Configuring a number for inbound Virtual FAX.
 
 ### Enable Virtual FAX
----
+
+- - -
 
 Virtual FAX allows you to have a FAX number with all the convenience of email without needing a traditional FAX machine.
 
@@ -351,7 +352,8 @@ Your changes are now ready to '_**Apply**_' to your PBX.
 Click '_**Apply PBX Changes**_'.
 
 ### Allowed Senders
----
+
+- - -
 
 In order to _**send**_ virtual FAX, your email address must be added to the '_**allowed senders**_' list.
 
@@ -365,7 +367,20 @@ From the PBX homepage, hover over '_**Addons**_' and select '_**Virtual FAX**_'.
 
 On this page you can click '**_Add Virtual FAX Sender_**' and also see a list of existing authorised email addresses.
 
+Click '**_Return to Service_**' when finished.
 
 ### Virtual FAX Inbound
 
-To enable inbound virtual FAX
+To enable inbound virtual FAX you will need to click on '**_Call Routing_**' from the PBX Homepage.
+
+<img style="width: auto; height: auto;" src="/images/pbx-fax-4.png">
+
+If you are modifying an existing an existing call route, click '_**view/edit**_', otherwise click '_**Add Call Route**_'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-fax-5.png">
+
+When creating a call route for Virtual FAX, you will need to fill in the following information:
+
+
+
+
