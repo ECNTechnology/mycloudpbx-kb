@@ -35,6 +35,28 @@ Expand the '_**Voice**_' list and select the PBX you wish to manage.
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
 <https://dashboard.ecn.net.au>
 
+## Call Diversions
+
+Call diversions can be enabled in a number of ways, the easiest of which is to enable '**_Call Forward All_**' on the inbound route.
+
+<img style="width: auto; height: auto;" src="/images/pbx_homepage_1.png">
+
+Select '_**Call Routing**_' from the PBX homepage.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-3.png">
+
+Find the number for which you wish to enable call forwarding on and then click '**_view/edit_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callforward-1.png">
+
+Scroll down until you see the '**_Enable Forward All_**' option.
+
+Make sure that it is ticked and note down the '**_Allocated Dial Code_**'
+
+**To Enable Call Forwarding:** Dial the allocated dial code, followed by the destination.
+
+**To Disable Call Forwarding:** Dial the allocated dial code, and after the tone, hangup.
+
 ## Call Recordings
 
 Call recordings can be enabled for inbound calls (per call route), outbound calls (per extensions), or both.
@@ -55,11 +77,11 @@ Note that you will have to agree to the disclaimer before you can enable the plu
 
 Scroll to the bottom of the page and click '**_Save_**' to save your changes.
 
-You will now be taken back to the main homepage and can now turn on recordings for either inbound calls, outbound calls, or both as per your needs.
+You will now be taken back to the PBX homepage and can now turn on recordings for either inbound calls, outbound calls, or both as per your needs.
 
 #### Enabling Call Recordings for inbound calls
 
-To enable call recordings for an inbound route, select '**_Call Routing_**' from the PBX main homepage.
+To enable call recordings for an inbound route, select '**_Call Routing_**' from the PBX homepage.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-3.png">
 
@@ -79,11 +101,11 @@ Click '**_Apply PBX Changes_**'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-6.png">
 
-Click '**_Return to Service_**' to go back to the main PBX homepage.
+Click '**_Return to Service_**' to go back to the PBX homepage.
 
 #### Enabling Call Recordings for outbound calls
 
-To enable call recordings for outbound calls, select '**_Offices & Users_**' from the PBX main homepage.
+To enable call recordings for outbound calls, select '**_Offices & Users_**' from the PBX homepage.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-7.png">
 
@@ -122,12 +144,11 @@ Here you can filter your call recordings via date, and even search by number.
 
 Click '**_Play_**' or '**_Download_**' to listen to your recordings.
 
-
 #### FTP
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-11.png">
 
-From the main PBX homepage, hover over "**_Addons_**' and select '**_Call Recordings_**'.
+From the PBX homepage, hover over "**_Addons_**' and select '**_Call Recordings_**'.
 
 On the following screen you will be able to set your login credentials for FTP access.
 
