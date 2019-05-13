@@ -14,9 +14,23 @@ TIP: You can also find the default WiFi username / password on the bottom of the
 :::
 
 Please note that you may not have internet connection even after connecting to the modem if the modem had not been configured by ECN. 
+
 All modems / routers sent from ECN Technology are preconfigured to connect to ECN network and therefore you don’t need to be reconfigured.
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-webinterface-1.png">
+
+The modem comes default with the following username & password.
+
+* **Username:** admin
+* **Password:** admin
+
+::: tip
+It is highly recommended that you change this password!
+:::
+
+Click '**_Login_**'.
+
+****
 
 ## Configuration Guides
 
