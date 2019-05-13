@@ -320,6 +320,13 @@ Click '_**Apply PBX Changes**_'.
 
 ## Virtual FAX
 
+Virtual FAX allows you to have a FAX number with all the convenience of email without needing a traditional FAX machine.
+
+To configure virtual FAX you will first need to enable the virtual FAX plugin for your PBX.
+
+::: tip
+Coming Soon!
+:::
 ### Allowed Senders
 
 ::: tip 
