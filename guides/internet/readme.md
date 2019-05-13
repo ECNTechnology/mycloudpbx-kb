@@ -2,6 +2,7 @@
 title: Netcomm NF18ACV
 date: 2019-05-13T01:37:22.245Z
 ---
+This page will help you configure your **Netcomm NF18ACV** to work with your ECN provided Internet connection.
 
 ## Netcomms Management Interface
 
