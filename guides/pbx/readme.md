@@ -37,6 +37,8 @@ The Hosted PBX Dashboard can be used by management to easily view statistics and
 
 ## Call Recordings
 
+Call recordings can be enabled for inbound calls (per call route), outbound calls (per extensions), or both.
+
 ### Enabling Call Recordings
 
 To turn on call recordings for a call route, you must first enable the call recording functionality on your PBX.
@@ -52,6 +54,33 @@ Scroll down until you see '**_Enable Call Recording Plugin_**'.
 
 Note that you will have to agree to the disclaimer before you can enable the plugin.
 
+Scroll to the bottom of the page and click '**_Save_**' to save your changes.
+
+You will now be taken back to the main homepage and can now turn on recordings for either inbound calls, outbound calls, or both as per your needs.
+
+#### Enabling Call Recordings for inbound calls
+
+To enable call recordings for an inbound route, select '**_Call Routing_**' from the PBX main homepage.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-3.png">
+
+Find the number for which you wish to enable call recordings and then click '**_view/edit_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-4.png">
+
+Click the checkbox to '**_Enable Call Recording_**' for all **inbound calls**.
+
+Scroll down to the bottome of the page and click '**_Save_**' to save your changes.
+
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
+
+Your changes are now ready to '**_Apply_**' to your PBX.
+
+Click '**_Apply PBX Changes_**'.
+
+Click '**_Return to Service_**' to go back to the main PBX homepage.
+
+#### Enabling Call Recordings for outbound calls
 
 
 ### Accessing Call Recordings
