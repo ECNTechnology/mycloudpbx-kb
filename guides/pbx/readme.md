@@ -229,6 +229,21 @@ openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECOR
 Coming Soon! 
 :::
 
+## Holidays
+
+This guide will help you configure a Holiday Condition for your PBX.
+
+<img style="width: auto; height: auto;" src="/images/pbx_homepage_1.png">
+
+From the PBX Homepage select '**_Holidays_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-holidays-1.png">
+
+If you want to edit an existing condition, you can click '_**View/Edit**_' on that, otherwise click '_**Add Condition**_'.
+
+<img style="width: auto; height: auto;" src="/images/pbx-holidays-2.png">
+
+
 ## Virtual FAX
 
 ### Allowed Senders
