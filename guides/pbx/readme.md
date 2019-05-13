@@ -125,9 +125,11 @@ Click '**_Play_**' or '**_Download_**' to listen to your recordings.
 
 #### FTP
 
-::: tip
-Coming Soon!
-:::
+<img style="width: auto; height: auto;" src="/images/pbx-callrecordings-11.png">
+
+From the main PBX homepage, hover over "**_Addons_**' and select '**_Call Recordings_**'.
+
+On the following screen you will be able to set your login credentials for FTP access.
 
 ## Call Recording Encryption
 
