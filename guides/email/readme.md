@@ -35,7 +35,6 @@ Open Apple Mail.
 
 From the '**_Mail_**' menu, select '**_Add Account_**'.
 
-
 <img style="width: auto; height: auto;" src="/images/webnow-mail-2.png">
 
 When prompted to choose a Mail account provider, select '_**Other Mail Account**_' and then click '**_Continue_**'.
@@ -63,11 +62,67 @@ click '**_Done_**'.
 
 You are now finished and will be taken to your inbox.
 
-
-
 ### Mac - Outlook 365
 
 - - -
+
+The following guide will walk you through configuring your custom domain Webnow email address on the "_**Outlook 365**_" app for OSX.
+
+Open Outlook 365.
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-1.png">
+
+From the overhead menu, select '**_Outlook_**' and then '**_Preferences_**'.
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-2.png">
+
+Select '**_Accounts_**' from the menu.
+
+<img style="width: 550px; height: auto;" src="/images/osx-365-webnow-3.png">
+
+In the window that shows up, click the '**_+_**' button then click '**_New Account_**'
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-4.png">
+
+Enter your email address and press '**_Continue_**'
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-5.png">
+
+When prompted, select, '**_Choose the Provider_**'.
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-6.png">
+
+Choose '**_IMAP/POP_**' from the list of providers.
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-7.png">
+
+Enter the following information:
+
+* **Type:** Choose either IMAP or POP.
+* **Email Address:** Your email address.
+* **Username:** Your **_Maibox ID_** (If you do not know what this is, contact your administrator.)
+* **Password:** Your mailbox password.
+
+**Incoming Mail Server**
+
+* **Incoming Server:** mail.webconnect.com.au
+* **Incoming Server Port (IMAP):** 993 **or** 143
+* **Incoming Server Port (POP):** 110
+* **Use SSL to connect :** This should be ticked only if you are using IMAP
+
+**Outgoing Mail Server**
+
+* **Outgoing Server:** mail.webconnect.com.au
+* **Outgoing Server Port:** 587
+* **Use SSL to connect:** This should be ticked.
+
+Click '**_Add Account_**'
+
+<img style="width: auto; height: auto;" src="/images/osx-365-webnow-8.png">
+
+If you would like to add another account, click '**_Add another account_**', otherwise if you are finished, click '_**Done**_'.
+
+
 
 ### Windows - Outlook 2019
 
