@@ -2,7 +2,6 @@
 title: Netcomm NF18ACV
 date: 2019-05-10T07:14:15.838Z
 ---
-
 ## Logging into your Netcomm NF18ACV Modems Web Interface
 
 Unbox Modem, connect it to power then power it on. 
@@ -18,8 +17,6 @@ Please note that you may not have internet connection even after connecting to t
 All modems / routers sent from ECN Technology are preconfigured to connect to ECN network and therefore you don’t need to be reconfigured.
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-webinterface-1.png">
-
-
 
 ## Configuration Guides
 
@@ -43,7 +40,6 @@ Coming Soon!
 Coming Soon!
 :::
 
-
 ### Changing your WiFi Name
 
 ::: tip
@@ -55,4 +51,3 @@ Coming Soon!
 ::: tip
 Coming Soon!
 :::
-
