@@ -122,7 +122,7 @@ You are now connected to the Internet!
 
 From the Netcomm homepage, click on '_**Internet**_' on the left hand column and then click on '_**Create New**_'.
 
-<img style="width: auto; height: auto;" src="/images/nf18acv-hfc-fttp-1.jpg">
+<img style="width: auto; height: auto;" src="/images/nf18acv-hfc-fttp-1.png">
 
 You will need to enter in the following information:
 
