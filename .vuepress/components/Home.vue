@@ -41,7 +41,7 @@
     <div class="col-sm-12 col-md-4 col-lg-2">
       <router-link to="/guides/internet/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/business-data.png" alt="Internet" class="guide-icon">
+          <img src="/images/globe.png" alt="Internet" class="guide-icon">
 
           <h2 class="guide-title">Internet</h2>
           <p class="guide-text">Our Internet guides will step you through configuring your Internet connection on your modem.</p>

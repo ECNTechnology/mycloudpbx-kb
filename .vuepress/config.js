@@ -44,6 +44,10 @@ module.exports = {
       ]
     },
     {
+      text: 'ECN Website',
+      link: 'https://www.ecn.net.au'
+    },
+    {
       text: 'Contact us',
       link: 'https://www.ecn.net.au/Contact/'
     },
