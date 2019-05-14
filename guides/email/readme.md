@@ -122,11 +122,85 @@ Click '**_Add Account_**'
 
 If you would like to add another account, click '**_Add another account_**', otherwise if you are finished, click '_**Done**_'.
 
-
-
 ### Windows - Outlook 2019
 
 - - -
+The following guide will walk you through configuring your custom domain Webnow email address in Microsoft Outlook 2019 for Windows.
+
+Open **Outlook 2019** and you will be presented with this screen:
+
+<img style="width: auto; height: 200px;" src="/images/webmail-windows-outlook2019-image1.png">
+
+Enter a name for your mail profile, and then click **OK**
+
+NOTE: This will not affect the usability of your email account, it is only for your reference so you know which profile relates to your ECN Webnow account.
+
+<img style="width: auto; height: 250px;" src="/images/webmail-windows-outlook2019-image2.png">
+
+Enter your **email address**, click the drop down arrow next to **advanced options** and then check the box next to **Let me set up my account manually**
+
+<img style="width: auto; height: 250px;" src="/images/webmail-windows-outlook2019-image3.png">
+
+Choose **IMAP** or **POP**. 
+
+NOTE: The images in this guide will walk you through the IMAP option, however the process is exactly the same for POP and the advanced settings required for POP will be included at the relevant stages.
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image4.png">
+
+Enter your **password** and then click **Connect**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image5.png">
+
+Outlook 2019 will attempt to log you in, however by default it attempts with the incorrect details. To correct this we need to click **Cancel**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image6.png">
+
+From here, we need to choose **Change Account Settings**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image7.png">
+
+Enter in the details as follows:
+
+**Incoming mail**:
+
+**Server:** mail.webconnect.com.au
+
+**Port (IMAP):** 143
+
+**Encryption method (IMAP):** Auto
+
+**Port (POP):** 110
+
+**Encryption method (POP):** None
+
+Leave **Require logon using SPA** unticked
+
+**Outgoing mail:**
+
+**Server:** mail.webconnect.com.au
+
+**Port (SMTP):** 587
+
+**Encryption method (SMTP):** Auto
+
+Leave **Require logon using SPA** unticked
+
+After entering these details, click **Next**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image8.png">
+
+Enter your **password**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image9.png">
+
+Enter your **Mailbox ID** (Found in the MyECN Portal) into the **User Name** field.
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image10.png">
+
+You have no added your account successfully. To add another account, enter in the the email address. 
+
+Otherwise, click **Done**
+
 
 ### iPhone
 
@@ -280,12 +354,15 @@ You will find setup instructions for your _**@ecn.net.au**_ account for most com
 ### Mac - Outlook 365
 
 - - -
+
 ::: tip
 Coming Soon!
 :::
+
 ### Windows - Outlook 2019
 
 - - -
+
 ::: tip
 Coming Soon!
 :::
