@@ -122,6 +122,8 @@ Click '**_Add Account_**'
 
 If you would like to add another account, click '**_Add another account_**', otherwise if you are finished, click '_**Done**_'.
 
+
+
 ### Windows - Outlook 2019
 
 - - -
@@ -273,56 +275,20 @@ Advanced users will be able to configure their WebNow email account using the fo
 
 You will find setup instructions for your _**@ecn.net.au**_ account for most common devices below, or if you are an advanced user, choose '**_General Settings_**' from the left hand menu.
 
-### Mac - Apple Mail
-
-- - -
-
-The following guide will walk you through configuring your **@ecn.net.au** email address on the "**_mail_**" app for OSX.
-
-Open Apple Mail.
-
-<img style="width: auto; height: auto;" src="/images/webnow-mail-1.png">
-
-From the '_**Mail**_' menu, select '_**Add Account**_'.
-
-<img style="width: auto; height: auto;" src="/images/webnow-mail-2.png">
-
-When prompted to choose a Mail account provider, select '**_Other Mail Account_**' and then click '_**Continue**_'.
-
-<img style="width: auto; height: auto;" src="/images/ecnemail-mail-1.png">
-
-
-
-Enter you name, email address, and password.
-
-<img style="width: auto; height: auto;" src="/images/ecnemail-mail-2.png">
-
-Make sure you have the following information filled in:
-
-* **Email Address:** Your email address.
-* **Username:** This is your **_email address_**. 
-* **Password:** Your password.
-* **Account Type:** Choose either IMAP or POP based on your preferences.
-* **Incoming Mail Server:** mail.ecn.net.au
-* **Outgoing Mail Server:** mail.ecn.net.au
-
-Click '_**Sign In**_'.
-
-<img style="width: auto; height: auto;" src="/images/webnow-mail-5.png">
-
-click '_**Done**_'.
-
-You are now finished and will be taken to your inbox.
-
 - - -
 
 ### Mac - Outlook 365
 
 - - -
-
+::: tip
+Coming Soon!
+:::
 ### Windows - Outlook 2019
 
 - - -
+::: tip
+Coming Soon!
+:::
 
 ### iPhone
 
