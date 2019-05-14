@@ -163,27 +163,27 @@ Enter in the details as follows:
 
 **Incoming mail**:
 
-**Server:** mail.webconnect.com.au
+* **Server:** mail.webconnect.com.au
 
-**Port (IMAP):** 143
+* **Port (IMAP):** 143
 
-**Encryption method (IMAP):** Auto
+* **Encryption method (IMAP):** Auto
 
-**Port (POP):** 110
+* **Port (POP):** 110
 
-**Encryption method (POP):** None
+* **Encryption method (POP):** None
 
-Leave **Require logon using SPA** unticked
+* Leave **Require logon using SPA** unticked
 
 **Outgoing mail:**
 
-**Server:** mail.webconnect.com.au
+* **Server:** mail.webconnect.com.au
 
-**Port (SMTP):** 587
+* **Port (SMTP):** 587
 
-**Encryption method (SMTP):** Auto
+* **Encryption method (SMTP):** Auto
 
-Leave **Require logon using SPA** unticked
+* Leave **Require logon using SPA** unticked
 
 After entering these details, click **Next**
 
