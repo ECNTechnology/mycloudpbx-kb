@@ -62,10 +62,9 @@
               </div>
               <div class="col mobile-col-footer">
                 <h3 class="footer-title">Legal</h3>
-                <a href="https://www.ecn.net.au/policies/" target="_blank" class="footer-link"><p class="footer-text">Services Agreement</p></a>
-                <a href="https://www.ecn.net.au/policies/" target="_blank" class="footer-link"><p class="footer-text">Privacy</p></a>
-                <a href="https://www.ecn.net.au/policies/" target="_blank" class="footer-link"><p class="footer-text">Critical Information</p></a>
-                <a href="https://www.ecn.net.au/policies/" target="_blank" class="footer-link"><p class="footer-text">Policies</p></a>
+                <a href="https://www.ecn.net.au/CriticalInformation/" target="_blank" class="footer-link"><p class="footer-text">Critical Information</p></a>
+                <a href="https://www.ecn.net.au/Policies/" target="_blank" class="footer-link"><p class="footer-text">Policies</p></a>
+                <a href="https://www.ecn.net.au/ServicesAgreement/" target="_blank" class="footer-link"><p class="footer-text">Services Agreement</p></a>
               </div>
             </div>
           </div>
