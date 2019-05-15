@@ -6,9 +6,9 @@ publish_mode: editorial_workflow
 media_folder: "/.vuepress/public/images"
 public_folder: "/images"
 collections:
-  - name: "pbx" # Used in routes, e.g., /admin/collections/blog
-    label: "PBX articles" # Used in the UI
-    folder: "/guides/pbx" # The path to the folder where the documents are stored
+  - name: "mycloudpbx" # Used in routes, e.g., /admin/collections/blog
+    label: "myCloudPBX articles" # Used in the UI
+    folder: "/guides/mycloudpbx" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -24,18 +24,18 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "email" # Used in routes, e.g., /admin/collections/blog
-    label: "Email articles" # Used in the UI
-    folder: "/guides/email" # The path to the folder where the documents are stored
+  - name: "email-services" # Used in routes, e.g., /admin/collections/blog
+    label: "Email Services articles" # Used in the UI
+    folder: "/guides/email-services" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "internet" # Used in routes, e.g., /admin/collections/blog
-    label: "Internet articles" # Used in the UI
-    folder: "/guides/internet" # The path to the folder where the documents are stored
+  - name: "internet-services" # Used in routes, e.g., /admin/collections/blog
+    label: "Internet Services articles" # Used in the UI
+    folder: "/guides/internet-services" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter

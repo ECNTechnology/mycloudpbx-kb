@@ -2,7 +2,7 @@
 title: General Settings
 date: 2019-05-13T06:46:38.599Z
 ---
-## General Internet Settings
+## General Internet Services Settings
 
 ### DNS Servers
 

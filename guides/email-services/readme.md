@@ -1,5 +1,5 @@
 ---
-title: Email Guides
+title: Email Services Guides
 date: 2019-04-17T09:15:16.967Z
 ---
 Use the menu on the left hand side of the screen to select the user guide for your device.

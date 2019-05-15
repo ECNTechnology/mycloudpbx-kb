@@ -29,22 +29,22 @@
       </router-link>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-      <router-link to="/guides/pbx/" class="guide-link">
+      <router-link to="/guides/mycloudpbx/" class="guide-link">
         <div class="guide-item">
           <img src="/images/mycloudpbx.png" alt="PBX" class="guide-icon">
 
-          <h2 class="guide-title">PBX</h2>
-          <p class="guide-text">Our PBX guides will assist you with configuring the myCloudPBX platform.</p>
+          <h2 class="guide-title">myCloudPBX</h2>
+          <p class="guide-text">Our myCloudPBX guides will assist you with configuring the myCloudPBX platform.</p>
         </div>
       </router-link>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-      <router-link to="/guides/internet/" class="guide-link">
+      <router-link to="/guides/internet-services/" class="guide-link">
         <div class="guide-item">
           <img src="/images/globe.png" alt="Internet" class="guide-icon">
 
-          <h2 class="guide-title">Internet</h2>
-          <p class="guide-text">Our Internet guides will step you through configuring your Internet connection on your modem.</p>
+          <h2 class="guide-title">Internet Services</h2>
+          <p class="guide-text">Our Internet Services guides will step you through configuring your Internet connection on your modem.</p>
         </div>
       </router-link>
     </div>
@@ -59,11 +59,11 @@
       </router-link>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-      <router-link to="/guides/email/" class="guide-link">
+      <router-link to="/guides/email-services/" class="guide-link">
         <div class="guide-item">
           <img src="/images/email.png" alt="Email" class="guide-icon">
-          <h2 class="guide-title">Email</h2>
-          <p class="guide-text">Our Email guides will step you through configuring your ECN email address on all devices.</p>
+          <h2 class="guide-title">Email Services</h2>
+          <p class="guide-text">Our Email Services guides will step you through configuring your ECN email address on all devices.</p>
         </div>
       </router-link>
     </div>

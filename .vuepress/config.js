@@ -26,20 +26,20 @@ module.exports = {
         link: '/guides/business-sip/'
       },
       {
-        text: 'PBX',
-        link: '/guides/pbx/'
+        text: 'myCloudPBX',
+        link: '/guides/mycloudpbx/'
       },
       {
-        text: 'Internet',
-        link: '/guides/internet/'
+        text: 'Internet Services',
+        link: '/guides/internet-services/'
       },
       {
         text: 'Inbound 1300',
         link: '/guides/inbound-1300/'
       },
       {
-        text: 'Email',
-        link: '/guides/email/'
+        text: 'Email Services',
+        link: '/guides/email-services/'
       }
       ]
     },
@@ -57,21 +57,21 @@ module.exports = {
         title: 'Business SIP',
         children: getChildren('./guides/business-sip/')
       }],
-      '/guides/pbx/': [{
-        title: 'PBX',
-        children: getChildren('./guides/pbx/')
+      '/guides/mycloudpbx/': [{
+        title: 'myCloudPBX',
+        children: getChildren('./guides/mycloudpbx/')
       }],
-      '/guides/internet/': [{
-        title: 'Internet',
-        children: getChildren('./guides/internet/')
+      '/guides/internet-services/': [{
+        title: 'Internet Services',
+        children: getChildren('./guides/internet-services/')
       }],
       '/guides/inbound-1300/': [{
         title: 'Inbound 1300',
         children: getChildren('./guides/inbound-1300/')
       }],
-      '/guides/email/': [{
-        title: 'Email',
-        children: getChildren('./guides/email/')
+      '/guides/email-services/': [{
+        title: 'Email Services',
+        children: getChildren('./guides/email-services/')
       }],
     },
     activeHeaderLinks: true,
