@@ -21,25 +21,26 @@ module.exports = {
     },
     {
       text: 'Knowledge Base',
-      items: [{
-        text: 'Business SIP',
-        link: '/guides/business-sip/'
+      items: [
+      {
+        text: 'Internet Services',
+        link: '/guides/internet-services/'
+      },
+      {
+        text: 'Email Services',
+        link: '/guides/email-services/'
       },
       {
         text: 'myCloudPBX',
         link: '/guides/mycloudpbx/'
       },
       {
-        text: 'Internet Services',
-        link: '/guides/internet-services/'
-      },
-      {
         text: 'Inbound 1300',
         link: '/guides/inbound-1300/'
       },
       {
-        text: 'Email Services',
-        link: '/guides/email-services/'
+        text: 'Business SIP',
+        link: '/guides/business-sip/'
       },
       {
         text: 'CloudDial',
@@ -57,25 +58,25 @@ module.exports = {
     },
     ],
     sidebar: {
-      '/guides/business-sip/': [{
-        title: 'Business SIP',
-        children: getChildren('./guides/business-sip/')
+      '/guides/internet-services/': [{
+        title: 'Internet Services',
+        children: getChildren('./guides/internet-services/')
+      }],
+      '/guides/email-services/': [{
+        title: 'Email Services',
+        children: getChildren('./guides/email-services/')
       }],
       '/guides/mycloudpbx/': [{
         title: 'myCloudPBX',
         children: getChildren('./guides/mycloudpbx/')
       }],
-      '/guides/internet-services/': [{
-        title: 'Internet Services',
-        children: getChildren('./guides/internet-services/')
-      }],
       '/guides/inbound-1300/': [{
         title: 'Inbound 1300',
         children: getChildren('./guides/inbound-1300/')
       }],
-      '/guides/email-services/': [{
-        title: 'Email Services',
-        children: getChildren('./guides/email-services/')
+      '/guides/business-sip/': [{
+        title: 'Business SIP',
+        children: getChildren('./guides/business-sip/')
       }],
       '/guides/cloud-dial/': [{
         title: 'CloudDial',

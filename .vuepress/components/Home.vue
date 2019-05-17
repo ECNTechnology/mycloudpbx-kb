@@ -20,11 +20,21 @@
       <h1 class="home-kb">Knowledge Base</h1>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-      <router-link to="/guides/business-sip/" class="guide-link">
+      <router-link to="/guides/internet-services/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/business-sip.png" alt="Business SIP" class="guide-icon">
-          <h2 class="guide-title">Business SIP</h2>
-          <p class="guide-text">Our Business SIP guides will assist you with configuring your Business SIP service.</p>
+          <img src="/images/globe.png" alt="Internet" class="guide-icon">
+
+          <h2 class="guide-title">Internet Services</h2>
+          <p class="guide-text">Our Internet Services guides will step you through configuring your Internet connection on your modem.</p>
+        </div>
+      </router-link>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-2">
+      <router-link to="/guides/email-services/" class="guide-link">
+        <div class="guide-item">
+          <img src="/images/email.png" alt="Email" class="guide-icon">
+          <h2 class="guide-title">Email Services</h2>
+          <p class="guide-text">Our Email Services guides will step you through configuring your ECN email address on all devices.</p>
         </div>
       </router-link>
     </div>
@@ -39,16 +49,6 @@
       </router-link>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-      <router-link to="/guides/internet-services/" class="guide-link">
-        <div class="guide-item">
-          <img src="/images/globe.png" alt="Internet" class="guide-icon">
-
-          <h2 class="guide-title">Internet Services</h2>
-          <p class="guide-text">Our Internet Services guides will step you through configuring your Internet connection on your modem.</p>
-        </div>
-      </router-link>
-    </div>
-    <div class="col-sm-12 col-md-4 col-lg-2">
       <router-link to="/guides/inbound-1300/" class="guide-link">
         <div class="guide-item">
           <img src="/images/inbound-1300.png" alt="Inbound 1300" class="guide-icon">
@@ -59,11 +59,11 @@
       </router-link>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-      <router-link to="/guides/email-services/" class="guide-link">
+      <router-link to="/guides/business-sip/" class="guide-link">
         <div class="guide-item">
-          <img src="/images/email.png" alt="Email" class="guide-icon">
-          <h2 class="guide-title">Email Services</h2>
-          <p class="guide-text">Our Email Services guides will step you through configuring your ECN email address on all devices.</p>
+          <img src="/images/business-sip.png" alt="Business SIP" class="guide-icon">
+          <h2 class="guide-title">Business SIP</h2>
+          <p class="guide-text">Our Business SIP guides will assist you with configuring your Business SIP service.</p>
         </div>
       </router-link>
     </div>
