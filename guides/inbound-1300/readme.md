@@ -21,6 +21,6 @@ Once logged in, click '**My Services**' and select your Inbound 1300 service fro
 
 ## more info coming soon
 ::: tip
-Coming Soon
+Coming Soon!
 :::
 
