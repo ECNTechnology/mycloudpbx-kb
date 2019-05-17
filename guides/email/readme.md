@@ -2,7 +2,7 @@
 title: Email Guides
 date: 2019-04-17T09:15:16.967Z
 ---
-Use the menu on the left hand side of the page to select the user guide for your device.
+Use the menu on the left hand side of the screen to select the user guide for your device.
 
 ## ECN Management Portal
 
@@ -125,6 +125,67 @@ If you would like to add another account, click '_**Add another account**_', oth
 ### Windows - Outlook 2019
 
 - - -
+
+The following guide will walk you through configuring your customer domain Webnow email address on **Microsoft Outlook 2019** for Windows.
+
+Open Microsoft Outlook 2019 and you will be presented with this screen
+
+<img style="width: auto; height: 300px;" src="/images/webmail-windows-outlook2019-image1.png">
+
+Add a name for your new profile, and then click **OK**
+
+NOTE: This will **not** affect the login process and is for your own reference only
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image2.png">
+
+Type in your **email address** and then click the drop down arrow next to **advanced options.** Then tick the box next to **Let me set up my account manually**. Now click **Connect**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image3.png">
+
+Click on IMAP or POP
+
+NOTE: You can configure your account as either of these options. The images in this guide will follow the IMAP configuration, the processes are nearly identical and any relevant details for POP configuration will be provided.
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image4.png">
+
+Enter in your **password** and then click **Connect**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image5.png">
+
+Outlook will now try use the default settings to configure you account, it will fail as these are incorrect. In order to edit these we need to click **Cancel**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image6.png">
+
+Click on **Change Account Settings**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image7.png">
+
+Fill out the details as per below:
+
+**Incoming Mail Server Settings**
+
+* **Incoming Mail Server:** mail.webconnect.com.au
+* **Incoming Mail Server Port (IMAP):** 143 with Auto encryption
+* **Incoming Mail Server Port (POP):** 110 
+
+**Outgoing Mail Server Settings**
+
+* **Outgoing Mail Server:** mail.webconnect.com.au
+* **Outgoing Mail Server Port (SMTP):** 587 with Auto encryption
+
+Now click **Next**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image8.png">
+
+Enter in your **Password** and then click **Connect**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image9.png">
+
+Enter your **Mailbox ID** into the **User Name** field, and then click **OK.**
+
+<img style="width: auto; height: 350px;" src="/images/webmail-windows-outlook2019-image10.png">
+
+Configuration of your account is now complete. Click **Done** to dismiss the window.
 
 ### iPhone / iPad
 
