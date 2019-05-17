@@ -52,7 +52,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "cloud-dial" # Used in routes, e.g., /admin/collections/blog
-    label: "Cloud Dial articles" # Used in the UI
+    label: "CloudDial articles" # Used in the UI
     folder: "/guides/cloud-dial" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

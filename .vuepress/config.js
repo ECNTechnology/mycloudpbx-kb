@@ -42,7 +42,7 @@ module.exports = {
         link: '/guides/email-services/'
       },
       {
-        text: 'Cloud Dial',
+        text: 'CloudDial',
         link: '/guides/cloud-dial/'
       }
       ]
@@ -78,7 +78,7 @@ module.exports = {
         children: getChildren('./guides/email-services/')
       }],
       '/guides/cloud-dial/': [{
-        title: 'Cloud Dial',
+        title: 'CloudDial',
         children: getChildren('./guides/cloud-dial/')
       }],
     },
