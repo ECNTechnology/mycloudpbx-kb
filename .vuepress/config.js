@@ -40,6 +40,10 @@ module.exports = {
       {
         text: 'Email Services',
         link: '/guides/email-services/'
+      },
+      {
+        text: 'Cloud Dial',
+        link: '/guides/cloud-dial/'
       }
       ]
     },
@@ -72,6 +76,10 @@ module.exports = {
       '/guides/email-services/': [{
         title: 'Email Services',
         children: getChildren('./guides/email-services/')
+      }],
+      '/guides/cloud-dial/': [{
+        title: 'Cloud Dial',
+        children: getChildren('./guides/cloud-dial/')
       }],
     },
     activeHeaderLinks: true,
