@@ -42,9 +42,7 @@ When an agent first signs into CloudDial, they will be greeted with the followin
 
 Click '**Select Campaign**' to join a campaign.
 
-<img style="width: 1100px; height: auto;" src="/images/clouddial-agents-choose-campaign.png">
-
-
+<img style="width: auto; height: auto;" src="/images/clouddial-agents-choose-campaign.png">
 
 ## Mute Recording
 
