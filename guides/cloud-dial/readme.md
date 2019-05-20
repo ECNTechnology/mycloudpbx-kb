@@ -40,7 +40,7 @@ When an agent first signs into CloudDial, they will be greeted with the followin
 * **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.
 * **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
 
-Click '\*\*Select Campaign\*\*' to join a campaign.
+Click '**Select Campaign**' to join a campaign.
 
 ![select a campaign](/images/clouddial-agents-choose-campaign-2.png)
 
