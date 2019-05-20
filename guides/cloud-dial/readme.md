@@ -44,8 +44,6 @@ Click '**Select Campaign**' to join a campaign.
 
 <img style="width: 1100px; height: auto;" src="/images/clouddial-agents-choose-campaign.png">
 
-
-
 ## Mute Recording
 
 ::: tip
