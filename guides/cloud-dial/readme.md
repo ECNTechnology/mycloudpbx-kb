@@ -127,9 +127,25 @@ When you are happy with the configuration of the campaign, click '**Finish**'.
 
 ### Customise Agent Screens
 
-::: tip
-documentation coming soon
-:::
+You can customise the options an Agent has access to with '**Custom Agent Screens**'.
+
+To do this, you must first enable '**Version 2 for Agent Screens**'.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-customagent-1.png">
+
+From the '**Settings**' menu on the left hand side, click '**Preferences**'.
+
+This will open the Preferences window.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-customagent-2.png">
+
+From the list set '**Enable Version 2 for Agent Screens**' to '**Yes**'.
+
+Click '**Configure**' to configure the Agent Screens.
+
+Choose from the list of options you wish to allow the Agents:
+
+Click '**Save**' when finished.
 
 ### Blaster Campaign Type
 
@@ -140,7 +156,9 @@ documentation coming soon
 
 ### Mute Recording
 
-Based on customer feedback, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
+In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
+
+This replaces the 'Stop/Start' option which previously created multiple recording files.
 
 ### Wrapup Reason Categories
 
