@@ -2,7 +2,6 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
-
 Cloud Dial is the essential Call Centre Tool.
 
 Working alongside ECN's Hosted Voice platform myCloudPBX, Cloud Dial is a full featured hosted dialler.
@@ -53,11 +52,6 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 ## New Features
 
-### Mute Recording
-
-Based on customer feedback, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
-
-
 ### Custom Dialling Order
 
 Based on customer feedback, we have added the ability to choose the order in which the numbers in your campaigns are dialled.
@@ -67,7 +61,6 @@ To start you will need to add a column to your campaign list in the numerical or
 Once you have your contact list created, you can create your new campaign.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-1.png">
-
 
 From the '**Management**' menu on the left hand side, click '**Campaign Management**'.
 
@@ -132,8 +125,6 @@ These will be used by the Agents at the end of their calls to measure their KPIs
 
 When you are happy with the configuration of the campaign, click '**Finish**'.
 
-
-
 ### Customise Agent Screens
 
 ::: tip
@@ -144,7 +135,12 @@ documentation coming soon
 
 ::: tip
 documentation coming soon
+
 :::
+
+### Mute Recording
+
+Based on customer feedback, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
 
 ### Wrapup Reason Categories
 
