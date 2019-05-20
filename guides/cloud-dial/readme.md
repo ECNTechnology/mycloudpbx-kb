@@ -154,11 +154,13 @@ documentation coming soon
 
 :::
 
-### Mute Recording
+### Call Recordings
 
+::: tip New Feature:
 In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
+:::
 
-This replaces the 'Stop/Start' option which previously created multiple recording files.
+
 
 ### Wrapup Reason Categories
 
