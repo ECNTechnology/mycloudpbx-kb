@@ -2,6 +2,8 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
+![]()
+
 Cloud Dial is the essential Call Centre Tool.
 
 Working alongside ECN's Hosted Voice platform myCloudPBX, Cloud Dial is a full featured hosted dialler.
@@ -75,8 +77,8 @@ In the top right hand corner click the arrow next to the '**New Campaign**' butt
 
 <img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-3.png">
 
-
 On this screen you must enter the following information:
+
 * **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).
 * **Country:** Choose your country.
 * **Dialling Prefix:** This will be your caller ID for your outbound calls.
@@ -85,7 +87,6 @@ On this screen you must enter the following information:
 * **Select Contacts:** Use the '**Select**' to upload your CloudDial campaign data.
 
 Click '**Next**' when complete.
-
 
 <img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-4.png">
 
@@ -98,7 +99,40 @@ If you have a specific order you wish to dial the numbers, select that column fo
 :::
 
 Click '**Next**' when complete.
-## 
+
+<img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-5.png">
+
+From the '**Call Direction**' menu, you can choose between;
+
+* **Outbound:** CloudDial will handle outbound calls only for this campaign.
+* **Inbound:** CloudDial will handle inbound calls only for this campaign.
+* **Inbound & Outbound:** CloudDial will handle both inbound & outbound calls for this campaign.
+
+From the '**Campaign Script**' menu, you can choose from all of your pre-created campaign scripts. 
+These will show for the Agent while on each phone call.
+
+You can also enter in additional notes that will appear on your agents screen while they are waiting for a call.
+
+In the '**Tags**' section you can assign relevant tags to the campaign. This will be used for tag based routing when enabled.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-6.png">
+
+Answering Machine Detection (AMD) allows CloudDial to first make sure there is a human answering the phone instead of a voicemail system before bridging the call to an Agent. This can save your Agents valuable time chasing leads instead of leaving voicemail messages.
+
+To enable, check the option to '**Switch on AMD**'.
+
+When AMD is detected CloudDial can either hangup, or leave a pre-recorded voicemail message.
+
+If you have chosen to leave a voicemail message, you will need to select your sound file in the next section before pressing '**Next**'.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-7.png">
+
+Here you can add your '**Wrapup Reasons**'.
+These will be used by the Agents at the end of their calls to measure their KPIs.
+
+When you are happy with the configuration of the campaign, click '**Finish**'.
+
+
 
 ## Customise Agent Screens
 
