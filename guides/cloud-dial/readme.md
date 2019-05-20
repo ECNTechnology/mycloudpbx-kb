@@ -4,7 +4,7 @@ date: 2019-04-16T09:15:16.967Z
 ---
 CloudDial Documentation.
 
-## Logging into CloudDial
+## CloudDial Sign-In Options
 
 Contact your administrator for your companies CloudDial login URL and enter that into Google Chrome.
 
@@ -13,15 +13,30 @@ Contact your administrator for your companies CloudDial login URL and enter that
 On the CloudDial login screen you have 4 options to choose from.
 
 * **Forgotten Password:** Password reset link.
-*  **Sign In:** This button is used in conjunction with your username & password to login.
+* **Sign In:** This button is used in conjunction with your username & password to login.
 * **Registration:** Use this button to register as a new user.
-* **Agents Sign In:** This button is reserved for CloudDial Agents to sign in. If you click the '**Agents Sign In**' button you will be greeted with the following screen:
+* **Agents Sign In:** This button is reserved for CloudDial Agents to sign in. 
+
+CloudDial - Agent Sign In
+
+::: tip
+Contact your Administrator for your CloudDial URL
+:::
+
+From the CloudDial sign-in page, click the '**Agents Sign In**' button and you will be greeted with the following screen:
 
 ![](/images/clouddial-agentsignin.png)
 
 This screen allows an agent to enter in their preferred Username.
 They then enter in the extension number of their phone and click '**Sign In**'.
 Their extension will now ring, and once answered, they are logged into CloudDial.
+
+When an agent first signs into CloudDial, they will be greeted with the following choice:
+
+![clouddial waiting screen. choose select campaign or continue to hold.](/images/clouddial-agents-1.png)
+
+* **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.
+* **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
 
 ## Mute Recording
 
