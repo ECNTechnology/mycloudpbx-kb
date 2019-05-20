@@ -34,6 +34,7 @@ From the CloudDial sign-in page, click the '**Agents Sign In**' button and you w
 ![](/images/clouddial-agentsignin.png)
 
 This screen allows an agent to enter in their preferred Username.
+
 They then enter in the extension number of their phone and click '**Sign In**'.
 Their extension will now ring, and once answered, they are logged into CloudDial.
 
@@ -44,7 +45,7 @@ When an agent first signs into CloudDial, they will be greeted with the followin
 * **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.
 * **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
 
-Click '**Select Campaign**' to join a campaign.
+Click '**Select Campaign**' when you are ready to join a campaign.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-agents-choose-campaign.png">
 
@@ -53,13 +54,12 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 ## Mute Recording
 
-::: tip
-documentation coming soon
-:::
+Based on customer feedback, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
+
 
 ## Custom Dialling Order
 
-Based on customer feedback we have added the ability to choose the order in which the numbers in your campaigns are dialled.
+Based on customer feedback, we have added the ability to choose the order in which the numbers in your campaigns are dialled.
 
 To start you will need to add a column to your campaign list in the numerical order you wish to dial the numbers.
 
@@ -67,7 +67,6 @@ Once you have your contact list created, you can create your new campaign.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-1.png">
 
-In the top right
 
 From the '**Management**' menu on the left hand side, click '**Campaign Management**'.
 
@@ -84,7 +83,7 @@ On this screen you must enter the following information:
 * **Dialling Prefix:** This will be your caller ID for your outbound calls.
 * **Redial Attempts:** This determines how many times CloudDial will dial the number before giving up.
 * **Power Factor:** The number of simultaneous calls dialled in relation as a ratio to the number of active agents on your campaign.
-* **Select Contacts:** Use the '**Select**' to upload your CloudDial campaign data.
+* **Select Contacts:** Use the '**Select**' button to upload your CloudDial campaign data.
 
 Click '**Next**' when complete.
 
