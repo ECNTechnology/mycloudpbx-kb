@@ -2,7 +2,9 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
-CloudDial Documentation.
+Cloud Dial is the essential Call Centre Tool.
+
+Working alongside ECN's Hosted Voice platform myCloudPBX, Cloud Dial is a full featured hosted dialler.
 
 ## CloudDial Sign-In Options
 
@@ -46,7 +48,6 @@ Click '**Select Campaign**' to join a campaign.
 
 On this screen you will be able to see all campaigns available to you.
 Use the '**Select**' button to join a campaign and start dialling.
-
 
 ## Mute Recording
 
