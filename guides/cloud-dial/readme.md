@@ -41,7 +41,7 @@ When an agent first signs into CloudDial, they will be greeted with the followin
 * **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
 
 Click '**Select Campaign**' to join a campaign.
-<img style="width: 900px; height: auto;" src="/images/clouddial-agents-choose-campaign-2.png">
+<img style="width: 1100px; height: auto;" src="/images/clouddial-agents-choose-campaign-2.png">
 
 
 ## Mute Recording
