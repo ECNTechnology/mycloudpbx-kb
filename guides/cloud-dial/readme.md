@@ -44,6 +44,10 @@ Click '**Select Campaign**' to join a campaign.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-agents-choose-campaign.png">
 
+On this screen you will be able to see all campaigns available to you.
+Use the '**Select**' button to join a campaign and start dialling.
+
+
 ## Mute Recording
 
 ::: tip
