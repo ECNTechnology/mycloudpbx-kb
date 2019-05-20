@@ -2,7 +2,6 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
-![]()
 
 Cloud Dial is the essential Call Centre Tool.
 
