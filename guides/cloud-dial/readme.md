@@ -6,7 +6,9 @@ CloudDial Documentation.
 
 ## CloudDial Sign-In Options
 
-Contact your administrator for your companies CloudDial login URL and enter that into Google Chrome.
+::: tip
+Contact your Administrator for your CloudDial URL
+:::
 
 ![clouddial login screen](/images/clouddial-login.png)
 
@@ -37,6 +39,10 @@ When an agent first signs into CloudDial, they will be greeted with the followin
 
 * **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.
 * **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
+
+Click '\*\*Select Campaign\*\*' to join a campaign.
+
+![select a campaign](/images/clouddial-agents-choose-campaign-2.png)
 
 ## Mute Recording
 
