@@ -2,7 +2,6 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
-![]()
 
 Cloud Dial is the essential Call Centre Tool.
 
@@ -52,12 +51,14 @@ Click '**Select Campaign**' when you are ready to join a campaign.
 On this screen you will be able to see all campaigns available to you.
 Use the '**Select**' button to join a campaign and start dialling.
 
-## Mute Recording
+## New Features
+
+### Mute Recording
 
 Based on customer feedback, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
 
 
-## Custom Dialling Order
+### Custom Dialling Order
 
 Based on customer feedback, we have added the ability to choose the order in which the numbers in your campaigns are dialled.
 
@@ -133,19 +134,19 @@ When you are happy with the configuration of the campaign, click '**Finish**'.
 
 
 
-## Customise Agent Screens
+### Customise Agent Screens
 
 ::: tip
 documentation coming soon
 :::
 
-## Blaster Campaign Type
+### Blaster Campaign Type
 
 ::: tip
 documentation coming soon
 :::
 
-## Wrapup Reason Categories
+### Wrapup Reason Categories
 
 ::: tip
 documentation coming soon
