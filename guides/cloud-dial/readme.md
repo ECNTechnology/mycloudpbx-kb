@@ -129,7 +129,7 @@ When you are happy with the configuration of the campaign, click '**Finish**'.
 
 You can customise the options an Agent has access to with '**Custom Agent Screens**'.
 
-To do this, you must first enable '**Version 2 for Agent Screens**'.
+To do this, you must first enable the '**Version 2 for Agent Screens**' feature.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-customagent-1.png">
 
@@ -154,11 +154,13 @@ documentation coming soon
 
 :::
 
-### Mute Recording
+### Call Recordings
 
+::: tip New Feature:
 In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
+:::
 
-This replaces the 'Stop/Start' option which previously created multiple recording files.
+
 
 ### Wrapup Reason Categories
 
