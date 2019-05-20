@@ -16,11 +16,10 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 Once logged in, click '**My Services**' and select your Inbound 1300 service from under the '**Voice**' menu.
 
+# Call Options
 
-# Inbound 1300 Options
+A 1300 number can be configured with a number of options.
 
-## more info coming soon
-::: tip
-Coming Soon!
-:::
-
+* **Divert Function:** Divert to landline / mobile.
+* **State Based Routing:** Calls can be routed differently based on the location of the caller.
+* **Time of Day Based Routing:** Calls can be routed differently based on the time of the call.
