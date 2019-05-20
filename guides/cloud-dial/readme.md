@@ -17,7 +17,7 @@ On the CloudDial login screen you have 4 options to choose from.
 * **Registration:** Use this button to register as a new user.
 * **Agents Sign In:** This button is reserved for CloudDial Agents to sign in. 
 
-CloudDial - Agent Sign In
+\###CloudDial - Agent Sign In
 
 ::: tip
 Contact your Administrator for your CloudDial URL
