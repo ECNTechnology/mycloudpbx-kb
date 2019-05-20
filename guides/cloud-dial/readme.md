@@ -57,9 +57,48 @@ documentation coming soon
 
 ## Custom Dialling Order
 
+Based on customer feedback we have added the ability to choose the order in which the numbers in your campaigns are dialled.
+
+To start you will need to add a column to your campaign list in the numerical order you wish to dial the numbers.
+
+Once you have your contact list created, you can create your new campaign.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-1.png">
+
+In the top right
+
+From the '**Management**' menu on the left hand side, click '**Campaign Management**'.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-2.png">
+
+In the top right hand corner click the arrow next to the '**New Campaign**' button and choose '**New Advanced Campaign**'.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-3.png">
+
+
+On this screen you must enter the following information:
+* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).
+* **Country:** Choose your country.
+* **Dialling Prefix:** This will be your caller ID for your outbound calls.
+* **Redial Attempts:** This determines how many times CloudDial will dial the number before giving up.
+* **Power Factor:** The number of simultaneous calls dialled in relation as a ratio to the number of active agents on your campaign.
+* **Select Contacts:** Use the '**Select**' to upload your CloudDial campaign data.
+
+Click '**Next**' when complete.
+
+
+<img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-4.png">
+
+The '**Field Mapping**' tab allows you to map custom fields in your CloudDial campaign data into the system.
+
+Match the columns in your uploaded data to the references shown.
+
 ::: tip
-documentation coming soon
+If you have a specific order you wish to dial the numbers, select that column for the '**Sequence of Call**' field.
 :::
+
+Click '**Next**' when complete.
+## 
 
 ## Customise Agent Screens
 
