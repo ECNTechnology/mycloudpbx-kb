@@ -2,19 +2,14 @@
 title: General Settings
 date: 2019-05-13T01:37:22.245Z
 ---
-## General Internet Services Settings
+**General Internet Services Settings**
 
-### DNS Servers
+**DNS Servers**
 
 * **Server 1:** 203.22.70.2
 * **Server 2:** 203.22.70.7
 
-### Outbound Mail Server
+**Outbound Mail Server:** mail.ecn.net.au
 
-mail.ecn.net.au
 
-### Proxy Server
-
-**Server:** proxy.ecn.net.au
-
-**Port:** 80
+**Proxy Server:** proxy.ecn.net.au, **Port:** 80
