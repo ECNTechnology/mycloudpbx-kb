@@ -2,6 +2,8 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
+![]()
+
 ## About CloudDial
 
 Cloud Dial is the essential Call Centre Tool.
@@ -223,7 +225,19 @@ Add as many tags as you need separated by semi-colons.
 Click '**Save**' when complete.
 
 Now you can configure your inbound campaign to use skills based routing.
- 
+
+#### Adding Tags to New Campaign
+
+Create an '**Advanced Campaign**' as normal.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-skills-4.png">
+
+You will now be able to assign your tags to your campaigns on the '\*\*Direction\*\*' tab.
+
+When an inbound call is placed, the call will be routed only to agents who have the skills to take the call.
+
+
+
 ### Wrapup Reason Categories
 
 ::: tip
