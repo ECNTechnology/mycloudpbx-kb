@@ -58,7 +58,7 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 ### Blaster Campaign Type
 
-::: tip
+::: warning
 documentation coming soon
 
 :::
@@ -238,6 +238,6 @@ When an inbound call is placed, the call will be routed only to agents who have 
 
 ### Wrapup Reason Categories
 
-::: tip
+::: warning
 documentation coming soon
 :::
