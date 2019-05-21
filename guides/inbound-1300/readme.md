@@ -24,8 +24,5 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 Once logged in, click '**My Services**' and select your Inbound 1300 service from under the '**Voice**' menu.
 
-The first time you edit your service you will be greeted with the following screen.
+The first time you edit your service you will be greeted with the following screens.
 
-
-
-![](/images/inbound1300-1.png)
