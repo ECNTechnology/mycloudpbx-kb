@@ -58,7 +58,7 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 ### Blaster Campaign Type
 
-::: tip
+::: warning
 documentation coming soon
 
 :::
@@ -232,14 +232,12 @@ Create an '**Advanced Campaign**' as normal.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-skills-4.png">
 
-You will now be able to assign your tags to your campaigns on the '\*\*Direction\*\*' tab.
+You will now be able to assign your tags to your campaigns on the '**Direction**' tab.
 
 When an inbound call is placed, the call will be routed only to agents who have the skills to take the call.
 
-
-
 ### Wrapup Reason Categories
 
-::: tip
+::: warning
 documentation coming soon
 :::
