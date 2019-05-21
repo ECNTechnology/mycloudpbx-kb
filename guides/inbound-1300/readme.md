@@ -36,11 +36,13 @@ Click '**Call Data**' to view your call history.
 
 ### Default Answer Point
 
-<img style="width: auto; height: auto;" src="/images/inbound1300-3.png">
-
 ::: tip
 An '**Answer Point**' is the Full National Number that will ring when your 1300 number is dialled.
 :::
+
+<img style="width: auto; height: auto;" src="/images/inbound1300-3.png">
+
+
 
 Click '**Configure**' to add a '_default answer point_'. This will be used in the event there is not a specific answer point specified below.
 
