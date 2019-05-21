@@ -54,8 +54,6 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 ## New Features
 
-### 
-
 ### Blaster Campaign Type
 
 ::: tip
@@ -148,10 +146,6 @@ These will be used by the Agents at the end of their calls to measure their KPIs
 
 When you are happy with the configuration of the campaign, click '**Finish**'.
 
-### 
-
-
-
 ### Customise Agent Screens
 
 You can customise the options an Agent has access to with '**Custom Agent Screens**'.
@@ -174,7 +168,39 @@ Choose from the list of options you wish to allow the Agents:
 
 Click '**Save**' when finished.
 
+### Skills Based Call Routing
 
+Skills Based Call Routing, allows CloudDial to intelligently route calls to Agents based on their skillset.
+
+To enable this you must first enable '**Tags for Campaigns & Users**' so that we can assign skills as needed.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-customagent-1.png">
+
+From the '**Settings**' menu on the left hand side, click '**Preferences**'.
+
+This will open the Preferences window.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-skills-1.png">
+
+Make sure that '**Enable tags for campaigns & users**' is set to '**Yes**'.
+
+Now we can add tags to our phone numbers. 
+
+Click on '**Phone Numbers**' on the horizontal menu at the top of the screen.
+
+This page shows you all of the numbers allocated to CloudDial and you can enable / disable them from here.
+
+::: tip Pro Tip:
+If your number does not show on this list, click the '**Update**' button in the top right hand corner.
+:::
+
+Once you have found the number you wish to assign skill tags, click '**Assign Tags**' on the right hand side.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-skills-2.png">
+
+Add as many tags as you need seperated by semi-colons.
+
+Click '**Save**' when complete.
 
 ### Wrapup Reason Categories
 
