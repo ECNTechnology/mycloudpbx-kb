@@ -1,5 +1,5 @@
 ---
-title: General Settings
+title: Netcomm NF18ACV Configuration
 date: 2019-05-13T06:46:38.599Z
 ---
 This page will help you configure your **Netcomm NF18ACV** to work with your ECN provided Internet connection.
