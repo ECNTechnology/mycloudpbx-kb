@@ -32,6 +32,8 @@ The '**Friendly Name**' is for your reference, enter your preferred name and cli
 
 The '**Service Name**' is the ECN name for the service, you will need this if you ever need to log a fault.
 
+Click '**Call Data**' to view your call history.
+
 ### Default Answer Point
 
 <img style="width: auto; height: auto;" src="/images/inbound1300-3.png">
