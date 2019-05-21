@@ -519,6 +519,40 @@ Outlook will now check on the settings we have configured. Once the checks succe
 
 Click on **Finish** to complete the setup process. You can now open Outlook to begin using your email account
 
+### Windows - Outlook 2016
+
+- - -
+
+The following guide will walk you through configuring your Office 365 account on **Microsoft Outlook 2016** for Windows.
+
+Begin by entering the start menu:
+
+<img style="width: 250px; height: auto;" src="/images/office365-windows-outlook2016-image1.png">
+
+Begin typing to search for control panel. Then select **Control Panel Desktop App**
+
+<img style="width: 500px; height: auto;" src="/images/office365-windows-outlook2016-image2.png">
+
+Use the search bar in the top right to search for mail, then select **Mail (32-bit)**
+
+<img style="width: 300px; height: auto;" src="/images/office365-windows-outlook2016-image3.png">
+
+Click on **Add...**
+
+<img style="width: 300px; height: auto;" src="/images/office365-windows-outlook2016-image4.png">
+
+Enter in a name for your new mail profile, and then click **OK**
+
+NOTE: This will not affect the login process and is for your reference ONLY.
+
+<img style="width: 500px; height: auto;" src="/images/office365-windows-outlook2016-image5.png">
+
+Fill in you details and then click **Next**
+
+<img style="width: 500px; height: auto;" src="/images/office365-windows-outlook2016-image6.png">
+
+Wait for the checks to complete, and then click on **Finish** to complete the setup process. You can now open outlook to begin accessing your emails.
+
 ### Windows - Outlook 2019
 
 - - -
@@ -752,6 +786,8 @@ If prompted for a security code, type in your code then click **Verify**.
 Your email has now been configured successfully. If you would like to add another account, click **Add Another Account.**
 
 Click **Done** if you are finished.
+
+### Windows - Outlook 2016
 
 ### Windows - Outlook 2019
 
