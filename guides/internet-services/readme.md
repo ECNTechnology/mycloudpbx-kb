@@ -184,13 +184,10 @@ Prerequisites:
 
 <img style="width: auto; height: auto;" src="/images/nf18acv-credentials-1.jpg">
 
-
 Log into the Netcomm Management Interface and select '**Passwords**' from the '**Management**' menu.
 <img style="width: auto; height: auto;" src="/images/nf18acv-credentials-2.jpg">
 
-
 From this page you can change your usernames & passwords that are used to log into the Netcomm Management Interface.
-
 
 ::: tip
 You will need to login with the new username / password after you hit save.
@@ -198,11 +195,51 @@ You will need to login with the new username / password after you hit save.
 
 Click '_**Apply/Save**_' when you are finished.
 
-
 ## Configuring Voip Service
 
 - - -
 
-::: warning
-Coming Soon!
-:::
+**Prerequisites:**
+
+* **ECN Voip Service:** Authentication ID, Password, & Server Address.
+* **Active Internet Connection**
+* **SIP ALG MUST be disabled on your router**
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-credentials-1.jpg">
+
+Log into the Netcomm Management Interface and select '**SIP Settings**' from the '**Advanced**' page.
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-sip-2.jpg">
+
+Ensure the that '**DTMF Relay Setting**' s set to '**RFC2833**' under _Payload Settings_.
+
+Click '**Apply/Save**'.
+
+Select '**Phone**' from the left hand menu.
+
+<img style="width: auto; height: auto;" src="/images/nf18acv-sip-1.jpg">
+
+Enter the following information:
+
+* **SIP Username:** This is your '_Auth ID_'. (Found in the ECN Portal).
+* **SIP Password:** Found in the ECN Portal. 
+* **Line Number:** This is your '_Auth ID_' again. (Your caller ID will be set in the ECN Portal.
+* **SIP Proxy:** You will set this server address via the ECN Portal. Enter that as shown here.
+* **SIP Proxy Port:** 5060
+* **SIP Registrar:** This will be the same as your '**SIP Proxy**.
+* **SIP Registrar Port:** 5060
+* **SIP Outbound Proxy:** This will be the same as your '**SIP Proxy**'.
+* **SIP Outbound Proxy Port:** 5060
+
+When you have filled in all the settings, click '**Apply/Save**'.
+
+Click '**More Settings**'
+
+Ensure that you have set the codec priority as follows (ptime needs to be set to **20ms.**)
+
+**1.** G711A
+
+**2.** G711U
+
+
+Your SIP service is now registered.
