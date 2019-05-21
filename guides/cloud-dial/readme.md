@@ -194,10 +194,13 @@ This page shows you all of the numbers allocated to CloudDial and you can enable
 If your number does not show on this list, click the '**Update**' button in the top right hand corner.
 :::
 
-Once you have found the number you wish to assign skill tags to, click '**Assign Tags**' on the right hand side.
+Once you have found the number you wish to assign skill tags, click '**Assign Tags**' on the right hand side.
 
+<img style="width: auto; height: auto;" src="/images/clouddial-skills-2.png">
 
+Add as many tags as you need seperated by semi-colons.
 
+Click '**Save**' when complete.
 
 ### Wrapup Reason Categories
 
