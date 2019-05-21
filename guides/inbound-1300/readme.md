@@ -32,17 +32,13 @@ The '**Friendly Name**' is for your reference, enter your preferred name and cli
 
 The '**Service Name**' is the ECN name for the service, you will need this if you ever need to log a fault.
 
-Click '**Call Data**' to view your call history.
+## Default Answer Point
 
-### Default Answer Point
+<img style="width: auto; height: auto;" src="/images/inbound1300-3.png">
 
 ::: tip
 An '**Answer Point**' is the Full National Number that will ring when your 1300 number is dialled.
 :::
-
-<img style="width: auto; height: auto;" src="/images/inbound1300-3.png">
-
-
 
 Click '**Configure**' to add a '_default answer point_'. This will be used in the event there is not a specific answer point specified below.
 
@@ -56,7 +52,7 @@ When enabled, calls will be sent to a different number outside of your specified
 
 Click '**Save**' when you are finished.
 
-### State Answer Points
+## State Answer Points
 
 <img style="width: auto; height: auto;" src="/images/inbound1300-4.png">
 
@@ -74,13 +70,13 @@ When enabled, calls will be sent to a different number outside of your specified
 
 Click '**Save**' when you are finished.
 
-### Area Answer Points
+## Area Answer Points
 
 <img style="width: auto; height: auto;" src="/images/inbound1300-5.png">
 
-Here you can add custom answer points based on the source location down to specific areas within regions. 
+Here you can add custom answer points based on the source location down to specific regions. 
 
-For example, you can set **Queensland** in the '_**state based routing**_', and in area based routing you can drill down to calls from '**Brisbane**' specific to mobiles or landline source numbers.
+For example, you can set **Queensland** in the '_**state based routing**_', and in area based routing you can drill down to calls from '**Brisbane**' from both mobiles or landline source numbers.
 
 Click '**Add**' to add an '**area answer point**'.
 
