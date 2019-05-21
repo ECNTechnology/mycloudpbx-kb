@@ -176,7 +176,7 @@ On this page you will be able to change the '_**Name**_' and password for your W
 
 Click '_**Apply/Save**_' when you are finished.
 
-### Changing Admin Credentials
+## Changing Admin Credentials
 
 Prerequisites:
 
