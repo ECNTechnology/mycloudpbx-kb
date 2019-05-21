@@ -2,6 +2,8 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
+## About CloudDial
+
 Cloud Dial is the essential Call Centre Tool.
 
 Working alongside ECN's Hosted Voice platform myCloudPBX, Cloud Dial is a full featured hosted dialler.
