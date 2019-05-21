@@ -4,9 +4,15 @@ date: 2019-04-16T09:15:16.967Z
 ---
 An Inbound 1300 service allows customers to call your business from anywhere in Australia by dialling a single, national 1300 or 1800 number.
 
+Your 1300 number can be configured with a number of options.
+
+* **Divert Function:** Divert to landline / mobile.
+* **State Based Routing:** Calls can be routed differently based on the location of the caller.
+* **Time of Day Based Routing:** Calls can be routed differently based on the time of the call.
+
 This guide will show you how to configure your service.
 
-# Logging into the Management Portal
+## Logging into the Management Portal
 
 To log into the Management Portal head to <https://my.ecn.net.au> and enter your Username & Password.
 
@@ -14,12 +20,12 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 ![](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
 
+## Initial Configuration
+
 Once logged in, click '**My Services**' and select your Inbound 1300 service from under the '**Voice**' menu.
 
-# Call Options
+The first time you edit your service you will be greeted with the following screen.
 
-A 1300 number can be configured with a number of options.
 
-* **Divert Function:** Divert to landline / mobile.
-* **State Based Routing:** Calls can be routed differently based on the location of the caller.
-* **Time of Day Based Routing:** Calls can be routed differently based on the time of the call.
+
+![](/images/inbound1300-1.png)
