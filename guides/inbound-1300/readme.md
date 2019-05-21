@@ -78,9 +78,9 @@ Click '**Save**' when you are finished.
 
 <img style="width: auto; height: auto;" src="/images/inbound1300-5.png">
 
-Here you can add custom answer points based on the source location down to specific regions. 
+Here you can add custom answer points based on the source location down to specific areas within regions. 
 
-For example, you can set **Queensland** in the '_**state based routing**_', and in area based routing you can drill down to calls from '**Brisbane**' from both mobiles or landline source numbers.
+For example, you can set **Queensland** in the '_**state based routing**_', and in area based routing you can drill down to calls from '**Brisbane**' specific to mobiles or landline source numbers.
 
 Click '**Add**' to add an '**area answer point**'.
 
