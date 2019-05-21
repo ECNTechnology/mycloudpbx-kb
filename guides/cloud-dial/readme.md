@@ -54,8 +54,6 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 ## New Features
 
-### 
-
 ### Blaster Campaign Type
 
 ::: tip
@@ -148,10 +146,6 @@ These will be used by the Agents at the end of their calls to measure their KPIs
 
 When you are happy with the configuration of the campaign, click '**Finish**'.
 
-### 
-
-
-
 ### Customise Agent Screens
 
 You can customise the options an Agent has access to with '**Custom Agent Screens**'.
@@ -173,8 +167,6 @@ Click '**Configure**' to configure the Agent Screens.
 Choose from the list of options you wish to allow the Agents:
 
 Click '**Save**' when finished.
-
-
 
 ### Wrapup Reason Categories
 
