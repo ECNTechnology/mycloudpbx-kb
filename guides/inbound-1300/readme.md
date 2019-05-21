@@ -4,7 +4,7 @@ date: 2019-04-16T09:15:16.967Z
 ---
 An Inbound 1300 service allows customers to call your business from anywhere in Australia by dialling a single, national 1300 or 1800 number.
 
-Your 1300 number can be configured with a number of options.
+Your 1300 number can be configured with a number of options. 
 
 * **Divert Function:** Divert to landline / mobile.
 * **State Based Routing:** Calls can be routed differently based on the location of the caller.
@@ -76,13 +76,14 @@ Click '**Save**' when you are finished.
 
 Here you can add custom answer points based on the source location down to specific regions. 
 
-For example, you can set **Queensland** in the '_**state based routing**_', and in area based routing you can drill down to calls from '**Brisbane**' from both mobiles or landline source numbers.
+For example, you can set **Queensland** in the '**_state based routing_**', and in area based routing you can drill down to calls from '**Brisbane**' from both mobiles or landline source numbers.
 
 Click '**Add**' to add an '**area answer point**'.
 
 <img style="width: auto; height: auto;" src="/images/inbound1300-8.png">
 
 Add the following information:
+
 * **Source:** Choose from landline or mobile.
 * **Region:** Choose from the list of regions.
 * **Timezone:** Select the timezone of the answer point. (This is needed for time of day based routing).
