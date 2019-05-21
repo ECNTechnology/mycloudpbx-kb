@@ -88,3 +88,4 @@ Add the following information:
 * **Timezone:** Select the timezone of the answer point. (This is needed for time of day based routing).
 * **Answer Point:** This is the Full National Number that will ring.
 
+Click '**Save**' when complete.
