@@ -79,6 +79,7 @@ The blaster campaign will behave differently depending on if '**Answering Machin
 
 **5.** Once the message has been played to completion, CloudDial will hangup.
 
+
 #### AMD Enabled
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_enabled.png">
