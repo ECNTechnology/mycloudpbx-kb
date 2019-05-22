@@ -67,7 +67,7 @@ The blaster campaign will behave differently depending on if '**Answering Machin
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_disabled.png">
 
-Call flow with AMD disabled:
+**Call flow with AMD disabled:**
 
 **1.** Outbound call is placed.
 
@@ -83,7 +83,7 @@ Call flow with AMD disabled:
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_enabled.png">
 
-Call flow with AMD enabled:
+**Call flow with AMD enabled:**
 
 **1.** Outbound call is placed.
 
