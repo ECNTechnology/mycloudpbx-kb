@@ -62,7 +62,7 @@ A '**Blaster Campaign**' is a fully automated outbound campaign with no user age
 
 The blaster campaign will behave differently depending on if '**Answering Machine Detection**' (AMD) is enabled or not.
 
-### AMD Disabled
+#### AMD Disabled
 
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_disabled.png">
@@ -79,7 +79,7 @@ Call flow with AMD disabled:
 
 **5.** Once the message has been played to completion, CloudDial will hangup.
 
-### AMD Enabled
+#### AMD Enabled
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_enabled.png">
 
