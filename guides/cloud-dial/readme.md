@@ -2,7 +2,6 @@
 title: CloudDial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
-![]()
 
 ## About CloudDial
 
@@ -54,9 +53,7 @@ Click '**Select Campaign**' when you are ready to join a campaign.
 On this screen you will be able to see all campaigns available to you.
 Use the '**Select**' button to join a campaign and start dialling.
 
-## New Features
-
-### Blaster Campaign Type
+## Campaign Type: Blaster
 
 A '**Blaster Campaign**' is a fully automated outbound campaign with no user agents involved. This campaign will make outbound calls and play an automated message.
 
@@ -67,7 +64,7 @@ The blaster campaign will behave differently depending on if '**Answering Machin
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_disabled.png">
 
-Call flow with AMD disabled:
+**Call flow with AMD disabled:**
 
 **1.** Outbound call is placed.
 
@@ -79,11 +76,12 @@ Call flow with AMD disabled:
 
 **5.** Once the message has been played to completion, CloudDial will hangup.
 
+
 ### AMD Enabled
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_enabled.png">
 
-Call flow with AMD enabled:
+**Call flow with AMD enabled:**
 
 **1.** Outbound call is placed.
 
@@ -95,8 +93,11 @@ Call flow with AMD enabled:
 
 **4.2** If the result is a '**Machine**', CloudDial will wait until the answering machine message is played and when the beep is detected CloudDial will then play the Automated Message.
 
+### Create a Blaster Campaign
 
-### Call Recordings
+
+
+## Call Recordings
 
 ::: tip New Feature:
 In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
@@ -108,7 +109,7 @@ While an Agent is on an active call, they will be offered the following call rec
 * **Stop All Recordings:** This will **stop** all recordings, including any arrangements. 
 * **Mask/Unmask Recording:** This will mute the audio the recording. (Typically used while taking credit card payments).
 
-### Custom Dialling Order
+## Custom Dialling Order
 
 Based on customer feedback, we have added the ability to choose the order in which the numbers in your campaigns are dialled.
 
@@ -181,7 +182,7 @@ These will be used by the Agents at the end of their calls to measure their KPIs
 
 When you are happy with the configuration of the campaign, click '**Finish**'.
 
-### Customise Agent Screens
+## Customise Agent Screens
 
 You can customise the options an Agent has access to with '**Custom Agent Screens**'.
 
@@ -203,11 +204,11 @@ Choose from the list of options you wish to allow the Agents:
 
 Click '**Save**' when finished.
 
-### Skills Based Call Routing
+## Skills Based Call Routing
 
 Skills Based Call Routing, allows CloudDial to intelligently route calls to Agents based on their skillset.
 
-#### Enable Skills Based Call Routing Globally
+### Enable Skills Based Call Routing Globally
 
 To enable this you must first enable '**Tags for Campaigns & Users**' so that we can assign skills as needed.
 
@@ -223,7 +224,7 @@ Make sure that '**Enable tags for campaigns & users**' is set to '**Yes**'.
 
 Now we can add tags to our phone numbers. 
 
-#### Assign Tags to Phone Numbers
+### Assign Tags to Phone Numbers
 
 Click on '**Phone Numbers**' on the horizontal menu at the top of the screen.
 
@@ -243,7 +244,7 @@ Click '**Save**' when complete.
 
 Now we can add Tags to our Agents.
 
-#### Assign Tags to Agents
+### Assign Tags to Agents
 
 <img style="width: auto; height: auto;" src="/images/clouddial-customagent-1.png">
 
@@ -259,7 +260,7 @@ Click '**Save**' when complete.
 
 Now you can configure your inbound campaign to use skills based routing.
 
-#### Adding Tags to New Campaign
+### Adding Tags to New Campaign
 
 Create an '**Advanced Campaign**' as normal.
 
@@ -269,7 +270,7 @@ You will now be able to assign your tags to your campaigns on the '**Direction**
 
 When an inbound call is placed, the call will be routed only to agents who have the skills to take the call.
 
-### Wrapup Reason Categories
+## Wrapup Reason Categories
 
 ::: warning
 documentation coming soon
