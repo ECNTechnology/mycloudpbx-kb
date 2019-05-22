@@ -58,10 +58,43 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 ### Blaster Campaign Type
 
-::: warning
-documentation coming soon
+A '**Blaster Campaign**' is a fully automated outbound campaign with no user agents involved. This campaign will make outbound calls and play an automated message.
 
-:::
+The blaster campaign will behave differently depending on if '**Answering Machine Detection**' (AMD) is enabled or not.
+
+### AMD Disabled
+
+
+<img style="width: auto; height: auto;" src="/images/blaster_amd_disabled.png">
+
+Call flow with AMD disabled:
+
+**1.** Outbound call is placed.
+
+**2.** Call is answered.
+
+**3.** Automated Message is played (CloudDial beep detection continues to run).
+
+**4.** If at any time a beep is detected, CloudDial will begin to play the automated message from the start.
+
+**5.** Once the message has been played to completion, CloudDial will hangup.
+
+### AMD Enabled
+
+<img style="width: auto; height: auto;" src="/images/blaster_amd_enabled.png">
+
+Call flow with AMD enabled:
+
+**1.** Outbound call is placed.
+
+**2.** Call is answered.
+
+**3.** CloudDial AMD Detection begins
+
+**4.1** If the result is a '**human**', CloudDial will play the automated message and then hangup.
+
+**4.2** If the result is a '**Machine**', CloudDial will wait until the answering machine message is played and when the beep is detected CloudDial will then play the Automated Message.
+
 
 ### Call Recordings
 
