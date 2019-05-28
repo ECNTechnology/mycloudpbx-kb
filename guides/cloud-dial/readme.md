@@ -4,9 +4,9 @@ date: 2019-04-16T09:15:16.967Z
 ---
 ## About CloudDial
 
-Cloud Dial is the essential Call Centre Tool.
+CloudDial is the essential Call Centre Tool.
 
-Working alongside ECN's Hosted Voice platform myCloudPBX, Cloud Dial is a full featured hosted dialler.
+Working alongside ECN's Hosted Voice platform myCloudPBX, CloudDial is a full featured hosted dialler.
 
 ## CloudDial Sign-In Options
 
@@ -56,13 +56,12 @@ Use the '**Select**' button to join a campaign and start dialling.
 
 A '**Blaster Campaign**' is a fully automated outbound campaign with no user agents involved. This campaign will make outbound calls and play an automated message.
 
-The blaster campaign will behave differently depending on if '**Answering Machine Detection**' (AMD) is enabled or not.
 
-### AMD Disabled
+### Call Flow
 
 <img style="width: auto; height: auto;" src="/images/blaster_amd_disabled.png">
 
-**Call flow with AMD disabled:**
+**Call flow**
 
 **1.** Outbound call is placed.
 
@@ -74,21 +73,7 @@ The blaster campaign will behave differently depending on if '**Answering Machin
 
 **5.** Once the message has been played to completion, CloudDial will hangup.
 
-### AMD Enabled
 
-<img style="width: auto; height: auto;" src="/images/blaster_amd_enabled.png">
-
-**Call flow with AMD enabled:**
-
-**1.** Outbound call is placed.
-
-**2.** Call is answered.
-
-**3.** CloudDial AMD Detection begins
-
-**4.1** If the result is a '**human**', CloudDial will play the automated message and then hangup.
-
-**4.2** If the result is a '**Machine**', CloudDial will wait until the answering machine message is played and when the beep is detected CloudDial will then play the Automated Message.
 
 ### Create a Blaster Campaign
 
