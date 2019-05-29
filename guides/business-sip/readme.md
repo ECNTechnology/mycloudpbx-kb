@@ -179,7 +179,7 @@ For more information on an existing number, click '**Edit**' or click **'Add New
 
 On this screen you will be prompted to configure the following:
 
-**SIP Device Settings**
+**SIP Device Settings** 
 
 * **Phone Number:** This is the inbound number to be configured.
 * **SIP Device:** This is the endpoint to receive the inbound call.
