@@ -10,7 +10,9 @@ Working alongside ECN's Hosted Voice platform myCloudPBX, Cloud Dial is a full f
 
 ## Cloud Dial Sign-In Options
 
-::: tipContact your Administrator for your Cloud Dial URL:::
+::: tip
+Contact your Administrator for your Cloud Dial URL
+:::
 
 ![clouddial login screen](/images/clouddial-login.png)
 
@@ -20,7 +22,9 @@ On the Cloud Dial login screen you have 4 options to choose from.
 
 ### Agent Sign In
 
-::: tipContact your Administrator for your Cloud Dial URL:::
+::: tip
+Contact your Administrator for your Cloud Dial URL
+:::
 
 From the Cloud Dial sign-in page, click the '**Agents Sign In**' button and you will be greeted with the following screen:
 
@@ -92,7 +96,9 @@ Click '**Next**' to move onto the next step.
 
 Here you will upload your sound file that will be played on all calls.
 
-::: warningThis file **must** be _**.wav**_ format.:::
+::: warning
+This file **must** be _**.wav**_ format.
+:::
 
 Click '**Select**' to locate and upload your file, and click '**Save**' when complete.
 
@@ -222,7 +228,9 @@ Click on '**Phone Numbers**' on the horizontal menu at the top of the screen.
 
 This page shows you all of the numbers allocated to Cloud Dial and you can enable / disable them from here.
 
-::: tip**Pro Tip:** If your number does not show on this list, click the '**Update**' button in the top right hand corner.:::
+::: tip
+**Pro Tip:** If your number does not show on this list, click the '**Update**' button in the top right hand corner.
+:::
 
 Once you have found the number you wish to assign skill tags, click '**Assign Tags**' on the right hand side.
 
@@ -262,6 +270,8 @@ When an inbound call is placed, the call will be routed only to agents who have 
 
 ## Wrapup Reason Categories
 
-::: warningdocumentation coming soon:::
+::: warning
+documentation coming soon
+:::
 
 
