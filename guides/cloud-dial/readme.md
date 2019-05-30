@@ -1,60 +1,51 @@
 ---
-title: CloudDial Guides
+title: Cloud Dial Guides
 date: 2019-04-16T09:15:16.967Z
 ---
-## About CloudDial
+## About Cloud Dial
 
-CloudDial is the essential Call Centre Tool.
+Cloud Dial is the essential Call Centre Tool.
 
-Working alongside ECN's Hosted Voice platform myCloudPBX, CloudDial is a full featured hosted dialler.
+Working alongside ECN's Hosted Voice platform myCloudPBX, Cloud Dial is a full featured hosted dialler.
 
-## CloudDial Sign-In Options
+## Cloud Dial Sign-In Options
 
-::: tip
-Contact your Administrator for your CloudDial URL
-:::
+::: tipContact your Administrator for your Cloud Dial URL:::
 
 ![clouddial login screen](/images/clouddial-login.png)
 
-On the CloudDial login screen you have 4 options to choose from.
+On the Cloud Dial login screen you have 4 options to choose from.
 
-* **Forgotten Password:** Password reset link.
-* **Sign In:** This button is used in conjunction with your username & password to login.
-* **Registration:** Use this button to register as a new user.
-* **Agents Sign In:** This button is reserved for CloudDial Agents to sign in. 
+* **Forgotten Password:** Password reset link.* **Sign In:** This button is used in conjunction with your username & password to login.* **Registration:** Use this button to register as a new user.* **Agents Sign In:** This button is reserved for Cloud Dial Agents to sign in. 
 
 ### Agent Sign In
 
-::: tip
-Contact your Administrator for your CloudDial URL
-:::
+::: tipContact your Administrator for your Cloud Dial URL:::
 
-From the CloudDial sign-in page, click the '**Agents Sign In**' button and you will be greeted with the following screen:
+From the Cloud Dial sign-in page, click the '**Agents Sign In**' button and you will be greeted with the following screen:
 
 ![](/images/clouddial-agentsignin.png)
 
 This screen allows an agent to enter in their preferred Username.
 
-They then enter in the extension number of their phone and click '**Sign In**'.
-Their extension will now ring, and once answered, they are logged into CloudDial.
+They then enter in the extension number of their phone and click '**Sign In**'.Their extension will now ring, and once answered, they are logged into Cloud Dial.
 
-When an agent first signs into CloudDial, they will be greeted with the following choice:
+When an agent first signs into Cloud Dial, they will be greeted with the following choice:
 
 ![clouddial waiting screen. choose select campaign or continue to hold.](/images/clouddial-agents-1.png)
 
-* **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.
-* **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
+* **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.* **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
 
 Click '**Select Campaign**' when you are ready to join a campaign.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-agents-choose-campaign.png">
 
-On this screen you will be able to see all campaigns available to you.
-Use the '**Select**' button to join a campaign and start dialling.
+On this screen you will be able to see all campaigns available to you.Use the '**Select**' button to join a campaign and start dialling.
 
 ## Campaign Type: Blaster
 
 A '**Blaster Campaign**' is a fully automated outbound campaign with no user agents involved. This campaign will make outbound calls and play an automated message.
+
 
 
 ### Call Flow
@@ -67,11 +58,13 @@ A '**Blaster Campaign**' is a fully automated outbound campaign with no user age
 
 **2.** Call is answered.
 
-**3.** Automated Message is played (CloudDial beep detection continues to run).
+**3.** Automated Message is played (Cloud Dial beep detection continues to run).
 
-**4.** If at any time a beep is detected, CloudDial will begin to play the automated message from the start.
+**4.** If at any time a beep is detected, Cloud Dial will begin to play the automated message from the start.
 
-**5.** Once the message has been played to completion, CloudDial will hangup.
+**5.** Once the message has been played to completion, Cloud Dial will hangup.
+
+
 
 
 
@@ -85,18 +78,13 @@ From the '**New Campaign**' menu, select '**New Blaster Campaign**'.
 
 Add in the following information:
 
-* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).
-* **Country:** Choose your country.
-* **Dialling Prefix:** This will be your caller ID for your outbound calls.
-* **Redial Attempts:** This determines how many times CloudDial will dial the number before giving up.
-* **Virtual Agents#:** This is the number of outbound calls you want to make simultaneously. 
-* **Select Contacts:** Use the '**Select**' button to upload your CloudDial campaign data.
+* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).* **Country:** Choose your country.* **Dialling Prefix:** This will be your caller ID for your outbound calls.* **Redial Attempts:** This determines how many times Cloud Dial will dial the number before giving up.* **Virtual Agents#:** This is the number of outbound calls you want to make simultaneously. * **Select Contacts:** Use the '**Select**' button to upload your Cloud Dial campaign data.
 
 Click '**Next**' to move onto the next step.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-blaster-3.png">
 
-Use the '**Field Mapping**' page to map your custom fields in your uploaded contacts into CloudDial.
+Use the '**Field Mapping**' page to map your custom fields in your uploaded contacts into Cloud Dial.
 
 Click '**Next**' to move onto the next step.
 
@@ -104,9 +92,7 @@ Click '**Next**' to move onto the next step.
 
 Here you will upload your sound file that will be played on all calls.
 
-::: warning
-This file **must** be _**.wav**_ format.
-:::
+::: warningThis file **must** be _**.wav**_ format.:::
 
 Click '**Select**' to locate and upload your file, and click '**Save**' when complete.
 
@@ -120,15 +106,11 @@ Enable AMD at your discretion and click '**Finish**' when you are done.
 
 ## Call Recordings
 
-::: tip New Feature:
-In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
-:::
+::: tip New Feature:In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.:::
 
 While an Agent is on an active call, they will be offered the following call recording options:
 
-* **Start/Stop Recording this Arrangement:** When '**started**' the main call recording will continue to run, and a _new_ recording will be started. This enables you to capture just the relevant part of the call into a small file. When '**stopped**', only the arrangement is stopped and the main recording will continue to record.
-* **Stop All Recordings:** This will **stop** all recordings, including any arrangements. 
-* **Mask/Unmask Recording:** This will mute the audio the recording. (Typically used while taking credit card payments).
+* **Start/Stop Recording this Arrangement:** When '**started**' the main call recording will continue to run, and a _new_ recording will be started. This enables you to capture just the relevant part of the call into a small file. When '**stopped**', only the arrangement is stopped and the main recording will continue to record.* **Stop All Recordings:** This will **stop** all recordings, including any arrangements. * **Mask/Unmask Recording:** This will mute the audio the recording. (Typically used while taking credit card payments).
 
 ## Custom Dialling Order
 
@@ -150,24 +132,17 @@ In the top right hand corner click the arrow next to the '**New Campaign**' butt
 
 On this screen you must enter the following information:
 
-* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).
-* **Country:** Choose your country.
-* **Dialling Prefix:** This will be your caller ID for your outbound calls.
-* **Redial Attempts:** This determines how many times CloudDial will dial the number before giving up.
-* **Power Factor:** The number of simultaneous calls dialled in relation as a ratio to the number of active agents on your campaign.
-* **Select Contacts:** Use the '**Select**' button to upload your CloudDial campaign data.
+* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).* **Country:** Choose your country.* **Dialling Prefix:** This will be your caller ID for your outbound calls.* **Redial Attempts:** This determines how many times Cloud Dial will dial the number before giving up.* **Power Factor:** The number of simultaneous calls dialled in relation as a ratio to the number of active agents on your campaign.* **Select Contacts:** Use the '**Select**' button to upload your Cloud Dial campaign data.
 
 Click '**Next**' when complete.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-4.png">
 
-The '**Field Mapping**' tab allows you to map custom fields in your CloudDial campaign data into the system.
+The '**Field Mapping**' tab allows you to map custom fields in your Cloud Dial campaign data into the system.
 
 Match the columns in your uploaded data to the references shown.
 
-::: tip
-If you have a specific order you wish to dial the numbers, select that column for the '**Sequence of Call**' field.
-:::
+::: tipIf you have a specific order you wish to dial the numbers, select that column for the '**Sequence of Call**' field.:::
 
 Click '**Next**' when complete.
 
@@ -175,12 +150,9 @@ Click '**Next**' when complete.
 
 From the '**Call Direction**' menu, you can choose between;
 
-* **Outbound:** CloudDial will handle outbound calls only for this campaign.
-* **Inbound:** CloudDial will handle inbound calls only for this campaign.
-* **Inbound & Outbound:** CloudDial will handle both inbound & outbound calls for this campaign.
+* **Outbound:** Cloud Dial will handle outbound calls only for this campaign.* **Inbound:** Cloud Dial will handle inbound calls only for this campaign.* **Inbound & Outbound:** Cloud Dial will handle both inbound & outbound calls for this campaign.
 
-From the '**Campaign Script**' menu, you can choose from all of your pre-created campaign scripts. 
-These will show for the Agent while on each phone call.
+From the '**Campaign Script**' menu, you can choose from all of your pre-created campaign scripts. These will show for the Agent while on each phone call.
 
 You can also enter in additional notes that will appear on your agents screen while they are waiting for a call.
 
@@ -188,18 +160,17 @@ In the '**Tags**' section you can assign relevant tags to the campaign. This wil
 
 <img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-6.png">
 
-Answering Machine Detection (AMD) allows CloudDial to first make sure there is a human answering the phone instead of a voicemail system before bridging the call to an Agent. This can save your Agents valuable time chasing leads instead of leaving voicemail messages.
+Answering Machine Detection (AMD) allows Cloud Dial to first make sure there is a human answering the phone instead of a voicemail system before bridging the call to an Agent. This can save your Agents valuable time chasing leads instead of leaving voicemail messages.
 
 To enable, check the option to '**Switch on AMD**'.
 
-When AMD is detected CloudDial can either hangup, or leave a pre-recorded voicemail message.
+When AMD is detected Cloud Dial can either hangup, or leave a pre-recorded voicemail message.
 
 If you have chosen to leave a voicemail message, you will need to select your sound file in the next section before pressing '**Next**'.
 
 <img style="width: auto; height: auto;" src="/images/clouddial-orderedcampaign-7.png">
 
-Here you can add your '**Wrapup Reasons**'.
-These will be used by the Agents at the end of their calls to measure their KPIs.
+Here you can add your '**Wrapup Reasons**'.These will be used by the Agents at the end of their calls to measure their KPIs.
 
 When you are happy with the configuration of the campaign, click '**Finish**'.
 
@@ -227,7 +198,7 @@ Click '**Save**' when finished.
 
 ## Skills Based Call Routing
 
-Skills Based Call Routing, allows CloudDial to intelligently route calls to Agents based on their skillset.
+Skills Based Call Routing, allows Cloud Dial to intelligently route calls to Agents based on their skillset.
 
 ### Enable Skills Based Call Routing Globally
 
@@ -249,11 +220,9 @@ Now we can add tags to our phone numbers.
 
 Click on '**Phone Numbers**' on the horizontal menu at the top of the screen.
 
-This page shows you all of the numbers allocated to CloudDial and you can enable / disable them from here.
+This page shows you all of the numbers allocated to Cloud Dial and you can enable / disable them from here.
 
-::: tip
-**Pro Tip:** If your number does not show on this list, click the '**Update**' button in the top right hand corner.
-:::
+::: tip**Pro Tip:** If your number does not show on this list, click the '**Update**' button in the top right hand corner.:::
 
 Once you have found the number you wish to assign skill tags, click '**Assign Tags**' on the right hand side.
 
@@ -293,6 +262,6 @@ When an inbound call is placed, the call will be routed only to agents who have 
 
 ## Wrapup Reason Categories
 
-::: warning
-documentation coming soon
-:::
+::: warningdocumentation coming soon:::
+
+
