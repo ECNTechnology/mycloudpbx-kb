@@ -45,7 +45,7 @@ module.exports = {
         link: '/guides/business-sip/'
       },
       {
-        text: 'CloudDial',
+        text: 'Cloud Dial',
         link: '/guides/cloud-dial/'
       }
       ]
@@ -81,7 +81,7 @@ module.exports = {
         children: getChildren('./guides/business-sip/')
       }],
       '/guides/cloud-dial/': [{
-        title: 'CloudDial',
+        title: 'Cloud Dial',
         children: getChildren('./guides/cloud-dial/')
       }],
     },
