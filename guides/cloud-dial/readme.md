@@ -18,7 +18,13 @@ Contact your Administrator for your Cloud Dial URL
 
 On the Cloud Dial login screen you have 4 options to choose from.
 
-* **Forgotten Password:** Password reset link.* **Sign In:** This button is used in conjunction with your username & password to login.* **Registration:** Use this button to register as a new user.* **Agents Sign In:** This button is reserved for Cloud Dial Agents to sign in. 
+* **Forgotten Password:** Password reset link.
+
+* **Sign In:** This button is used in conjunction with your username & password to login.
+
+* **Registration:** Use this button to register as a new user.
+
+* **Agents Sign In:** This button is reserved for Cloud Dial Agents to sign in. 
 
 ### Agent Sign In
 
@@ -32,13 +38,16 @@ From the Cloud Dial sign-in page, click the '**Agents Sign In**' button and you 
 
 This screen allows an agent to enter in their preferred Username.
 
-They then enter in the extension number of their phone and click '**Sign In**'.Their extension will now ring, and once answered, they are logged into Cloud Dial.
+They then enter in the extension number of their phone and click '**Sign In**'.
+Their extension will now ring, and once answered, they are logged into Cloud Dial.
 
 When an agent first signs into Cloud Dial, they will be greeted with the following choice:
 
 ![clouddial waiting screen. choose select campaign or continue to hold.](/images/clouddial-agents-1.png)
 
-* **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.* **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
+* **Select Campaign:** When selected, you will be prompted to choose from a list of active campaigns available to you.
+
+* **Continue to Hold:** This will place you into a holding status and you'll be able to answer incoming calls, but won't be making outbound calls.
 
 Click '**Select Campaign**' when you are ready to join a campaign.
 
@@ -48,7 +57,9 @@ On this screen you will be able to see all campaigns available to you.Use the '*
 
 ## Campaign Type: Blaster
 
-A '**Blaster Campaign**' is a fully automated outbound campaign with no user agents involved. This campaign will make outbound calls and play an automated message.
+A '**Blaster Campaign**' is a fully automated outbound campaign with no user agents involved. 
+
+This campaign will make outbound calls and play an automated message.
 
 
 
@@ -82,7 +93,17 @@ From the '**New Campaign**' menu, select '**New Blaster Campaign**'.
 
 Add in the following information:
 
-* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).* **Country:** Choose your country.* **Dialling Prefix:** This will be your caller ID for your outbound calls.* **Redial Attempts:** This determines how many times Cloud Dial will dial the number before giving up.* **Virtual Agents#:** This is the number of outbound calls you want to make simultaneously. * **Select Contacts:** Use the '**Select**' button to upload your Cloud Dial campaign data.
+* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).
+
+* **Country:** Choose your country.
+
+* **Dialling Prefix:** This will be your caller ID for your outbound calls.
+
+* **Redial Attempts:** This determines how many times Cloud Dial will dial the number before giving up.
+
+* **Virtual Agents#:** This is the number of outbound calls you want to make simultaneously. 
+
+* **Select Contacts:** Use the '**Select**' button to upload your Cloud Dial campaign data.
 
 Click '**Next**' to move onto the next step.
 
@@ -112,11 +133,18 @@ Enable AMD at your discretion and click '**Finish**' when you are done.
 
 ## Call Recordings
 
-::: tip New Feature:In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.:::
+::: tip
+**New Feature:** In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
+:::
 
 While an Agent is on an active call, they will be offered the following call recording options:
 
-* **Start/Stop Recording this Arrangement:** When '**started**' the main call recording will continue to run, and a _new_ recording will be started. This enables you to capture just the relevant part of the call into a small file. When '**stopped**', only the arrangement is stopped and the main recording will continue to record.* **Stop All Recordings:** This will **stop** all recordings, including any arrangements. * **Mask/Unmask Recording:** This will mute the audio the recording. (Typically used while taking credit card payments).
+* **Start/Stop Recording this Arrangement:** When '**started**' the main call recording will continue to run, and a _new_ recording will be started. This enables you to capture just the relevant part of the call into a small file. 
+When '**stopped**', only the arrangement is stopped and the main recording will continue to record.
+
+* **Stop All Recordings:** This will **stop** all recordings, including any arrangements. 
+
+* **Mask/Unmask Recording:** This will mute the audio the recording. (Typically used while taking credit card payments).
 
 ## Custom Dialling Order
 
@@ -138,7 +166,17 @@ In the top right hand corner click the arrow next to the '**New Campaign**' butt
 
 On this screen you must enter the following information:
 
-* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).* **Country:** Choose your country.* **Dialling Prefix:** This will be your caller ID for your outbound calls.* **Redial Attempts:** This determines how many times Cloud Dial will dial the number before giving up.* **Power Factor:** The number of simultaneous calls dialled in relation as a ratio to the number of active agents on your campaign.* **Select Contacts:** Use the '**Select**' button to upload your Cloud Dial campaign data.
+* **Campaign Name:** This is for your reference. (Your Agents will see this when they join campaigns).
+
+* **Country:** Choose your country.
+
+* **Dialling Prefix:** This will be your caller ID for your outbound calls.
+
+* **Redial Attempts:** This determines how many times Cloud Dial will dial the number before giving up.
+
+* **Power Factor:** The number of simultaneous calls dialled in relation as a ratio to the number of active agents on your campaign.
+
+* **Select Contacts:** Use the '**Select**' button to upload your Cloud Dial campaign data.
 
 Click '**Next**' when complete.
 
@@ -148,7 +186,9 @@ The '**Field Mapping**' tab allows you to map custom fields in your Cloud Dial c
 
 Match the columns in your uploaded data to the references shown.
 
-::: tipIf you have a specific order you wish to dial the numbers, select that column for the '**Sequence of Call**' field.:::
+::: tip
+If you have a specific order you wish to dial the numbers, select that column for the '**Sequence of Call**' field.
+:::
 
 Click '**Next**' when complete.
 
@@ -156,7 +196,11 @@ Click '**Next**' when complete.
 
 From the '**Call Direction**' menu, you can choose between;
 
-* **Outbound:** Cloud Dial will handle outbound calls only for this campaign.* **Inbound:** Cloud Dial will handle inbound calls only for this campaign.* **Inbound & Outbound:** Cloud Dial will handle both inbound & outbound calls for this campaign.
+* **Outbound:** Cloud Dial will handle outbound calls only for this campaign.
+
+* **Inbound:** Cloud Dial will handle inbound calls only for this campaign.
+
+* **Inbound & Outbound:** Cloud Dial will handle both inbound & outbound calls for this campaign.
 
 From the '**Campaign Script**' menu, you can choose from all of your pre-created campaign scripts. These will show for the Agent while on each phone call.
 
