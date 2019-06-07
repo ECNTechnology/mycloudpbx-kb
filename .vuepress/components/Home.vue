@@ -98,6 +98,12 @@ export default {
 
 <style scoped>
 
+.content__default {
+  min-width: 100%!important;
+  padding-top: 0!important;
+  margin: 0 auto;
+}
+
 h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   transform: none;
 }
