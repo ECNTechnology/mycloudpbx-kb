@@ -376,6 +376,31 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
 
+## View PBX Changes
+
+When there are changes ready to be applied for your PBX you will see the '**View PBX Changes**' button shown below.
+
+Click '**_View PBX Changes_**'.
+
+<img style="width: auto; height: auto;" src="/images/pbx_changelog_1.png">
+
+On this screen you can see the current changes that will be applied by clicking '**_View Details_**'.
+
+You can also click '**_Change History_**' to view the historical change log.
+
+
+
+<img style="width: auto; height: auto;" src="/images/pbx_changelog_2.png">
+
+When you click '**_View Details_**' you will see the following screen allowing you to easily compare the old configuration with the new.
+
+You will be able to use the coloured lines to see the differences.
+
+<img style="width: auto; height: auto;" src="/images/pbx_changelog_3.png">
+
+When you are ready to apply the changes you can click '**_Apply PBX Changes_**'
+
+
 ## Personal Voicemail
 
 Each extension has the option to have personal voicemail enabled. This voicemail will only plan if an extension is _**directly dialled**_ (not part of a ring group).
