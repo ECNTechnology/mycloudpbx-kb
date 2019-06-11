@@ -46,6 +46,41 @@ Client correspondence, newsletters and general updates are a great way to keep o
 
 Click '**Save**' when you are finished.
 
+### Portal User Management
+
+An administrator can also create new / modify existing portal users.
+
+<img style="width: auto; height: auto;" src="/images/portal_users_1.png">
+
+Hover over '_**My Admin**_' and click on '_**Portal Users**_'.
+
+<img style="width: auto; height: auto;" src="/images/portal_users_2.png">
+
+On this screen you can click on an existing email address to modify that user.
+
+#### Editing an existing user
+
+Click on the user you wish to modify.
+
+<img style="width: auto; height: auto;" src="/images/portal_users_3.png">
+
+Here you can adjust the contact information, password, role, and notification settings for the user.
+
+The '**_Role_**' menu allows you to choose from a number of options including, Administrator, API User, Client User, and Service User.
+
+* **Administrator:** This user can access anything.
+
+* **API User:** This user type is used for computer programs to login to myCloudPBX.
+
+* **Client User:** This is used to allow wholesale partners to give their customers access to only their services.
+
+* **Service User:** This user type allows you to give access to only select services and actions.
+
+
+To disable user access, select '**_inactive_**' from the '**_Status_**' menu.
+
+When you have finished making changes, click '**_Save_**'.
+
 ### Hosted PBX Dashboard
 
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
@@ -388,8 +423,6 @@ On this screen you can see the current changes that will be applied by clicking 
 
 You can also click '**_Change History_**' to view the historical change log.
 
-
-
 <img style="width: auto; height: auto;" src="/images/pbx_changelog_2.png">
 
 When you click '**_View Details_**' you will see the following screen allowing you to easily compare the old configuration with the new.
@@ -399,7 +432,6 @@ You will be able to use the coloured lines to see the differences.
 <img style="width: auto; height: auto;" src="/images/pbx_changelog_3.png">
 
 When you are ready to apply the changes you can click '**_Apply PBX Changes_**'
-
 
 ## Personal Voicemail
 
