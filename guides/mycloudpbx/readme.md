@@ -54,7 +54,7 @@ An administrator can also create new / modify existing portal users.
 
 Hover over '_**My Admin**_' and click on '_**Portal Users**_'.
 
-<img style="width: auto; height: auto;" src="/images/portal_users_2.png">
+<img style="width: 1100px; height: auto;" src="/images/portal_users_2.png">
 
 On this screen you can click on an existing email address to modify that user.
 
