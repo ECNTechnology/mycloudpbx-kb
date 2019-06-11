@@ -46,7 +46,7 @@ Client correspondence, newsletters and general updates are a great way to keep o
 
 Click '**Save**' when you are finished.
 
-## Portal User Management
+### Portal User Management
 
 An administrator can also create new / modify existing portal users.
 
@@ -57,6 +57,29 @@ Hover over '_**My Admin**_' and click on '_**Portal Users**_'.
 <img style="width: auto; height: auto;" src="/images/portal_users_2.png">
 
 On this screen you can click on an existing email address to modify that user.
+
+#### Editing an existing user
+
+Click on the user you wish to modify.
+
+<img style="width: auto; height: auto;" src="/images/portal_users_3.png">
+
+Here you can adjust the contact information, password, role, and notification settings for the user.
+
+The '**_Role_**' menu allows you to choose from a number of options including, Administrator, API User, Client User, and Service User.
+
+* **Administrator:** This user can access anything.
+
+* **API User:** This user type is used for computer programs to login to myCloudPBX.
+
+* **Client User:** This is used to allow wholesale partners to give their customers access to only their services.
+
+* **Service User:** This user type allows you to give access to only select services and actions.
+
+
+To disable user access, select '**_inactive_**' from the '**_Status_**' menu.
+
+When you have finished making changes, click '**_Save_**'.
 
 ### Hosted PBX Dashboard
 
