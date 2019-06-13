@@ -1,7 +1,7 @@
 const getChildren = require('./childScript')
 
 module.exports = {
-  title: 'Cloud Dial  |  Knowledge Base',
+  title: 'myCloudPBX  |  Knowledge Base',
   description: '',
   plugins: [
     '@vuepress/back-to-top',
@@ -28,7 +28,7 @@ module.exports = {
     ],
     sidebar: {
       '/guides/mycloudpbx/': [{
-        title: 'Cloud Dial',
+        title: 'myCloudPBX',
         children: getChildren('./guides/mycloudpbx/')
       }],
     },
