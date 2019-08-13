@@ -8,7 +8,7 @@ date: 2019-06-16T04:10:10.042Z
 
 ## Windows Guides
 
-[Quick Start Guide - Windows](https://www.ecn.net.au/~support/myCloudPBXQuickStartGuideWindows.pdf)
+[Quick Start Guide - Windows](https://www.mycloudpbx.com.au/~support/myCloudPBXQuickStartGuideWindows.pdf)
 <br/>
 <br/>
 <br/>

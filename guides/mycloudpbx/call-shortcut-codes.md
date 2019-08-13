@@ -8,7 +8,7 @@ date: 2019-07-05T03:55:10.651Z
 
 Eavesdropping enables the ability to listen, or 'eavesdrop‘ on a call. This is useful for call centre training operations where a supervisor or manager can listen in to an agents live call and provide realtime feedback.
 
-[Click here to learn more.](https://kb.ecn.net.au/guides/mycloudpbx/eavesdropping.html)
+[Click here to learn more.](https://kb.mycloudpbx.com.au/guides/mycloudpbx/eavesdropping.html)
 
 ## In-Call Shortcuts
 

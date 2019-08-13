@@ -11,4 +11,4 @@ Inbound calls that divert to external numbers can be configured in two ways.
 
 By default '**Caller ID Passthrough**' is disabled. 
 
-[Click here for configuration steps](https://kb.ecn.net.au/guides/mycloudpbx/global-settings.html#caller-id-display-passthrough-caller-id)
+[Click here for configuration steps](https://kb.mycloudpbx.com.au/guides/mycloudpbx/global-settings.html#caller-id-display-passthrough-caller-id)

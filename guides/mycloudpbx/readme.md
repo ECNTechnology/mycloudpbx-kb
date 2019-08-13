@@ -9,7 +9,7 @@ Use the myCloudPBX Management Portal to setup your individual emails, set passwo
 
 ## myCloudPBX Configuration Portal
 
-To log into the management portal navigate to <https://my.ecn.net.au> and enter your Username & Password.
+To log into the management portal navigate to <https://my.mycloudpbx.com.au> and enter your Username & Password.
 
 <img style="width: auto; height: auto;" src="/images/screen-shot-2019-04-15-at-2.49.17-pm.png">
 
@@ -33,5 +33,5 @@ Expand the '_**Voice**_' list and select the PBX you wish to manage.
 ## myCloudPBX Dashboard
 
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
-<https://dashboard.ecn.net.au>
+<https://dashboard.mycloudpbx.com.au>
 
