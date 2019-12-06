@@ -8,7 +8,7 @@ date: 2019-06-16T04:10:10.042Z
 
 ## Windows Guides
 
-[Quick Start Guide - Windows](https://www.mycloudpbx.com.au/~support/myCloudPBXQuickStartGuideWindows.pdf)
+[Quick Start Guide - Windows](https://www.ecn.net.au/~support/myCloudPBXQuickStartGuideWindows.pdf)
 <br/>
 <br/>
 <br/>
@@ -63,6 +63,12 @@ Using the touchscreen enter the number you wish to dial and then press the green
 
 <img src="/images/Android_Softphone_MakingCall1.jpg" width="350" />
 
+### Accessing Voicemail
+
+To access Voicemail, press <img style="width: 25px; height: auto;" src="/images/iphone_voicemail_icon.png"> or dial **777**.
+
+Press the '**Keypad Icon**' to access the keypad, then enter your **PIN** when prompted.
+
 ### Blind Transfer a Call
 
 **Description:** When you '**Blind Transfer**' a call the call will immediately ring on the intended persons phone and will no longer be on yours.
@@ -75,7 +81,7 @@ Use your address book, or enter the number you wish to transfer to and press <im
 
 <img src="/images/softphone_android_transfers_2.jpg" width="350" />
 
-The has now been blind transferred to the other person.
+The call has now been blind transferred to the other person.
 
 ### Attended Transfer a Call
 
@@ -96,6 +102,28 @@ Press <img style="width: 25px; height: auto;" src="/images/transfers_threedots.p
 <img src="/images/softphone_android_attxfer3.jpg" width="350" />
 
 The has now been transferred to the other person.
+
+### Conference Calls
+
+**Description:** The myCloudPBX Softphone allows you to merge two callers together into a 3-way conference call.
+
+While on an active call, press <img style="width: 25px; height: auto;" src="/images/iphone_plus_button.png">
+
+<img src="/images/android-conferencecall1.png" width="350" />
+
+Using the touchscreen enter the number you wish to dial and press <img style="width: 25px; height: auto;" src="/images/iphone_dial.png"> 
+
+<img src="/images/android-conferencecall2.png" width="350" />
+
+To merge the calls together press <img style="width: 25px; height: auto;" src="/images/iphone_merge_icon.png">
+
+<img src="/images/android-conferencecall3.png" width="350" />
+
+The calls are now conferenced together.
+
+<img src="/images/android-conferencecall4.png" width="350" />
+
+To un-merge the calls again, press <img style="width: 25px; height: auto;" src="/images/iphone_split_icon.png">
 
 ## iPhone / iPad Guides
 
@@ -227,8 +255,6 @@ To merge the calls together press <img style="width: 25px; height: auto;" src="/
 The calls are now conferenced together.
 
 <img src="/images/iphone_conferenced.jpeg" width="350" />
-
-
 
 To un-merge the calls again, press <img style="width: 25px; height: auto;" src="/images/iphone_split_icon.png">
 

@@ -78,7 +78,7 @@ There are two ways to access your call recordings.
 
 ### Hosted PBX Dashboard
 
-Log into the [Hosted PBX Dashboard ](https://dashboard.mycloudpbx.com.au) with the same username / password you use for the management portal. - If you do not have this, contact your administrator.
+Log into the Hosted PBX Dashboard with the same username / password you use for the management portal. - If you do not have this, contact your administrator.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-9.png">
 
@@ -147,7 +147,7 @@ STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, E
 
 ### Enabling Call Recording Encryption.
 
-To enable call recording encryption you will first need to log into the https://my.mycloudpbx.com.au Portal.
+To enable call recording encryption you will first need to log into the company Portal.
 
 Once logged in, click on '**_My Services_**' and then expand the '**_Voice_**' section.
 
