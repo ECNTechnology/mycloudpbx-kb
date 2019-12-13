@@ -104,7 +104,7 @@ The following are the possible failure notices that could occur.
 
 - - -
 
-<img style="width: auto; height: auto;" src="/images/failed_fax_invalidnomber.png">
+<img style="width: auto; height: auto;" src="/images/failed_fax_invalidnumber.png">
 
 The '**invalid number**' receipt indicates that the email sent by the user did not contain a valid fax number.
 
