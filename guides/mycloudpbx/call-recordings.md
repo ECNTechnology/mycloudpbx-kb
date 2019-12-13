@@ -147,7 +147,7 @@ STORE YOUR PRIVATE KEY IN A SAFE, SECURE LOCATION. IF THE PRIVATE KEY IS LOST, E
 
 ### Enabling Call Recording Encryption.
 
-To enable call recording encryption you will first need to log into the company Portal.
+To enable call recording encryption you will first need to log into the Portal.
 
 Once logged in, click on '**_My Services_**' and then expand the '**_Voice_**' section.
 

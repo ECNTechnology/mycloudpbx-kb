@@ -10,7 +10,7 @@ Use the myCloudPBX Management Portal to setup your individual emails, set passwo
 
 ## myCloudPBX Configuration Portal
 
-To log into the management portal navigate to the company portal and enter your Username & Password.
+To log into the management portal navigate to the portal and enter your Username & Password.
 
 <img style="width: auto; height: auto;" src="/images/screen-shot-2019-04-15-at-2.49.17-pm.png">
 
@@ -34,7 +34,7 @@ Expand the '**_Voice_**' list and select the PBX you wish to manage.
 
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
 
-For more information on how to use the dashboard, click  [**here**](https://kb.mycloudpbx.com.au/guides/mycloudpbx/dashboard.html).
+For more information on how to use the dashboard, click  [**here**](https://kb.mycloudpbx.net.au/guides/mycloudpbx/dashboard.html).
 
 
 
