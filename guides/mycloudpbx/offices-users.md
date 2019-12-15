@@ -8,7 +8,7 @@ date: 2019-07-13T01:11:25.989Z
 As a new user it's highly recommended to read this document from top down.
 :::
 
-An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.mycloudpbx.net.au/guides/mycloudpbx/music-on-hold.html).
+An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.mycloudpbx.com.au/guides/mycloudpbx/music-on-hold.html).
 
 ## Create or Modify an Office
 
@@ -19,7 +19,7 @@ From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50
 On this screen you can quickly see the relevant information about each '**office**':
 
 * **Default Phone:** This is the default outbound caller ID that each extension part of this office will use. (Unless otherwise specified).
-* **Hold Music:** This is the hold music that will be played in the even you place someone on hold. (**Note:** This is specific to **outbound** calls only.) [Click here for more information about Music on Hold](https://kb.mycloudpbx.net.au/guides/mycloudpbx/music-on-hold.html).
+* **Hold Music:** This is the hold music that will be played in the even you place someone on hold. (**Note:** This is specific to **outbound** calls only.) [Click here for more information about Music on Hold](https://kb.mycloudpbx.com.au/guides/mycloudpbx/music-on-hold.html).
 * **Default Area Code:** This is the default area code that will be used when an extension part of this office does not specify one when making a call.
 * **Timezone:** This affects the clock shown on the handsets.
 
@@ -67,7 +67,7 @@ Make sure that you leave '**This extension is behind a firewall**' remains enabl
 
 Allows myCloudPBX to automatically generates the handset configuration for your phones.
 
-[Click here for more information about AutoProvisioning handsets.](https://kb.mycloudpbx.net.au/guides/mycloudpbx/autoprovisioning.html)
+[Click here for more information about AutoProvisioning handsets.](https://kb.mycloudpbx.com.au/guides/mycloudpbx/autoprovisioning.html)
 
 ### Enable Direct Dialling
 
@@ -153,13 +153,13 @@ Tick '**Record calls from this extension**' to record all **outbound** calls mad
 
 If you wish to record inbound calls as well, you will need to enable call recordings on the inbound phone number in '**Call Routing**'. 
 
-[Click here for more information about Call Recordings](https://kb.mycloudpbx.net.au/guides/mycloudpbx/call-recordings.html).
+[Click here for more information about Call Recordings](https://kb.mycloudpbx.com.au/guides/mycloudpbx/call-recordings.html).
 
 #### Eavesdropping
 
 Here you can enable both the ability to use the '**eavesdropping**' feature, and also '**eavesdropping privacy**'.
 
-[Click here for more information about Eavesdropping](https://kb.mycloudpbx.net.au/guides/mycloudpbx/eavesdropping.html).
+[Click here for more information about Eavesdropping](https://kb.mycloudpbx.com.au/guides/mycloudpbx/eavesdropping.html).
 
 ### Save Changes
 
