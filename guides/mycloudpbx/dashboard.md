@@ -111,12 +111,9 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 #### Background information about Account Codes
 
-Account codes are used to attribute calls to either a user or group of users. 
-Alternatively, account codes can be used to attribute calls made to your customers. 
+Account codes are used to attribute calls to either a user or group of users.  Alternatively, account codes can be used to attribute calls made to your customers. 
 
-When a call is made, you can enter the account code as part of the phone number. 
-The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc. 
-The CDR record is written when you terminate the call.
+When a call is made, you can enter the account code as part of the phone number.  The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc.  The CDR record is written when you terminate the call.
 
 This functionality would typically be used by anyone who bills specifically for their time, eg: lawyers.
 
@@ -126,6 +123,7 @@ The '**Account Code**' report takes each call with account codes  and assigns th
 
 * Specify the start & end date ranges.
 * Assign the following values to each of the call types:
+
   * **Unit:** Choose from 1 second, 30 seconds, or 1 minute increments.
   * **Cost:** Enter the cost (per unit) in cents.
   * **Minimum:** Enter the minimum call cost, in cents.
@@ -161,16 +159,16 @@ Once the data has loaded, you will be able to see the following information abou
 
 ### Active Users
 
-The '**Active Users**' report shows the total time users spent on calls. 
-Reports are filtered by the direction of the call, the office, and time period selected.
+The '**Active Users**' report shows the total time users spent on calls.  Reports are filtered by the direction of the call, the office, and time period selected.
 
 * Select any time period with a maximum of 7 days between them.
 * Select your '**Call Direction**':
+
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
-  * Outbound (This will only display **_outbound calls_** (calls that you made).  
-* Select the '**office**', or simply select '_all offices_'.
+  * Inbound (This will only display ***inbound calls***. (calls that you answered).
+  * Outbound (This will only display ***outbound calls*** (calls that you made).  
+* Select the '**office**', or simply select '*all offices*'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
@@ -189,11 +187,12 @@ The '**Total Call Count**' report shows the total number of calls each user made
 
 * Select any time period with a maximum of 7 days between them.
 * Select your '**Call Direction**':
+
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
-  * Outbound (This will only display **_outbound calls_** (calls that you made).  
-* Select the '**office**', or simply select '_all offices_'.
+  * Inbound (This will only display ***inbound calls***. (calls that you answered).
+  * Outbound (This will only display ***outbound calls*** (calls that you made).  
+* Select the '**office**', or simply select '*all offices*'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ![](/images/dashboard_total_call_count.png)
@@ -204,11 +203,12 @@ The '**Average Call Duration**' report displays the average time each user spent
 
 * Select any time period with a maximum of 7 days between them.
 * Select your '**Call Direction**':
+
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
-  * Outbound (This will only display **_outbound calls_** (calls that you made).  
-* Select the '**office**', or simply select '_all offices_'.
+  * Inbound (This will only display ***inbound calls***. (calls that you answered).
+  * Outbound (This will only display ***outbound calls*** (calls that you made).  
+* Select the '**office**', or simply select '*all offices*'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
@@ -220,3 +220,57 @@ The '**Average Call Duration**' report displays the average time each user spent
 ![](/images/dashboard_average_call_duration.png)
 
 ![](/images/dashboard_average_call_duration_pie.png)
+
+## Scheduled Reporting
+
+Scheduled Reporting allows you to create a report and receive it in your inbox when you need it.
+
+If a report is available for scheduling, you will see this button: <img style="width: 150px; height: auto;" src="/images/scheduled_button.png">
+
+### Creating a report
+
+Click the <img style="width: 150px; height: auto;" src="/images/scheduled_button.png"> button to create your report.
+
+<img style="width: 1000px; height: auto;" src="/images/scheduled_create_new.png">
+
+* **Report:** This is the report type.
+* **Friendly Name:** This is your name for the report.
+* **Email:** Add as many email recipients as required.
+* **Schedule:** Choose from Daily, Weekly, or Monthly.
+
+  * **Daily:** Select the days you wish to receive the report.
+  * **Weekly:** Choose the day of the week you wish to receive the report.
+  * **Monthly:** Choose the day of the month you wish to receive the report.
+* **Report State:** Use the toggle switch to choose from ON or OFF.
+* **Period:** Choose from the last 7 days, 14 days, or the last month.
+* **Direction:** Choose from Inbound, Outbound, Internal, or All Calls.
+* **Offices:** Choose from a specific office, or all offices.
+
+When you are finished, click the <img style="width: 50px; height: auto;" src="/images/scheduled_save.png"> button.
+
+### View / Modify Existing Reports
+
+Click **Scheduled Reports** from the left hand menu.
+
+Here you can see the reports scheduled for the PBX including the report type, schedule, operating status, and the date last run.
+
+<img style="width: 1000px; height: auto;" src="/images/scheduled_viewlist.png">
+
+* To edit a report, click <img style="width: 50px; height: auto;" src="/images/scheduled_edit.png">.
+* Use the toggle switches to enable or disable a report.
+* To delete a report, click <img style="width: 50px; height: auto;" src="/images/scheduled_delete.png">.
+
+## Virtual Fax Archive
+
+The '**Virtual Fax Archive**' allows you to download your inbound Fax.
+
+Click the '**Download**' button to download a copy of the PDF.
+
+
+![](/images/dashboard_vfax.png)
+
+::: tip
+
+ **NOTE:** Fax are stored for 90 days only
+
+:::
