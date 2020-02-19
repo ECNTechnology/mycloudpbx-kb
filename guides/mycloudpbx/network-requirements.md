@@ -10,7 +10,7 @@ It is highly recommended that your network environment meets or exceeds the belo
 
 Unexpected issues may arise if your network environment is not compatible with the below requirements. 
 
-# Customer Environment Requirements
+## Customer Environment Requirements
 
 <table class="editorDemoTable" style="vertical-align: top; border-style: none;" border="black">
 <thead>
@@ -52,7 +52,7 @@ LAN switches that are able to cope with a high count of Packets Per Second (50 t
 
 </br>
 
-# Firewall Rules
+## Firewall Rules
 
 The following firewall configurations are required for myCloudPBX Hosted Voice phones to successfully register to the myCloudPBX Hosted Voice registration servers and successfully receive/initiate inbound and outbound calls:
 
@@ -80,7 +80,7 @@ The following firewall configurations are required for myCloudPBX Hosted Voice p
 </tbody>
 </table>
 
-# Auto Provisioning
+## Auto Provisioning
 
 Phones on the myClouedPBX Hosted Voice platform can be enabled for auto-provisioning. 
 
