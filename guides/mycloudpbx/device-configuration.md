@@ -89,7 +89,7 @@ Click on the '_**FXS PORT1**_’ tab.
 2. Locate the indented '*_RESET_*' button between the power and ethernet port on the rear of the device.
 3. Use a paper clip to press and hold the reset button for 10 seconds. Do not release the button until all 4 lights on the top of the ATA flash for 1-2 seconds.
 
-::: TIP
+::: tip
 
 The ATA may reboot several times before the factory reset is completed.
 
