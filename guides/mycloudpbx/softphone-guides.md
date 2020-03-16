@@ -4,7 +4,41 @@ date: 2019-06-16T04:10:10.042Z
 ---
 # myCloudPBX Softphone Guides
 
-- - -
+**Description:** 
+
+These guides will walk you through activating the myCloudPBX Softphone for a user. Once activated, you will be able to use the following guides to install and use the Softphone on your devices.
+
+## Activating the myCloudPBX Softphone
+
+From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50px; height: auto;" src="/images/offices_and_users1.png"> 
+
+Click on the user you wish to activate the Softphone for.
+
+![](/images/offices_and_users4.png)
+
+On the right hand side of your screen you will see a section labelled 'myCloudPBX' as shown below.
+
+To activate:
+
+* Tick '**Enable Softphone**'.
+
+* Enter your '**email address**'.
+
+* Click '**Submit & Activate**'.
+
+You will now receive an email containing the download links for the Softphone. (The Softphone supports Mac, iPhone, Windows, & Android).
+
+The email will also contain the username you will use to login to the Softphone.
+
+::: tip
+**NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone.
+:::
+
+![](/images/activate_mcp_softphone_1.png)
+
+::: tip
+**HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button.
+:::
 
 ## Windows Guides
 
@@ -257,8 +291,7 @@ To un-merge the calls again, press <img style="width: 25px; height: auto;" src="
 
 ## OSX Guides
 
-::: tip
- Coming Soon!  
+::: tip  Coming Soon!
 :::
 
 # Troubleshooting
