@@ -21,26 +21,80 @@ On the right hand side of your screen you will see a section labelled 'myCloudPB
 To activate:
 
 * Tick '**Enable Softphone**'.
-
 * Enter your '**email address**'.
-
 * Click '**Submit & Activate**'.
 
 You will now receive an email containing the download links for the Softphone. (The Softphone supports Mac, iPhone, Windows, & Android).
 
 The email will also contain the username you will use to login to the Softphone.
 
-::: tip
-**NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone.
-:::
+::: tip **NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone. :::
 
 ![](/images/activate_mcp_softphone_1.png)
 
-::: tip
-**HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button.
-:::
+::: tip **HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button. :::
 
 ## Windows Guides
+
+These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone using a Windows PC.
+
+You will need a MyCloudPBX Softphone account in order to follow this guide, if you do not already have one you will need to contact your administrator.
+
+### Installation
+
+**Step 1.** From the MyECN Portal under your user settings or in your activation email, click the link 'Get it from Microsoft' to download the install '.exe' file.
+
+<img src="/images/picture1-downloadlink.jpg" width="350" />
+
+**Step 2.** Navigate to the file on your Windows PC and double click to open and begin the installation process.
+
+<img src="/images/picture2-openfile.jpg" width="350" />
+
+**Step 3.** Select your language from the drop down menu and then click on 'OK'.
+
+<img src="/images/picture3-selectlanguage.jpg" width="350" />
+
+**Step 4.** Click 'Next'
+
+<img src="/images/picture4-installsplashscreen.jpg" width="550" />
+
+**Step 5.** Tick the box for 'I accept the terms in the License Agreement' and then click 'Next'
+
+<img src="/images/picture5-euagreement.jpg" width="550" />
+
+**Step 6.** Use the 'Change' button to select your installation location and then click 'Next'
+
+<img src="/images/Picture6-InstallLocation.jpg" width="550" />
+
+**Step 7.** Click 'Install'
+
+<img src="/images/Picture7-begininstall.jpg" width="550" />
+
+**Step 8.** Wait for the installation process to complete.
+
+<img src="/images/Picture8-installinprogress.jpg" width="550" />
+
+**Step 9.** Click 'Finish'.
+
+<img src="/images/Picture9-installfinish.jpg" width="550" />
+
+**Step 10.** Open the program from your start menu or by double clicking the desktop icon. 
+
+Enter the following details and then click 'Sign In':
+
+**Username:** Your username
+
+**Password:** Your password
+
+<img src="/images/Picture10-login.jpg" width="350" />
+
+**Step 11.** You are now logged in.
+
+<img src="/images/Picture11-finish.jpg" width="350" />
+
+### Quick Start Guide
+
+For a quick summary on how to use the softphone, please see below:
 
 [Quick Start Guide - Windows](https://www.ecn.net.au/~support/myCloudPBXQuickStartGuideWindows.pdf) <br/> <br/> <br/>
 
@@ -291,8 +345,7 @@ To un-merge the calls again, press <img style="width: 25px; height: auto;" src="
 
 ## OSX Guides
 
-::: tip  Coming Soon!
-:::
+::: tip  Coming Soon! :::
 
 # Troubleshooting
 
