@@ -32,7 +32,7 @@ The email will also contain the username you will use to login to the Softphone.
 
 ![](/images/activate_mcp_softphone_1.png)
 
-::: tip **HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button. :::
+::: tip **HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button. ::: <br/> <br/>
 
 ## Windows Guides
 
