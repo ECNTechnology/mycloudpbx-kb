@@ -28,11 +28,13 @@ You will now receive an email containing the download links for the Softphone. (
 
 The email will also contain the username you will use to login to the Softphone.
 
-::: tip  **NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone. :::
+::: tip  **NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone. 
+:::
 
 ![](/images/activate_mcp_softphone_1.png)
 
-::: tip  **HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button. :::
+::: tip  **HINT!** The Softphone allows for a maximum of two separate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button. 
+:::
 
 ## Windows Guides
 
