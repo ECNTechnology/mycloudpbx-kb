@@ -97,7 +97,69 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 
 Open the myCloudPBX app and login using your username and password.
 
-Type the number you wish to call or use the on-screen keyboard and then click 
+Type the number you wish to call or use the on-screen keyboard and then click <img src="/images/callbutton.jpg" width="25" />
+
+<img src="/images/Picture1-Dialling.jpg" width="350" />
+
+### Accessing Voicemail
+
+To access Voicemail, press <img style="width: 25px; height: auto;" src="/images/iphone_voicemail_icon.png"> or dial **777**.
+
+Use the on-screen keyboard to type in your voicemail PIN when prompted
+
+### Blind Transfer a Call
+
+**Description:** When you '**Blind Transfer**' a call the call will immediately ring on the intended persons phone and will no longer be on yours.
+
+**Step 1.** While in-call, click on <img src="/images/transferbutton.jpg" width="25" /> to initiate a transfer. This will place your current call on hold.
+
+<img src="/images/Picture1-incall.jpg" width="350" />
+
+**Step 2.** Type the number you wish to transfer to and then click <img src="/images/incalltransferbutton.jpg" width="75" />
+
+ <img src="/images/Picture2-transferpending.jpg" width="350" />
+
+The call has now been transferred to the other person.
+
+### Attended Transfer a Call
+
+**Description:** An '**Attended Transfer**' allows you to 'introduce' the caller to the callee before handing the call over. This is the preferred method of transferring calls.
+
+**Step 1.** While in-call, click on <img src="/images/transferbutton.jpg" width="25" /> to initiate a transfer. This will place your current call on hold.
+
+<img src="/images/Picture1-incall.jpg" width="350" />
+
+**Step 2.** Type the number you wish to transfer to and then click <img src="/images/incallmoreoptions.jpg" width="15" /> followed by clicking 'Call First'.
+
+<img src="/images/Picture3-attendedtransferpending.jpg" width="350" />
+
+You are now speaking to the callee.
+
+**Step 3.** When you are ready to hand the call over, click <img src="/images/incalltransferbutton.jpg" width="75" />.
+
+<img src="/images/Picture4-finalisetransfer.jpg" width="350" />
+
+The call has now been transferred to the other person.
+
+### Conference Calls
+
+**Description:** The myCloudPBX Softphone allows you to merge two callers together into a 3-way conference call.
+
+**Step 1.** While in-call, click on <img src="/images/moreoptions.jpg" width="25" /> to access additional call options.
+
+<img src="/images/Picture1-incall.jpg" width="350" />
+
+**Step 2.** Click on 'Invite to Conference Call'
+
+<img src="/images/Picture2-preconferencecall.jpg" width="350" />
+
+**Step 3.** Type the number of the person you wish to add to the call and then click <img src="/images/conferenceaddbutton.jpg" width="75" />.
+
+<img src="/images/Picture3-creatingconference.jpg" width="350" />
+
+**Step 4.** You are now in a conference call. In order to separate the calls click on <img src="/images/inconferencemoreoptions.jpg" width="25" />, followed by 'Separate'.
+
+<img src="/images/Picture4-aciveconference.jpg" width="350" />
 
 ### Quick Start Guide
 
