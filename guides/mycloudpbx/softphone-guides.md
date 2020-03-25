@@ -84,11 +84,11 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 
 **Step 10.** Open the program from your start menu or by double clicking the desktop icon. 
 
-Enter the following details and then click 'Sign In':
+Enter the following information and click 'Sign In':
 
-**Username:** Your username
+* **Your Username:** (You will have received this in the welcome email when you activated the softphone.)
 
-**Password:** Your password
+* **Your Password:** (You can find this in the myCloudPBX Management Portal. If you are not sure, contact your Administrator).
 
 <img src="/images/Picture10-login.jpg" width="350" />
 
