@@ -28,15 +28,11 @@ You will now receive an email containing the download links for the Softphone. (
 
 The email will also contain the username you will use to login to the Softphone.
 
-::: tip 
-**NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone.
-:::
+::: tip  **NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone. :::
 
 ![](/images/activate_mcp_softphone_1.png)
 
-::: tip 
-**HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button.
-:::
+::: tip  **HINT!** The Softphone allows for a maximum of two seperate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button. :::
 
 ## Windows Guides
 
@@ -87,7 +83,6 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 Enter the following information and click 'Sign In':
 
 * **Your Username:** (You will have received this in the welcome email when you activated the softphone.)
-
 * **Your Password:** (You can find this in the myCloudPBX Management Portal. If you are not sure, contact your Administrator).
 
 <img src="/images/Picture10-login.jpg" width="350" />
@@ -95,6 +90,14 @@ Enter the following information and click 'Sign In':
 **Step 11.** You are now logged in.
 
 <img src="/images/Picture11-finish.jpg" width="350" />
+
+### Making a Call
+
+You will need a MyCloudPBX Softphone account in order to follow this guide, if you do not already have one you will need to contact your administrator.
+
+Open the myCloudPBX app and login using your username and password.
+
+Type the number you wish to call or use the on-screen keyboard and then click 
 
 ### Quick Start Guide
 
