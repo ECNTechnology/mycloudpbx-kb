@@ -73,7 +73,7 @@ Click '**_Apply PBX Changes_**'.
 
 During an active call you can use the following shortcut codes.
 
-::: TIP
+::: tip
 Call Recordings must be enabled.
 :::
 
