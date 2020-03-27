@@ -69,6 +69,22 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
 
+## Shortcut Codes
+
+During an active call you can use the following shortcut codes.
+
+::: TIP
+Call Recordings must be enabled.
+:::
+
+* If a recording is active **#8** will stop the current recording.
+
+* If a recording is not currently active **#8** will start an adhoc recording.
+* If a recording or adhoc recording is active **#7** will enabling masking of the recording.
+* If a call is currently masked **#7** will stop masking.
+
+
+
 ## Accessing Call Recordings
 
 There are two ways to access your call recordings.
