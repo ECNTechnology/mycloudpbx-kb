@@ -71,7 +71,11 @@ Click '**_Apply PBX Changes_**'.
 
 ## Shortcut Codes
 
-During an active call.
+During an active call you can use the following shortcut codes.
+
+::: TIP
+Call Recordings must be enabled.
+:::
 
 * If a recording is active **#8** will stop the current recording.
 
