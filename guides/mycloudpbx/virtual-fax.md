@@ -140,7 +140,7 @@ The '**invalid user**' receipt indicates that the sending email address has not 
 
 ::: tip
 
-\*\*Note:\*\* Occasionally a false positive will occur for a valid sender. If you are sure you are a valid sender, please wait 5 minutes and then retry!
+**Note:** Occasionally a false positive will occur for a valid sender. If you are sure you are a valid sender, please wait 5 minutes and then retry!
 
 :::
 
