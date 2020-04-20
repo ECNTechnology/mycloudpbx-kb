@@ -8,7 +8,9 @@ myCloudPBX includes the ability to autoprovision handsets. No longer do you need
 
 Autoprovisioning will automatically generate the handset configuration for you.
 
-::: tip **Note:** This guide assumes you have already created an extension. If not, please follow [this guide](https://kb.mycloudpbx.net.au/guides/mycloudpbx/offices-users.html) first. :::
+::: tip
+**Note:** This guide assumes you have already created an extension. If not, please follow [this guide](https://kb.mycloudpbx.net.au/guides/mycloudpbx/offices-users.html) first. 
+:::
 
 ## Basic Autoprovisioning
 
@@ -82,8 +84,7 @@ Add the following information:
 Click '**Save**'.
 
 
-![](/images/autoprovisioning_firewallrulesadd.png)
-
+![](/images/autoprovisioning_firewallrulesadd.png) 
 
 ## Save Changes
 
