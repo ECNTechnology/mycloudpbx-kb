@@ -8,9 +8,7 @@ myCloudPBX includes the ability to autoprovision handsets. No longer do you need
 
 Autoprovisioning will automatically generate the handset configuration for you.
 
-::: tip
-**Note:** This guide assumes you have already created an extension. If not, please follow [this guide](https://kb.mycloudpbx.net.au/guides/mycloudpbx/offices-users.html) first.
-:::
+::: tip **Note:** This guide assumes you have already created an extension. If not, please follow [this guide](https://kb.mycloudpbx.net.au/guides/mycloudpbx/offices-users.html) first. :::
 
 ## Basic Autoprovisioning
 
@@ -21,8 +19,8 @@ From within the **Extension Configuration Page**, scroll down until you reach th
 Enter the following information:
 
 * **Calls Per Line Keys:** This specifies the maximum number of calls, per line key that you wish to accept on your handset at any one time. (If unsure, leave this on the default: 2).
-* **Phone Type:** Select the _Make_ and _Model_ that matches your handset.
-* If you have an _Expansion Module_ enter that information as well.
+* **Phone Type:** Select the *Make* and *Model* that matches your handset.
+* If you have an *Expansion Module* enter that information as well.
 * Finally, add the **MAC Address** of the handset into the space specified.
 
 ## Editing Handset Keys
@@ -60,12 +58,32 @@ Here you can choose between DHCP or a Static IP Address.
 :::
 
 * **Call Waiting Tone:** Use this option to enable or disable the call waiting tone.
-
 * **Starting Port:** Helpful with NAT issues. Using this option will configure the handset to use a different starting port on the local network.
-
 * **Codec:** Choose between G711a (Recommended), and G729a.
-
 * **Transport:** Choose between UDP or TCP for SIP Transport.
+
+## Firewall Rules
+
+Before you can update your handset you will need to ensure that your WAN IP Address is allowed to download the configuration.
+
+To do this hover over '**My Admin**' and click '**Firewall Rules**'.
+
+![](/images/autoprovisioning_firewallrules.png)
+
+Add the following information:
+
+* **Description**: This is for your reference only.
+
+* **IP Address**: This should be your WAN IP Address. (If unsure of your public IP Address, simply type "what is my ip address" into Google.)
+* **Netmask**: Leave this as 32 unless told otherwise.
+* **Scope**: Leave this as '**IP Telephony**'.
+
+
+Click '**Save**'.
+
+
+![](/images/autoprovisioning_firewallrulesadd.png)
+
 
 ## Save Changes
 
@@ -75,7 +93,7 @@ This will save the changes, however you will also need to apply these changes to
 
 ![](/images/pbx-apply-viewchanges.png)
 
-Finally, you will need to click '**_Apply Changes_**'.
+Finally, you will need to click '***Apply Changes***'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
