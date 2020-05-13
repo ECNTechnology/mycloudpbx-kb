@@ -107,6 +107,71 @@ The '**Time to Answer**' report displays the average time taken for a call to be
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
+### Export Call Records
+
+#### Background information the 'Export Call Records' report.
+
+The '**Export Call Records**' report allows you to download an easy to digest csv report with the following headings:
+
+* **Callguid:** Unique reference ID for the call.
+* **Calldatetime:** Date / Time of the call.
+* **Moli:** Mobile Originating Location Indicator (MoLi).
+* **Serviceid:** myCloudPBX Service ID.
+* **Servicename:** myCloudPBX Service Name generated when the PBX was first created.
+* **Servicefriendlyname:** A more 'user friendly' name for your PBX.
+* **Direction:** Direction of call. (In, Out, Internal).
+* **Dialplan:** Dialplan Used: AU (Australia), NZ (New Zealand)
+* **Externalid:** Shows the caller ID.
+* **Originnumber:** Shows the originating caller ID.
+* **Originname:** Reserved for future use.
+* **Targetnumber:** Destination number.
+* **Targetname:** Reserved for future use.
+* **Jurisdiction:** Shows the 'International Jurisdiction' (Used for International billing).
+* **Jurisdictiondesc:** Reserved for future use.
+* **Originregion:** Reserved for future use.
+* **Destinationregion:** Reserved for future use.
+* **Duration:** Total duration of the call.
+* **Billabletime:** Total billable time of the call.
+* **Ratetype:**
+
+
+    1. Local
+
+    2. National
+    4. Mobile
+    5. Calls to 13/Misc
+    6. Calls to 1800
+
+* **Hangupreason:** The hangup reason for the call.
+* **Originuseragent:** Where available, this will show the user agent that made the call.
+* **Originipaddress:** For calls that originated internally, will show the IP Address of the caller.
+* **Accountcode:** Used with 'Account Code Dialling', will show the account code that was dialled.
+* **Rtpmos:** Used to measure call quality.
+
+
+    * When using the G711 codec, this can be as high as 4.5.
+
+    * When using the G729 codec, this can be as high as 3.9.
+
+* **Rtpquality:** Used to measure call quality. Maximum is 100.
+* **Calltimezone:** Reserved for future use.
+* **Callroutename:** Reserved for future use.
+* **InboundExtensionNumber:** Where available, this will show the extension number that answered the call.
+* **InboundExtensionName:** Where available, this will show the name assigned to the extension number that answered the call.
+* **OfficeName:** Reserved for future use.
+* **FirstTalker:** For inbound calls, this will show the first talker.
+
+#### Usage
+
+Select the start and end date ranges as well as the phone number(s).
+
+
+![](/images/export_call_records_1.png)
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+You can also schedule this report by clicking the  <img style="width: 150px; height: auto;" src="/images/scheduled_button.png"> button.
+
 ### Account Code
 
 #### Background information about Account Codes
@@ -265,7 +330,6 @@ Here you can see the reports scheduled for the PBX including the report type, sc
 The '**Virtual Fax Archive**' allows you to download your inbound Fax.
 
 Click the '**Download**' button to download a copy of the PDF.
-
 
 ![](/images/dashboard_vfax.png)
 
