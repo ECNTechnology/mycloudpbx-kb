@@ -171,7 +171,7 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 You can also schedule this report by clicking the  <img style="width: 150px; height: auto;" src="/images/scheduled_button.png"> button.
 
-### Account Code
+### Cost Allocation
 
 #### Background information about Account Codes
 
