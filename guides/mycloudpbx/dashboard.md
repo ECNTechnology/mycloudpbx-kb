@@ -70,6 +70,20 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 ![](/images/dashboard_inbound_calls.png)
 
+#### Inbound Calls CSV Headings
+
+* **CallGuid:** Unique reference for the call.
+
+* **CallDateTime:** Date/Time the call took place.
+* **Duration:** Duration of the call.
+* **OriginNumber:** The originating caller ID.
+* **TargetNumber:** The destination number on the PBX.
+* **CallRouteName:** Reserved for future use.
+* **TalkerCount:** Every time the call is transferred to another user on the PBX this will increment. An answered call will show at least 1 Talker.
+* **TalkerTime:** Total time of the call once answered.
+* **TimeToAnswer:** Time taken before the call was answered.
+* **FirstExtension:** For answered calls, this shows the extension number that answered the call.
+
 ### Abandoned Calls
 
 The '**Abandoned Calls**' report displays the total number of inbound calls where no user spoke to the caller and it did not go to Voicemail.
@@ -109,7 +123,7 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 ### Export Call Records
 
-#### Background information the 'Export Call Records' report.
+#### Background information about the 'Export Call Records' report.
 
 The '**Export Call Records**' report allows you to download an easy to digest csv report with the following headings:
 
