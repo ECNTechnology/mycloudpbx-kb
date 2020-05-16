@@ -372,9 +372,7 @@ From the top of the screen, select '**Buddies**', then press the '**+**' button 
 
 Enter in the relevant information about the contact.
 
-Scroll down to the section labelled '**softphone**'.
-Enter the username for the person you wish to monitor.
-::: tip
+Scroll down to the section labelled '**softphone**'. Enter the username for the person you wish to monitor. ::: tip
 This will be the same as their username for the myCloudPBX Softphone
 :::
 
@@ -446,7 +444,49 @@ To un-merge the calls again, press <img style="width: 25px; height: auto;" src="
 
 ## OSX Guides
 
-::: tip  Coming Soon! :::
+### Installation
+
+Step 1. From the MyECN Portal under your user settings or in your activation email, click the '**Download from Mac App Store**' button to download the OSX installer.
+
+<img src="/images/picture1-downloadlink.jpg" width="350" />
+
+Double click on the downloaded file to begin the installation.
+
+<img src="/images/kb_osx_install_1.png" width="350" />
+
+Click '**Agree**' when ready to proceed with the installation.
+
+<img src="/images/kb_osx_install_2.png" width="350" />
+
+It may take some time for the next window to show. Please be patient.
+
+<img src="/images/kb_osx_install_3.png" width="350" />
+
+Drag the '**myCloudPBX Softphone**' icon onto the '**Applications**' folder.
+
+<img src="/images/kb_osx_install_4.png" width="350" />
+
+Allow some time for the application to copy across.
+
+<img src="/images/kb_osx_install_5.png" width="350" />
+
+Once the copy has completed you will find the application in the '**Launchpad**' with all of your other applications.
+
+Open the Softphone.
+
+When prompted, click '**Open**'
+
+<img src="/images/kb_osx_install_6.png" width="350" />
+
+On the following screen, enter your username and password.
+
+Click '**Sign In**'
+
+<img src="/images/kb_osx_install_7.png" width="350" /> 
+
+You are now signed in and ready to make and receive calls.
+
+<img src="/images/kb_osx_install_8.png" width="350" />
 
 # Troubleshooting
 
