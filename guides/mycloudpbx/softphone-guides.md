@@ -488,6 +488,23 @@ You are now signed in and ready to make and receive calls.
 
 <img src="/images/kb_osx_install_8.png" width="350" />
 
+### Making a Call
+
+You will need a MyCloudPBX Softphone account in order to follow this guide, if you do not already have one you will need to contact your administrator.
+
+Open the myCloudPBX app and login using your username and password.
+
+Type the number you wish to call or use the on-screen keyboard and then click <img src="/images/kb_osx_makecall_4.png" width="25" />
+
+<img src="/images/kb_osx_makecall_1.png" width="350" />
+
+To end the call, click <img src="/images/kb_osx_makecall_3.png" width="25" />
+
+To place the caller on hold, click <img src="/images/kb_osx_makecall_5.png" width="25" /> Press <img src="/images/kb_osx_makecall_5.png" width="25" /> again to resume the call.
+
+<img src="/images/kb_osx_makecall_2.png" width="350" />
+
+
 # Troubleshooting
 
 ## Device Activation Limit Reached
