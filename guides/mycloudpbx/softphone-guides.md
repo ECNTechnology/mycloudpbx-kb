@@ -28,15 +28,13 @@ You will now receive an email containing the download links for the Softphone. (
 
 The email will also contain the username you will use to login to the Softphone.
 
-::: tip  
-**NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone. 
-:::
+::: tip\
+**NOTE:** The password is never sent via email and is listed on the left hand side of the page when you activate the Softphone.  :::
 
 ![](/images/activate_mcp_softphone_1.png)
 
-::: tip  
-**HINT!** The Softphone allows for a maximum of two separate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button. 
-:::
+::: tip\
+**HINT!** The Softphone allows for a maximum of two separate devices to be activated at a time. If you replace a device you will need to press the '**Reset License**' button.  :::
 
 ## Windows Guides
 
@@ -361,6 +359,36 @@ Press the '**Keypad Icon**' to access the keypad, then enter your **PIN** when p
 To view your call history, press the button at the bottom of the myCloudPBX Softphones homescreen labelled '**History**'.
 
 <img src="/images/iphone_history.jpeg" width="350" />
+
+### Adding Contacts
+
+From the main screen of the Softphone, press '**Contacts**'.
+
+<img src="/images/kb_iphone_buddies_1.png" width="350" />
+
+From the top of the screen, select '**Buddies**', then press the '**+**' button to add a new contact.
+
+<img src="/images/kb_iphone_buddies_2.png" width="350" />
+
+Enter in the relevant information about the contact.
+
+Scroll down to the section labelled '**softphone**'.
+Enter the username for the person you wish to monitor.
+::: tip
+This will be the same as their username for the myCloudPBX Softphone
+:::
+
+Select the '**IM URI**' option
+
+<img src="/images/kb_iphone_buddies_3.png" width="350" />
+
+Ensure that the user you wish to monitor is selected, then press '**Done**'.
+
+<img src="/images/kb_iphone_buddies_4.png" width="350" />
+
+Finally, you can now see the current on-call status of all the users you have added.
+
+<img src="/images/kb_iphone_buddies_5.png" width="350" />
 
 ### Blind Transfer a Call
 
