@@ -500,9 +500,20 @@ Type the number you wish to call or use the on-screen keyboard and then click <i
 
 To end the call, click <img src="/images/kb_osx_makecall_3.png" width="25" />
 
-To place the caller on hold, click <img src="/images/kb_osx_makecall_5.png" width="25" /> Press <img src="/images/kb_osx_makecall_5.png" width="25" /> again to resume the call.
+To place the caller on hold, click <img src="/images/kb_osx_makecall_5.png" width="25" />. 
+
+Press <img src="/images/kb_osx_makecall_5.png" width="25" /> again to resume the call.
 
 <img src="/images/kb_osx_makecall_2.png" width="350" />
+
+### Accessing Voicemail
+
+To access Voicemail, press <img src="/images/iphone_voicemail_icon.png" width="25" /> or dial **777**.
+
+Use the on-screen keyboard to type in your voicemail PIN when prompted
+
+<img src="/images/kb_osx_voicemail.png" width="350" />
+
 
 
 # Troubleshooting
