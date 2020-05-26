@@ -151,7 +151,7 @@ The '**Export Call Records**' report allows you to download an easy to digest cs
 
     * 1. Local
     * 2. National
-    # 3. International
+    * 3. International
     * 4. Mobile
     * 5. Calls to 13/Misc
     * 7. Calls to 1800
