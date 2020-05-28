@@ -163,6 +163,26 @@ The call has now been transferred to the other person.
 
 <img src="/images/Picture4-aciveconference.jpg" width="350" />
 
+### Adding Contacts
+
+**Description:** The myCloudPBX Softphone allows you to add other users on your PBX as contacts so you can monitor their call status.
+
+**Step 1.** From the main screen of the softphone, click '**Contacts**' and then from the drop down menu, '**Add Contact**'.
+
+<img src="/images/add_contact_win1.png" width="350" />
+
+**Step 2.** Enter in the relevant information for your contact and then your contact's extension number in the box indicated below. Then click '**Add**'.
+
+<img src="/images/add_contact_win2.png" width="550" />
+
+**Step 3.** Click '**OK**' to finish adding your contact.
+
+<img src="/images/add_contact_win3.png" width="550" />
+
+**Step 4.** Your contact is now added.
+
+<img src="/images/add_contact_win4.png" width="350" />
+
 ### Quick Start Guide
 
 For a quick summary on how to use the softphone, please see below:
@@ -372,8 +392,7 @@ From the top of the screen, select '**Buddies**', then press the '**+**' button 
 
 Enter in the relevant information about the contact.
 
-Scroll down to the section labelled '**softphone**'. Enter the username for the person you wish to monitor. ::: tip
-This will be the same as their username for the myCloudPBX Softphone
+Scroll down to the section labelled '**softphone**'. Enter the username for the person you wish to monitor. ::: tip This will be the same as their username for the myCloudPBX Softphone
 :::
 
 Select the '**IM URI**' option
@@ -513,8 +532,6 @@ To access Voicemail, press <img src="/images/iphone_voicemail_icon.png" width="2
 Use the on-screen keyboard to type in your voicemail PIN when prompted
 
 <img src="/images/kb_osx_voicemail.png" width="350" />
-
-
 
 # Troubleshooting
 
