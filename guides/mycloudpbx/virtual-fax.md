@@ -90,7 +90,6 @@ The Virtual Fax feature is provided on an “as-is” basis without warranty or 
 
 When connection issues occur there is no ability for us to correct, recover or improve the facility. No notification of failure will be forwarded nor do we provide any logging or remedy for such events.
 
-
 ## **Failure Notices**
 
 Anytime you send a fax you will receive a receipt to indicate if the fax was successful or not. 
@@ -114,8 +113,6 @@ The '**invalid number**' receipt indicates that the email sent by the user did n
 
 *The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility.*
 
-
-
 ### Sending Rejected - No PDF attached
 
 - - -
@@ -133,8 +130,6 @@ The '**no PDF attached**' receipt indicates that the email sent by the user did 
 
 *The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility.*
 
-
-
 ### Sending Rejected - Invalid User
 
 - - -
@@ -143,14 +138,18 @@ The '**no PDF attached**' receipt indicates that the email sent by the user did 
 
 The '**invalid user**' receipt indicates that the sending email address has not been authorised to send faxes.
 
+::: tip
+
+**Note:** Occasionally a false positive will occur for a valid sender. If you are sure you are a valid sender, please wait 5 minutes and then retry!
+
+:::
+
 **TIPS:**
 
 * If you are an administrator, [click here ](https://kb.mycloudpbx.com.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual Fax Senders.
 * Contact your administrator to arrange access.
 
 *The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility.*
-
-
 
 ### Transmission Failed
 
@@ -176,8 +175,6 @@ The '**fax transmission failed**' receipt indicates that the outbound fax failed
 * Try again in 5 minutes.
 
 *The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility.*
-
-
 
 **More about Error Correction Mode (ECM):**
 
