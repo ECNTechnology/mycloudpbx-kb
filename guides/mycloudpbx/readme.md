@@ -34,7 +34,7 @@ Expand the '**_Voice_**' list and select the PBX you wish to manage.
 
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
 
-For more information on how to use the dashboard, click  [**here**](https://kb.mycloudpbx.net.au/guides/mycloudpbx/dashboard.html).
+For more information on how to use the dashboard, click  [**here**](https://kb.mycloudpbx.com.au/guides/mycloudpbx/dashboard.html).
 
 
 

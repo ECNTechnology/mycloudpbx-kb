@@ -145,7 +145,7 @@ The '**invalid user**' receipt indicates that the sending email address has not 
 
 **TIPS:**
 
-* If you are an administrator, [click here ](https://kb.mycloudpbx.net.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual Fax Senders.
+* If you are an administrator, [click here ](https://kb.mycloudpbx.com.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual Fax Senders.
 * Contact your administrator to arrange access.
 
 *The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility.*

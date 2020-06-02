@@ -8,7 +8,7 @@ date: 2019-07-15T07:33:37.092Z
 
 An '**Announcement**' allows you to play a pre-recorded sound before passing the call onto another activity.
 
-In order to make use of the announcements feature, you will first have to [create and upload your sound file](https://kb.mycloudpbx.net.au/guides/mycloudpbx/recorded-sounds.html).
+In order to make use of the announcements feature, you will first have to [create and upload your sound file](https://kb.mycloudpbx.com.au/guides/mycloudpbx/recorded-sounds.html).
 
 ## Create an Announcement
 
