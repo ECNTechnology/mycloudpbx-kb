@@ -8,7 +8,7 @@ date: 2020-05-16T04:25:32.893Z
 
 These guides will walk you through activating the myCloudPBX Softphone for a user. Once activated, you will be able to use the following guides to install and use the Softphone on your devices.
 
-## Activating the myCloudPBX Softphone
+## Activating / Deactivating the myCloudPBX Softphone
 
 From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50px; height: auto;" src="/images/offices_and_users1.png"> 
 
