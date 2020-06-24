@@ -17,7 +17,7 @@ Click [here](https://kb.mycloudpbx.com.au/guides/mycloudpbx/softphone-guides.htm
 
 To do this, click on the start menu, type in '*default programs*' and click the link.
 
-<img style="width: 800px; height: auto;" src="/images/teluri11.png">
+<img style="width: 400px; height: auto;" src="/images/teluri11.png">
 
 
 **Step 2.** Click '**Choose default apps by protocol**'.
