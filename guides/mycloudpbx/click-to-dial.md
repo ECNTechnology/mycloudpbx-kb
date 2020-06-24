@@ -10,33 +10,24 @@ The '*tel protocol*' works in a similar way to an email link, only instead of op
 
 ## Click-to-Dial on Windows using the Tel Protocol.
 
-**Step 1.** Ensure that the myCloudPBX Softphone is installed on your PC.
+**Prerequisites.** Ensure that the myCloudPBX Softphone is installed on your PC.
 Click [here](https://kb.mycloudpbx.com.au/guides/mycloudpbx/softphone-guides.html#windows-guides) for more information on installing the Softphone on Windows.
 
-**Step 2.** Open the Windows Control Panel.
+**Step 1.** Open the Windows Control Panel.
 
-To do this, click on the start menu, type in '*Control Panel*' and click the resulting option.
+To do this, click on the start menu, type in '*default programs*' and click the link.
 
-![](/images/teluri1.png)
+<img style="width: 800px; height: auto;" src="/images/teluri11.png">
 
-**Step 2.** Open '**Default Programs**'.
 
-![](/images/teluri2.jpg)
-
-**Step 3.** Click '**Associate a file type or protocol with a program**'.
-
-![](/images/teluri3.jpg)
-
-**Step 4.** Click '**Choose default apps by protocol**'.
+**Step 2.** Click '**Choose default apps by protocol**'.
 
 ![](/images/teluri4.jpg)
 
-**Step 5.** Scroll down to '**TEL**' and click '**Choose a default**'
-
-
+**Step 3.** Scroll down to '**TEL**' and click '**Choose a Default**'
 
 ![](/images/teluri5.jpg)
 
-**Step 6.** From the list, choose '**myCloudPBX Softphone**'.
+**Step 4.** From the list, choose '**myCloudPBX Softphone**'.
 
 ![](/images/teluri6.jpg)
