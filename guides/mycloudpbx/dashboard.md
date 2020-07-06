@@ -130,7 +130,6 @@ The '**Export Call Records**' report allows you to download an easy to digest cs
 
 * **Callguid:** Unique reference ID for the call.
 * **Calldatetime:** Date / Time of the call.
-* **Moli:** Mobile Originating Location Indicator (MoLi).
 * **Serviceid:** myCloudPBX Service ID.
 * **Servicename:** myCloudPBX Service Name generated when the PBX was first created.
 * **Servicefriendlyname:** A more 'user friendly' name for your PBX.
@@ -138,13 +137,9 @@ The '**Export Call Records**' report allows you to download an easy to digest cs
 * **Dialplan:** Dialplan Used: AU (Australia), NZ (New Zealand)
 * **Externalid:** Shows the caller ID.
 * **Originnumber:** Shows the originating caller ID.
-* **Originname:** Reserved for future use.
 * **Targetnumber:** Destination number.
-* **Targetname:** Reserved for future use.
 * **Jurisdiction:** Shows the 'International Jurisdiction' (Used for International billing).
 * **Jurisdictiondesc:** Reserved for future use.
-* **Originregion:** Reserved for future use.
-* **Destinationregion:** Reserved for future use.
 * **Duration:** Total duration of the call.
 * **Billabletime:** Total billable time of the call.
 * **Ratetype:**
@@ -170,12 +165,12 @@ The '**Export Call Records**' report allows you to download an easy to digest cs
     * When using the G729 codec, this can be as high as 3.9.
 
 * **Rtpquality:** Used to measure call quality. Maximum is 100.
-* **Calltimezone:** Reserved for future use.
-* **Callroutename:** Reserved for future use.
-* **InboundExtensionNumber:** Where available, this will show the extension number that answered the call.
-* **InboundExtensionName:** Where available, this will show the name assigned to the extension number that answered the call.
-* **OfficeName:** Reserved for future use.
+* **ExtensionNumber:** For outbound calls, this will show the extension number that originated the call.
+* **ExtensionName:** For outbound calls, this will show the extension name that originated the call.
+* **OfficeName:** For outbound calls, this will show which "_Office_" the extension who originated the call belongs to.
 * **FirstTalker:** For inbound calls, this will show the first talker.
+
+
 
 #### Usage
 
