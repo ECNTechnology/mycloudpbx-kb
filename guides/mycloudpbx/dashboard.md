@@ -223,21 +223,24 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 The '**Export Call Records**' report allows you to download an easy to digest csv report with the following headings:
 
-* **Callguid:** Unique reference ID for the call.
-* **Calldatetime:** Date / Time of the call.
-* **Serviceid:** myCloudPBX Service ID.
+* **Callguid:** Unique Identifier of the Call.
+* **Calldatetime:** Date / Time of the Call.
+* **Serviceid:** Unique Identifier of the Service that made/received the call.
 * **Servicename:** myCloudPBX Service Name generated when the PBX was first created.
-* **Servicefriendlyname:** A more 'user friendly' name for your PBX.
-* **Direction:** Direction of call. (In, Out, Internal).
+* **Servicefriendlyname:** Customer defined Service Name.
+* **Direction:** Call Direction , In for Inbound calls, Out for Outbound Calls, Int for Internal calls.
 * **Dialplan:** Dialplan Used: AU (Australia), NZ (New Zealand)
-* **Externalid:** Shows the caller ID.
-* **Originnumber:** Shows the originating caller ID.
-* **Targetnumber:** Destination number.
-* **Jurisdiction:** Shows the 'International Jurisdiction' (Used for International billing).
-* **Jurisdictiondesc:** Reserved for future use.
-* **Duration:** Total duration of the call.
-* **Billabletime:** Total billable time of the call.
-* **Ratetype:**
+
+* **Originnumber:** The Callers Number.
+* **Targetnumber:** The Called Number.
+* **Jurisdiction:** The 'International Jurisdiction' (Used for International billing).
+* **Jurisdictiondesc:** Internal Call Jurisdiction Name.
+* **Duration:** Total Duration of the Call in Seconds.
+* **Billabletime:** (Outbound calls only) - Billable time in seconds.
+* **TimeToAnswer:** 
+  - Ringtime for outbound call. 
+  - For inbound calls this is the time to answer for the first talker (in seconds).
+* **Ratetype:** Outbound Calls only. The Rate Type of the call.
 
 
     * 1. Local
@@ -250,21 +253,30 @@ The '**Export Call Records**' report allows you to download an easy to digest cs
 
 * **Hangupreason:** The hangup reason for the call.
 * **Originuseragent:** Where available, this will show the user agent that made the call.
-* **Originipaddress:** For calls that originated internally, will show the IP Address of the caller.
-* **Accountcode:** Used with 'Account Code Dialling', will show the account code that was dialled.
-* **Rtpmos:** Used to measure call quality.
+  - Outbound: The Identifier of the device that made the call.
+  - Inbound: The Identifier of the device that received the call.
 
+* **Accountcode:** Used with 'Account Code Dialling', will show the account code that was dialled.
+
+* **Rtpmos:** IP telephony call quality rating - MOS - Mean Opinion Score, rating of 1 through 5 (5 being the best).
 
     * When using the G711 codec, this can be as high as 4.5.
 
     * When using the G729 codec, this can be as high as 3.9.
 
-* **Rtpquality:** Used to measure call quality. Maximum is 100.
-* **ExtensionNumber:** For outbound calls, this will show the extension number that originated the call.
-* **ExtensionName:** For outbound calls, this will show the extension name that originated the call.
-* **OfficeName:** For outbound calls, this will show which "_Office_" the extension who originated the call belongs to.
-* **FirstTalker:** For inbound calls, this will show the first talker.
+* **Rtpquality:** IP telephone call quality percentage rating - 1 through 100 (%)
 
+* **ExtensionNumber:** 
+  - Outbound: The extension number of the extension making the call.
+  - Inbound: The extension number of the first talker.
+
+* **ExtensionName:** Then extension name for the ExtensionNumber.
+
+* **OfficeName:** For outbound calls, this will show which "_Office_" the extension who originated the call belongs.
+
+* **IPOwner:** The details of the IPAddress Holder (Service Provider).
+
+* **IPAddress:** The IP Address of the UserAgent.
 
 
 #### Usage
