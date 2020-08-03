@@ -64,11 +64,11 @@ On the top right hand corner click the '**Action**' button, then click '**unique
 
 Copy the URL that is provided and open it on any web browser.
 
-### Real Time Status Widget Page
+## Real Time Status Widget Page
 
 The '_Real Time Status_' widget allows you to keep a close eye on your call queues.
 
-#### Adding the 'Real Time Status' Dashboard
+## Adding the 'Real Time Status' Dashboard
 
 
 From the left hand menu, click the <img style="width: 25px; height: auto;" src="/images/dashboard_homeicon.png"> '**Home**' button.
@@ -90,7 +90,7 @@ Select '**Real Time Status**'.
 
 * Add a description. This will show as the name of the tab.
 
-#### Navigation
+### Navigation
 
 ![](/images/queues_leftmenu.png)
 
@@ -101,7 +101,7 @@ If you have more than one call queue running you can choose between them from th
 **Note:** You can also see the 'queue type' listed here.
 :::
 
-#### Statistics
+### Statistics
 
 ![](/images/queues_topmenu.png)
 
@@ -119,7 +119,7 @@ Here you can see the following information:
 
 * **Avg. Talk Time:** Average time spent talking on calls answered in this queue.
 
-#### Agent Status Information
+### Agent Status Information
 
 ![](/images/queues_agentstatus.png)
 
@@ -135,7 +135,7 @@ Here you can see the following information:
 
 * **Call Status:** Will show as either '**Available**' or '**In Call**'
 
-#### Calls In Queue Information
+### Calls In Queue Information
 
 ![](/images/queues_inqueue.png)
 
