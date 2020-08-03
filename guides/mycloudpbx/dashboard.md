@@ -34,9 +34,17 @@ From the left hand menu, click the <img style="width: 25px; height: auto;" src="
 
 On the top right hand corner click the '**Action**' button, then click '**Add**'.
 
+
+![](/images/widgets_addnew.png)
+
+Select '**Blank Dashboard**'.
+
+
 ![](/images/dashboard_addnew.png)
 
+
 Name your new Dashboard and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
+
 
 ### Adding Widgets
 
@@ -55,6 +63,91 @@ You can also generate a unique URL for each specific Dashboard, allowing you to 
 On the top right hand corner click the '**Action**' button, then click '**unique URL**'.
 
 Copy the URL that is provided and open it on any web browser.
+
+### Real Time Status Widget Page
+
+The '_Real Time Status_' widget allows you to keep a close eye on your call queues.
+
+#### Adding the 'Real Time Status' Dashboard
+
+
+From the left hand menu, click the <img style="width: 25px; height: auto;" src="/images/dashboard_homeicon.png"> '**Home**' button.
+
+![](/images/dashboard_actionaddbutton.png)
+
+On the top right hand corner click the '**Action**' button, then click '**Add**'.
+
+![](/images/widgets_addnew.png)
+
+
+Select '**Real Time Status**'.
+
+
+![](/images/widgets_realtimeadd.png)
+
+
+* Select the PBX from the dropdown list and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
+
+* Add a description. This will show as the name of the tab.
+
+#### Navigation
+
+![](/images/queues_leftmenu.png)
+
+
+If you have more than one call queue running you can choose between them from the left hand menu.
+
+::: tip
+**Note:** You can also see the 'queue type' listed here.
+:::
+
+#### Statistics
+
+![](/images/queues_topmenu.png)
+
+Here you can see the following information:
+
+* **Total Calls:** Total number of calls entering this queue today.
+
+* **Abandoned Calls:** Number of calls entering this queue today with no timeout to next activity and were not answered.
+
+*  **Timed Out Calls:** Number of calls entering this queue today, that timeout in this queue or where the caller selected to exit the queue.  These calls may have been answered by another activity outside this queue.
+ 
+* **Avg. Wait Time:** Average time callers waited prior to being answered.
+
+* **Avg. Talk Time:** Average time spent talking on calls answered in this queue.
+
+#### Agent Status Information
+
+![](/images/queues_agentstatus.png)
+
+Here you can see the following information:
+
+* **Name:** Displays the name of the agent.
+
+* **Extension:** Displays the extension number of the Agent.
+
+* **Talking to:** Displays the caller ID (where available) of the person the agent is speaking with.
+
+* **Time In Call:** Displays the total time the agent has been on their current call.
+
+* **Call Status:** Will show as either '**Available**' or '**In Call**'
+
+#### Calls In Queue Information
+
+![](/images/queues_inqueue.png)
+
+Here you can see the following information: 
+
+* **Start Time:** This is the time the caller entered this call queue.
+
+* **Caller ID:** Displays the caller ID (where available) of the person waiting in the queue.
+
+* **Waiting Time:** Displays the total time each caller has been waiting (in the current queue). 
+
+:::tip 
+**Note:** Each call queue will have it's own '**Waiting time**'.
+:::
 
 ## Call Reports
 
