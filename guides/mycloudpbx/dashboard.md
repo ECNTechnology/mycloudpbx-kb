@@ -86,39 +86,40 @@ Select '**Real Time Status**'.
 ![](/images/widgets_realtimeadd.png)
 
 
-Select the PBX from the dropdown list and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
+* Select the PBX from the dropdown list and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
+
+* Add a description. This will show as the name of the tab.
 
 #### Navigation
 
--- queues_leftmenu image here --
+![](/images/queues_leftmenu.png)
+
 
 If you have more than one call queue running you can choose between them from the left hand menu.
 
 ::: tip
-**Note:** You can see the 'queue type' listed here.
+**Note:** You can also see the 'queue type' listed here.
 :::
 
 #### Statistics
 
--- top menu image here --
+![](/images/queues_topmenu.png)
 
 Here you can see the following information:
 
-* **Total Calls:** Displays the total number of calls that entered this queue today.
+* **Total Calls:** Total number of calls entering this queue today.
 
-* **Abandoned Calls:** Displays the total number of calls that entered this queue today, did not timeout to the next activity, and was not answered.
+* **Abandoned Calls:** Number of calls entering this queue today with no timeout to next activity and were not answered.
 
-*  **Timed Out Calls:** Displays the total number of calls that entered this queue today, exceeded the time for the queue and went onto the next activity. 
-::: tip
-**Note:** It's possible that these calls were answered further down the call flow.
-:::
-* **Avg. Wait Time:** Displays the average amount of time a caller is waiting before being answered for this queue.
+*  **Timed Out Calls:** Number of calls entering this queue today, that timeout in this queue or where the caller selected to exit the queue.  These calls may have been answered by another activity outside this queue.
+ 
+* **Avg. Wait Time:** Average time callers waited prior to being answered.
 
-* **Avg. Talk Time:** Displays the average amount of time spent talking after the phone is answered.
+* **Avg. Talk Time:** Average time spent talking on calls answered in this queue.
 
 #### Agent Status Information
 
--- agent status image here --
+![](/images/queues_agentstatus.png)
 
 Here you can see the following information:
 
@@ -134,7 +135,7 @@ Here you can see the following information:
 
 #### Calls In Queue Information
 
--- calls in queue image here --
+![](/images/queues_inqueue.png)
 
 Here you can see the following information: 
 
