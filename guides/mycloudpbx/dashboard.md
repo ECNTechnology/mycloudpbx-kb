@@ -110,7 +110,9 @@ Here you can see the following information:
 * **Total Calls:** Total number of calls entering this queue today.
 
 * **Abandoned Calls:** Number of calls entering this queue today with no timeout to next activity and were not answered.
-
+::: tip
+**TIP:** Click the button for 'Abandoned' to see a list of abandoned calls for today.
+:::
 *  **Timed Out Calls:** Number of calls entering this queue today, that timeout in this queue or where the caller selected to exit the queue.  These calls may have been answered by another activity outside this queue.
  
 * **Avg. Wait Time:** Average time callers waited prior to being answered.
