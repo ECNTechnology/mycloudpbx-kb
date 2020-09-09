@@ -98,12 +98,12 @@ If you have more than one call queue running you can choose between them from th
 Here you can see the following information:
 
 * **Total Calls:** Total number of calls entering this queue today.
-* **Abandoned Calls:** Number of calls that entered the queue today that hung up and were not answered. **Note:** All abandoned calls shown here will also be visible on the abandoned call report available <a href="https://kb.mycloudpbx.com.au/guides/mycloudpbx/dashboard.html#abandoned-calls">here</a>.
+* **Abandoned Calls:** Number of calls that entered the queue today that hung up and were not answered. All abandoned calls shown here will also be visible on the abandoned call report available <a href="https://kb.mycloudpbx.com.au/guides/mycloudpbx/dashboard.html#abandoned-calls">here</a>.
 
   ::: tip
   **TIP:** Click the button for 'Abandoned' to see a list of abandoned calls for today.
   :::
-* **Timed Out / Exits:** Number of calls that entered the queue today that were not answered as part of the call queue and progressed to the next activity. If the caller uses the 'press 1 to leave a voicemail' option, this will count towards the 'timed out/ exits' tally.
+* **Timed Out / Exits:** Number of calls that entered the queue today, were not answered and progressed to the next activity. If the caller uses the 'press 1 to leave a voicemail' option, this will count towards the 'timed out/ exits' tally.
   :::tip
   **Note:**A call that times out, is not classified as abandoned.
   :::
