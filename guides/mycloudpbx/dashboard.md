@@ -34,17 +34,13 @@ From the left hand menu, click the <img style="width: 25px; height: auto;" src="
 
 On the top right hand corner click the '**Action**' button, then click '**Add**'.
 
-
 ![](/images/widgets_addnew.png)
 
 Select '**Blank Dashboard**'.
 
-
 ![](/images/dashboard_addnew.png)
 
-
 Name your new Dashboard and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
-
 
 ### Adding Widgets
 
@@ -66,10 +62,9 @@ Copy the URL that is provided and open it on any web browser.
 
 ## Real Time Status Widget Page
 
-The '_Real Time Status_' widget allows you to keep a close eye on your call queues.
+The '*Real Time Status*' widget allows you to keep a close eye on your call queues.
 
 ## Adding the 'Real Time Status' Dashboard
-
 
 From the left hand menu, click the <img style="width: 25px; height: auto;" src="/images/dashboard_homeicon.png"> '**Home**' button.
 
@@ -79,21 +74,16 @@ On the top right hand corner click the '**Action**' button, then click '**Add**'
 
 ![](/images/widgets_addnew.png)
 
-
 Select '**Real Time Status**'.
-
 
 ![](/images/widgets_realtimeadd.png)
 
-
 * Select the PBX from the dropdown list and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
-
 * Add a description. This will show as the name of the tab.
 
 ### Navigation
 
 ![](/images/queues_leftmenu.png)
-
 
 If you have more than one call queue running you can choose between them from the left hand menu.
 
@@ -108,15 +98,13 @@ If you have more than one call queue running you can choose between them from th
 Here you can see the following information:
 
 * **Total Calls:** Total number of calls entering this queue today.
+* **Abandoned Calls:** Number of calls that entered the queue today that hung up and were not answered. **Note:** All abandoned calls shown here will also be visible on the abandoned call report available <a href="https://kb.mycloudpbx.com.au/guides/mycloudpbx/dashboard.html#abandoned-calls">here</a>.
 
-* **Abandoned Calls:** Number of calls entering this queue today with no timeout to next activity and were not answered.
-::: tip
-**TIP:** Click the button for 'Abandoned' to see a list of abandoned calls for today.
-:::
-*  **Timed Out Calls:** Number of calls entering this queue today, that timeout in this queue or where the caller selected to exit the queue.  These calls may have been answered by another activity outside this queue.
- 
+  ::: tip
+  **TIP:** Click the button for 'Abandoned' to see a list of abandoned calls for today.
+  :::
+* **Timed Out / Exits:** Number of calls that entered the queue today that were not answered as part of the call queue and progressed to the next activity. A call that times out, is not classified as abandoned.
 * **Avg. Wait Time:** Average time callers waited prior to being answered.
-
 * **Avg. Talk Time:** Average time spent talking on calls answered in this queue.
 
 ### Agent Status Information
@@ -126,13 +114,9 @@ Here you can see the following information:
 Here you can see the following information:
 
 * **Name:** Displays the name of the agent.
-
 * **Extension:** Displays the extension number of the Agent.
-
 * **Talking to:** Displays the caller ID (where available) of the person the agent is speaking with.
-
 * **Time In Call:** Displays the total time the agent has been on their current call.
-
 * **Call Status:** Will show as either '**Available**' or '**In Call**'
 
 ### Calls In Queue Information
@@ -142,9 +126,7 @@ Here you can see the following information:
 Here you can see the following information: 
 
 * **Start Time:** This is the time the caller entered this call queue.
-
 * **Caller ID:** Displays the caller ID (where available) of the person waiting in the queue.
-
 * **Waiting Time:** Displays the total time each caller has been waiting (in the current queue). 
 
 :::tip 
@@ -168,7 +150,6 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 #### Inbound Calls CSV Headings
 
 * **CallGuid:** Unique reference for the call.
-
 * **CallDateTime:** Date/Time the call took place.
 * **Duration:** Duration of the call.
 * **OriginNumber:** The originating caller ID.
@@ -230,7 +211,6 @@ The '**Export Call Records**' report allows you to download an easy to digest cs
 * **Servicefriendlyname:** Customer defined Service Name.
 * **Direction:** Call Direction , In for Inbound calls, Out for Outbound Calls, Int for Internal calls.
 * **Dialplan:** Dialplan Used: AU (Australia), NZ (New Zealand)
-
 * **Originnumber:** The Callers Number.
 * **Targetnumber:** The Called Number.
 * **Jurisdiction:** The 'International Jurisdiction' (Used for International billing).
@@ -238,51 +218,40 @@ The '**Export Call Records**' report allows you to download an easy to digest cs
 * **Duration:** Total Duration of the Call in Seconds.
 * **Billabletime:** (Outbound calls only) - Billable time in seconds.
 * **TimeToAnswer:** 
-  - Ringtime for outbound call. 
-  - For inbound calls this is the time to answer for the first talker (in seconds).
+
+  * Ringtime for outbound call. 
+  * For inbound calls this is the time to answer for the first talker (in seconds).
 * **Ratetype:** Outbound Calls only. The Rate Type of the call.
 
-
-    * 1. Local
-    * 2. National
-    * 3. International
-    * 4. Mobile
-    * 5. Calls to 13/Misc
-    * 7. Calls to 1800
-
-
+  * 1. Local
+  * 2. National
+  * 3. International
+  * 4. Mobile
+  * 5. Calls to 13/Misc
+  * 7. Calls to 1800
 * **Hangupreason:** The hangup reason for the call.
 * **Originuseragent:** Where available, this will show the user agent that made the call.
-  - Outbound: The Identifier of the device that made the call.
-  - Inbound: The Identifier of the device that received the call.
 
+  * Outbound: The Identifier of the device that made the call.
+  * Inbound: The Identifier of the device that received the call.
 * **Accountcode:** Used with 'Account Code Dialling', will show the account code that was dialled.
-
 * **Rtpmos:** IP telephony call quality rating - MOS - Mean Opinion Score, rating of 1 through 5 (5 being the best).
 
-    * When using the G711 codec, this can be as high as 4.5.
-
-    * When using the G729 codec, this can be as high as 3.9.
-
+  * When using the G711 codec, this can be as high as 4.5.
+  * When using the G729 codec, this can be as high as 3.9.
 * **Rtpquality:** IP telephone call quality percentage rating - 1 through 100 (%)
-
 * **ExtensionNumber:** 
-  - Outbound: The extension number of the extension making the call.
-  - Inbound: The extension number of the first talker.
 
+  * Outbound: The extension number of the extension making the call.
+  * Inbound: The extension number of the first talker.
 * **ExtensionName:** Then extension name for the ExtensionNumber.
-
-* **OfficeName:** For outbound calls, this will show which "_Office_" the extension who originated the call belongs.
-
+* **OfficeName:** For outbound calls, this will show which "*Office*" the extension who originated the call belongs.
 * **IPOwner:** The details of the IPAddress Holder (Service Provider).
-
 * **IPAddress:** The IP Address of the UserAgent.
-
 
 #### Usage
 
 Select the start and end date ranges as well as the phone number(s).
-
 
 ![](/images/export_call_records_1.png)
 
