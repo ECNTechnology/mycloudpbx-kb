@@ -104,8 +104,11 @@ Here you can see the following information:
   **TIP:** Click the button for 'Abandoned' to see a list of abandoned calls for today.
   :::
 * **Timed Out / Exits:** Number of calls that entered the queue today, were not answered and progressed to the next activity. If the caller uses the 'press 1 to leave a voicemail' option, this will count towards the 'timed out/ exits' tally.
+
   :::tip
-  **Note:**A call that times out, is not classified as abandoned.
+
+  **Note:** A call that times out, is not classified as abandoned.
+
   :::
 * **Avg. Wait Time:** Average time callers waited prior to being answered.
 * **Avg. Talk Time:** Average time spent talking on calls answered in this queue.
