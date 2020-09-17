@@ -56,7 +56,6 @@ LAN switches that are able to cope with a high count of Packets Per Second (50 t
 
 The following firewall configurations are required for myCloudPBX Hosted Voice phones to successfully register to the myCloudPBX Hosted Voice registration servers and successfully receive/initiate inbound and outbound calls:
 
-
 <table border="1" style="height: 190px; width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 21px;">
@@ -86,7 +85,6 @@ Phones on the myClouedPBX Hosted Voice platform can be enabled for auto-provisio
 
 The following DHCP options will be required for auto-provisioning to work correctly:
 
-
 <table border="1" style="height: 190px; width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 21px;">
@@ -97,7 +95,7 @@ The following DHCP options will be required for auto-provisioning to work correc
 <tr style="height: 21px;">
 <td style="width: 25%; height: 21px;">66</td>
 <td style="width: 25%; height: 21px;"><span style="font-weight: 400;">ps.mycloudpbx.com.au</span></td>
-<td style="width: 25%; height: 21px;">Cisco, Linksys &amp; Yealink</td>
+<td style="width: 25%; height: 21px;">Cisco, Linksys.</td>
 </tr>
 <tr style="height: 21px;">
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">
