@@ -18,6 +18,17 @@ To enable integrations, select '**Manage Applications**' from the PBX homepage.
 
 Scroll down and enable the '**Integrations**' option.
 
-## Configure Integrations
+## Configuring Integrations
 
+To configure an integration, select '**Integrations**' from the '**Active Applications**' menu on the PBX homepage.
 
+![](/images/myecn_integrations_3.png)
+
+Click '**Create New Integration**'.
+
+![](/images/myecn_integrations_4.png)
+
+On this page you can now configure your Integration.
+Click '**Save**' when finished.
+
+![](/images/myecn_integrations_5.png)
