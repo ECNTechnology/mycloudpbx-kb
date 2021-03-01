@@ -10,9 +10,9 @@ Integrations allow a myCloudPBX Administrator to set trigger events (webhooks) a
 
 ## Enable the Integrations Application
 
-![](/images/myecn_integrations_1.png)
+![](/images/screen-shot-2021-03-01-at-16.34.11.png)
 
-To enable integrations, select '**Manage Applications**' from the PBX homepage. 
+To enable integrations, select '**Applications**' from the PBX homepage. 
 
 ![](/images/myecn_integrations_2.png)
 
