@@ -31,7 +31,7 @@ Click '**Create New Integration**'.
 On this page you can now configure your Integration.
 Click '**Save**' when finished.
 
-![](/images/myecn_integrations_5.png)
+![](/images/myecn_integrat.png)
 
 ## Activate / Deactivate Integrations
 
@@ -40,9 +40,6 @@ Here you can view, enable, and disable integrations on the PBX.
 ![](/images/myecn_integrations_6.png)
 
 * To edit an existing Integration, click <img style="width: 25px; height: auto;" src="/images/myecn_cog_icon.png"> 
-
 * To disable an active Integration, click <img style="width: 25px; height: auto;" src="/images/myecn_square_icon.png"> 
-
 * To activate a disabled Integration, click <img style="width: 25px; height: auto;" src="/images/myecn_play_icon.png"> 
-
 * To delete an Integration, click <img style="width: 25px; height: auto;" src="/images/myecn_delete_icon.png">. Note: Only disabled Integrations can be deleted.
