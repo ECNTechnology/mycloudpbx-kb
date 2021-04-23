@@ -186,12 +186,18 @@ On the homepage, you will see a list of Active Users shown below the two main ro
 Here you have three options:
 
 * **Click for Detailed View:** This will show you detailed information about the registration status of each extension including the WAN IP Address, SIP Transport, and PING time.
+
 * **Reboot:** This will remotely reboot each phone immediately.
+
 * **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
 
 # Linked Offices
 
 A '**Linked Office**' allows you to connect your myCloudPBX to another SIP Service.
+
+Once you have created the linked office, a call to any of the allocated extension numbers will be routed to the PBX that is registered to that office. 
+
+This allows you to link your myCloudPBX to another bSIP service or a third party PABX if required.
 
 ## Create or Modify a Linked Office
 
@@ -199,4 +205,34 @@ From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50
 
 <img style="width: auto; height: auto;" src="/images/offices_and_users2.png"> 
 
-Click the <img style="width: 25px; height: auto;" src="/images/myecn_linkedoffice.png"> button to add a new Linked Office.
+Click the <img style="width: 100px; height: auto;" src="/images/myecn_linkedoffice.png"> button to add a new Linked Office.
+
+<img style="width: auto; height: auto;" src="/images/myecn_linkedofficeconfig.png"> 
+
+Enter the following information:
+
+* **Name:** This is for your reference.
+
+* **Timezone:** Timezone for the linked office.
+
+* **State:** This defines the default area code for the linked office.
+
+* **Office Default Outbound Number:** This is the default outbound caller ID for the linked office.
+
+* **Start Range:** This is the first extension number allocated to the linked office.
+
+* **End Range:** This is the last extension number allocated to the linked office.
+
+* **Authentication ID:** Username for the service.
+
+* **Password:** Password for the service.
+
+Click '**Save**' to save your changes when finished.
+
+Once you have applied your changes and registered your device, any call to the extension numbers allocated to the linked office will instead be directed to it.
+
+::: tip
+**Note:**
+To register your linked office you will need to use the following:
+authenticationID@yourpbxname.mycloudpbx.com.au
+:::
