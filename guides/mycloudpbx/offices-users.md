@@ -8,7 +8,7 @@ date: 2019-07-13T01:11:25.989Z
 As a new user it's highly recommended to read this document from top down.
 :::
 
-An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.mycloudpbx.com.au/guides/mycloudpbx/music-on-hold.html).
+An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and **[music on hold](https://kb.mycloudpbx.com.au/guides/mycloudpbx/music-on-hold.html)**.
 
 ## Create or Modify an Office
 
@@ -116,7 +116,7 @@ You can also specify the '**Smart Call Type**':
 
 ![](/images/edit_extension_diversions.png)
 
-Call diversions are _similar_ to Smart Calling, but not the same.
+Call diversions are *similar* to Smart Calling, but not the same.
 
 Call diversion will simply divert your extension to another number without the smarts.
 
@@ -169,7 +169,7 @@ This will save the changes, however you will also need to apply these changes to
 
 ![](/images/pbx-apply-viewchanges.png)
 
-Finally, you will need to click '**_Apply Changes_**'.
+Finally, you will need to click '***Apply Changes***'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
@@ -188,3 +188,15 @@ Here you have three options:
 * **Click for Detailed View:** This will show you detailed information about the registration status of each extension including the WAN IP Address, SIP Transport, and PING time.
 * **Reboot:** This will remotely reboot each phone immediately.
 * **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
+
+# Linked Offices
+
+A '**Linked Office**' allows you to connect your myCloudPBX to another SIP Service.
+
+## Create or Modify a Linked Office
+
+From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50px; height: auto;" src="/images/offices_and_users1.png"> 
+
+<img style="width: auto; height: auto;" src="/images/offices_and_users2.png"> 
+
+Click the <img style="width: 25px; height: auto;" src="/images/myecn_linkedoffice.png"> button to add a new Linked Office.
