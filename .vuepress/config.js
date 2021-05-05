@@ -1,27 +1,39 @@
+const getChildren = require('./childScript')
+
 module.exports = {
-  title: 'ECN Technology',
+  title: 'myCloudPBX  |  Knowledge Base',
   description: '',
-  themeConfig: {
-    nav: [{
-      text: 'Knowledge Base',
-      items: [{
-        text: 'PBX',
-        link: '/guides/pbx/'
-      },
+  plugins: [
+    '@vuepress/back-to-top',
+    [
+      '@vuepress/google-analytics',
       {
-        text: 'Business SIP',
-        link: '/guides/business-sip/'
-      },
-      {
-        text: 'Email',
-        link: '/guides/email/'
+        'ga': 'UA-107905087-8' // UA-00000000-0
       }
-      ]
+    ],
+  ],
+  head: [
+    ['link', { rel: 'icon', href: '/images/favicon.png' }]
+  ],
+  themeConfig: {
+    logo: '/images/mycloudpbx.png',
+    nav: [{
+      text: 'Home',
+      link: '/'
     },
     {
-      text: 'Contact us',
-      link: 'https://www.ecn.net.au/Contact/'
+      text: 'Guides',
+      link: '/guides/mycloudpbx/'
     },
     ],
+    sidebar: {
+      '/guides/mycloudpbx/': [{
+        title: 'myCloudPBX',
+        children: getChildren('./guides/mycloudpbx/')
+      }],
+    },
+    activeHeaderLinks: true,
+    sidebarDepth: 2,
+    lastUpdated: 'Last Updated:', // string | boolean
   },
 };
