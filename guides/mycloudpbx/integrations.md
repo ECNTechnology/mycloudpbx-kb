@@ -25,8 +25,6 @@ myECN Integrations include the following:
 * Delete User
 * Modify User
 
-### Initial Configuration
-
 ![](/images/integrations_menu1.png)
 
 From the '**My Admin**' menu, select '**Integrations**'.
@@ -50,13 +48,21 @@ Click the <img style="width: auto; height: 25px;" src="/images/stop_square_icon.
 
 Click the <img style="width: auto; height: 25px;" src="/images/play_icon.png"> icon to enable an Integration.
 
+## myECN Integration Configuration
+
 To create a new Integration, click '_Create New Integration_'.
 
 <img style="width: auto; height: auto;" src="/images/new_integration_details.png"> 
 
+Enter the following information:
+
+* **Integration Name:** 
+
 <img style="width: auto; height: auto;" src="/images/new_integration_authentication.png"> 
 
 <img style="width: auto; height: auto;" src="/images/new_integration_headervalues.png"> 
+
+When you are finished, click '**Save & Close**'.
 
 
 
