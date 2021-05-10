@@ -15,6 +15,7 @@ myECN Integrations can also be used to provide live data feeds to third-party or
 There are two main types of Integrations that can be enabled.
 
 * **myECN Integrations:** These integrations are specific to an account.
+
 * **Service Integrations:** This integration is specific to one PBX.
 
 ## myECN Integrations
@@ -22,7 +23,9 @@ There are two main types of Integrations that can be enabled.
 myECN Integrations include the following:
 
 * Create User
+
 * Delete User
+
 * Modify User
 
 ![](/images/integrations_menu1.png)
