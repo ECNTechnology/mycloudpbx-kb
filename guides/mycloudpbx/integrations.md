@@ -50,6 +50,14 @@ Click the <img style="width: auto; height: 25px;" src="/images/stop_square_icon.
 
 Click the <img style="width: auto; height: 25px;" src="/images/play_icon.png"> icon to enable an Integration.
 
+To create a new Integration, click '_Create New Integration_'.
+
+<img style="width: auto; height: auto;" src="/images/new_integration_details.png"> 
+
+<img style="width: auto; height: auto;" src="/images/new_integration_authentication.png"> 
+
+<img style="width: auto; height: auto;" src="/images/new_integration_headervalues.png"> 
+
 
 
 
