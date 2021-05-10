@@ -119,7 +119,7 @@ Place a tick in the box to enable Applications.
 
 From the PBX main page, click '**Integrations**'.
 
-<img style="width: auto; height: auto;" src="/images/service_integrations_edit.png">
+<img style="width: auto; height: 100px;" src="/images/service_integrations_edit.png">
 
 On this page, you can see all of your active integrations.
 
