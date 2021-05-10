@@ -121,6 +121,21 @@ Local, National, Mobile, International, International Other, Premium, Other.
 
 When you are finished, click '**Save & Close**'.
 
+## Service Integrations
+
+Service Integrations include the following:
+
+* **Inbound Call Received:** Webhook will fire when an inbound call is received.
+
+* **Inbound Call Answered:** Webhook will fire when an inbound call is answered by a user.
+
+* **Outbound Call Placed:** Webhook will fire when an outbound call is placed.
+
+* **IVR Call Received:** Webhook will fire when a call reaches an IVR.
+
+* **IVR Option Selected:** Webhook will fire after the caller has selected an option on an IVR.
+
+
 
 
 
