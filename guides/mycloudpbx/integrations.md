@@ -48,7 +48,7 @@ Click the <img style="width: auto; height: 25px;" src="/images/stop_square_icon.
 
 Click the <img style="width: auto; height: 25px;" src="/images/play_icon.png"> icon to enable an Integration.
 
-## myECN Integration Configuration
+### myECN Integration Configuration
 
 To create a new Integration, click '_Create New Integration_'.
 
@@ -93,7 +93,7 @@ Enter the following information:
 
 * **Request Value:** Value to be sent.
 
-Field Values
+**Field Values**
 
 The payload can be customized by selecting a predetermined value from the drop down list. In all cases the Request Key can be configured to align with your application. The following values are specific to the myCloudPBX service type. 
 
