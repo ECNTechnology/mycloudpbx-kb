@@ -2,6 +2,8 @@
 title: Integrations
 date: 2021-05-10T02:55:38.318Z
 ---
+# Integrations
+
 Integrations allow administrators to capture changes and events actioned via the myECN customer portal or a PBX. 
 
 Using the webhook, external workflows can be called, for example when your client creates a new myCloudPBX extension, creating a callback request inside your CRM for an account manager to complete a wellness check.
