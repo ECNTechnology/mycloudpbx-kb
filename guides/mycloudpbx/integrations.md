@@ -135,7 +135,6 @@ Service Integrations include the following:
 
 * **IVR Option Selected:** Webhook will fire after the caller has selected an option on an IVR.
 
-
-
+<img style="width: auto; height: auto;" src="/images/myecn_manage_applications.png">
 
 
