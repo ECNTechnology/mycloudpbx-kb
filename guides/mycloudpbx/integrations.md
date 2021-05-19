@@ -192,4 +192,8 @@ The payload can be customized by selecting a predetermined value from the drop d
 **Note:** Not all request values will be available for every trigger event.
 :::
 
+::: tip
+**Note:** A call picked up via the ** Method will not be seen as an 'answered call' via the webhook as it is technically considered an outbound, internal call.
+:::
+
 When you are finished, click '**Save & Close**'.
