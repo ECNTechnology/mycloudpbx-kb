@@ -143,7 +143,8 @@ Here you can see the following information:
 
 ### Inbound Calls
 
-The '**Inbound Calls**' report shows the total number of incoming calls received by the phone system, filtered by the phone number & time period selected.
+The '**Inbound Calls**' report shows the total number of incoming calls answered by a user, filtered by the phone number & time period selected.
+
 
 * Select any time period with a maximum of 7 days between them.
 * Choose any phone number, or all phone numbers.
