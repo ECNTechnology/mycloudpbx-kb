@@ -189,14 +189,14 @@ Here you have three options:
 * **Reboot:** This will remotely reboot each phone immediately.
 * **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
 
-# Linked Offices
+## Linked Offices
 
 A '*Linked Office*' allows you to connect a legacy PABX to your myCloudPBX.
 
 When you configure a Linked Office, you dedicate an *extension range* to it.
 All calls addressed to that range will be routed to the legacy PABX.
 
-## Create or Modify a Linked-Office
+### Create or Modify a Linked-Office
 
 You can click the '**Link Office**' button to create another Linked Office or modify the Office by clicking the <img style="width: 25px; height: auto;" src="/images/offices_and_users_cog.png"> button.
 
@@ -223,7 +223,7 @@ Enter the following information:
 
 Click **Save** when finished.
 
-## Configure Linked Office on your PABX.
+### Configure Linked Office on your PABX.
 
 You will need to configure the following information onto your PABX.
 
