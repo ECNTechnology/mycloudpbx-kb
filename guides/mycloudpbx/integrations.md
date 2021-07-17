@@ -193,7 +193,46 @@ The payload can be customized by selecting a predetermined value from the drop d
 :::
 
 ::: tip
-**Note:** A call picked up via the ** Method will not be seen as an 'answered call' via the webhook as it is technically considered an outbound, internal call.
+**Note:** A call picked up via the \*\* Method will not be seen as an 'answered call' via the webhook as it is technically considered an outbound, internal call.
 :::
 
 When you are finished, click '**Save & Close**'.
+
+## Sample Integrations
+
+### Net Promoter Score (NPS)
+
+A Net Promoter Score (NPS) Application is an example of something that can easily be create by making use of the '**IVR Selected**' webhook trigger.
+
+#### Configuration
+
+To create the required application you would need to do a few things.
+
+1. Enable the '**IVR Selected**' Webhook and configure the '**Request URL**' to point to your webserver.
+
+2. Create an IVR in myCloudPBX to capture the NPS score.
+
+3. Create a virtual extension specifically for the newly created IVR.
+
+4. Write a basic application to accept the webhook data on your webserver.
+   Your application can then enter the data into your CRM (via API), or send an email to the appropriate person, based on the score received (option selected), with the following information.
+
+     * IVR Name
+
+     * Option Selected
+     * Call UUID
+     * Source Number
+     * Destination Number
+     * Date/Time
+   You can then take appropriate actions from there.
+
+::: tip 
+**Pro Tip:** Use the preview API to download the call recording for the call based on the call UUID and upload it into your CRM or attach it to an email.
+:::
+
+5. When you want someone to leave a score, transfer the caller to the virtual extension.
+
+
+#### Call Flow
+![](/images/nps.png)
+
