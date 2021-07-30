@@ -47,6 +47,15 @@ LAN switches that are able to cope with a high count of Packets Per Second (50 t
 
 </td>
 </tr>
+
+<tr>
+<td style="min-width: 140px; width: 140px;"><span style="font-weight: 400;"><b>Webhooks</b></span></td>
+<td style="width: 600px;">
+<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">Port <b>80,443</b> to 203.22.70.79 must be accessible for webhook integrations to function.
+
+If using SSL, you do not require port 80.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br />
+</td>
+</tr>
 </tbody>
 </table>
 
