@@ -41,6 +41,20 @@ The email will also contain the username you will use to login to the Softphone.
 
 To deactivate the Softphone, simply untick '**Enable Softphone**' and click '**Submit & Activate**'.
 
+## Updating Softphone Name
+
+::: warning
+**Note:** If you need to change the extension name for the softphone you will need to disable the softphone, and re-enable it.
+:::
+
+To do this, simply untick '**Enable Softphone**' and click '**Submit & Activate**'.
+
+Then tick '**Enable Softphone**' and click '**Submit & Activate**'.
+
+You will then need to sign out of the softphone, and back in.
+
+The name will now be updated.
+
 ## Windows Guides
 
 These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone using a Windows PC.
