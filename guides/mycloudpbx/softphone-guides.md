@@ -579,3 +579,8 @@ On the right hand side you will see the '***myCloudPBX***' configuration setting
 To reset the licenses, click '***Reset License***'.
 
 Scroll down to the bottom of the page and click '***Save and Close***'.
+
+## Forgot Username / Password
+::: tip
+coming soon!
+:::
