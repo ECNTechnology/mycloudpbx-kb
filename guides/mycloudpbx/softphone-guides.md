@@ -572,7 +572,6 @@ From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50
 
 Select the extension you wish to modify from the list. (You may have to expand the '***Offices***' to find the correct extension.
 
-The password for the extension is listed on the left hand side of the screen.
 
 On the right hand side of the screen you will see the '***myCloudPBX***' configuration settings.
 
@@ -591,6 +590,10 @@ If you do not have access to the portal, please contact your administrator.
 From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50px; height: auto;" src="/images/offices_and_users1.png"> 
 
 Select the extension you need the login details for, from the list. (You may have to expand the '***Offices***' to find the correct extension.
+
+::: tip
+The password for the extension is listed on the left hand side of the screen.
+:::
 
 On the right hand side of the screen you will see the '***myCloudPBX***' configuration settings.
 
