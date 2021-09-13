@@ -556,9 +556,9 @@ Use the on-screen keyboard to type in your voicemail PIN when prompted
 
 <img src="/images/kb_osx_voicemail.png" width="350" />
 
-# Troubleshooting
+## Troubleshooting
 
-## Device Activation Limit Reached
+### Device Activation Limit Reached
 
 Each myCloudPBX Softphone license can be used on a total of 2 devices.
 
@@ -580,7 +580,7 @@ To reset the licenses, click '***Reset License***'.
 
 Scroll down to the bottom of the page and click '***Save and Close***'.
 
-## Forgot Username / Password
+### Forgot Username / Password
 ::: tip
 coming soon!
 :::
