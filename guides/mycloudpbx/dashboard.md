@@ -327,8 +327,11 @@ The '**Active Users**' report shows the total time users spent on calls.  Report
   * Internal (This will only display calls made internally.
   * Inbound (This will only display ***inbound calls***. (calls that you answered).
   * Outbound (This will only display ***outbound calls*** (calls that you made).  
-* Select the '**office**', or simply select '*all offices*'.
-* Click the '**Feedback**' button to provide feedback or feature requests.
+  * Select the '**office**', or simply select '*all offices*'.
+
+**Group By:**
+You can choose to group by extension number, or by the users' name by using the <img style="width: 150px; height: auto;" src="/images/slider.png"> slider.
+
 
 ::: tip
 
@@ -336,7 +339,10 @@ The '**Active Users**' report shows the total time users spent on calls.  Report
 
 :::
 
-![](/images/dashboard_active_users.png)
+![](/images/active_users_top.png)
+
+![](/images/active_users_bottom.png)
+
 
 ![](/images/dashboard_active_users_pie.png)
 
