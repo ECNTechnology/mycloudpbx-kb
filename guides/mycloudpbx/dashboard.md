@@ -384,9 +384,13 @@ The '**Average Call Duration**' report displays the average time each user spent
 
 :::
 
-![](/images/dashboard_average_call_duration.png)
+**Group by:**
+You can choose to group by extension number, or by the users' name by using the <img style="width: auto; height: 25px;" src="/images/slider.png"> slider.
 
-![](/images/dashboard_average_call_duration_pie.png)
+
+![](/images/average_call_duration_top.png)
+
+![](/images/average_call_duration_bottom.png)
 
 ## Scheduled Reporting
 
