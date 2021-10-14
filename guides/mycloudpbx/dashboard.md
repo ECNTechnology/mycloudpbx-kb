@@ -329,7 +329,7 @@ The '**Active Users**' report shows the total time users spent on calls.  Report
   * Outbound (This will only display ***outbound calls*** (calls that you made).  
   * Select the '**office**', or simply select '*all offices*'.
 
-**Group By:**
+**Group by:**
 You can choose to group by extension number, or by the users' name by using the <img style="width: 150px; height: auto;" src="/images/slider.png"> slider.
 
 
