@@ -330,7 +330,7 @@ The '**Active Users**' report shows the total time users spent on calls.  Report
   * Select the '**office**', or simply select '*all offices*'.
 
 **Group by:**
-You can choose to group by extension number, or by the users' name by using the <img style="width: 150px; height: auto;" src="/images/slider.png"> slider.
+You can choose to group by extension number, or by the users' name by using the <img style="width: auto; height: 25px;" src="/images/slider.png"> slider.
 
 
 ::: tip
