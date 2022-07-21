@@ -41,6 +41,20 @@ The email will also contain the username you will use to login to the Softphone.
 
 To deactivate the Softphone, simply untick '**Enable Softphone**' and click '**Submit & Activate**'.
 
+## Updating Softphone Name
+
+::: warning
+**Note:** If you need to change the extension name for the softphone you will need to disable the softphone, and re-enable it.
+:::
+
+To do this, simply untick '**Enable Softphone**' and click '**Submit & Activate**'.
+
+Then tick '**Enable Softphone**' and click '**Submit & Activate**'.
+
+You will then need to sign out of the softphone, and back in.
+
+The name will now be updated.
+
 ## Windows Guides
 
 These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone using a Windows PC.
@@ -542,9 +556,9 @@ Use the on-screen keyboard to type in your voicemail PIN when prompted
 
 <img src="/images/kb_osx_voicemail.png" width="350" />
 
-# Troubleshooting
+## Troubleshooting
 
-## Device Activation Limit Reached
+### Device Activation Limit Reached
 
 Each myCloudPBX Softphone license can be used on a total of 2 devices.
 
@@ -558,10 +572,34 @@ From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50
 
 Select the extension you wish to modify from the list. (You may have to expand the '***Offices***' to find the correct extension.
 
-On the right hand side you will see the '***myCloudPBX***' configuration settings.
+
+On the right hand side of the screen you will see the '***myCloudPBX***' configuration settings.
 
 ![](/images/softphone_enable.png)
 
 To reset the licenses, click '***Reset License***'.
 
 Scroll down to the bottom of the page and click '***Save and Close***'.
+
+### Forgot Username / Password
+
+If you have forgotten your username or password, you can locate this from within the PBX Admin Portal.
+
+If you do not have access to the portal, please contact your administrator.
+
+From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50px; height: auto;" src="/images/offices_and_users1.png"> 
+
+Select the extension you need the login details for, from the list. (You may have to expand the '***Offices***' to find the correct extension.
+
+::: tip
+The password for the extension is listed on the left hand side of the screen.
+:::
+
+On the right hand side of the screen you will see the '***myCloudPBX***' configuration settings.
+
+![](/images/softphone_enable.png)
+
+To obtain the username, click '**Send Email**'.
+
+This will send a copy of the username, along with the installation links to the email address nominated.
+

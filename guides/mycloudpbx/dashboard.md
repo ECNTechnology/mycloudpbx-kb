@@ -143,11 +143,11 @@ Here you can see the following information:
 
 ### Inbound Calls
 
-The '**Inbound Calls**' report shows the total number of incoming calls received by the phone system, filtered by the phone number & time period selected.
+The '**Inbound Calls**' report shows the total number of incoming calls answered by a user, filtered by the phone number & time period selected.
+
 
 * Select any time period with a maximum of 7 days between them.
 * Choose any phone number, or all phone numbers.
-* Click the '**Feedback**' button to provide feedback or feature requests.
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
@@ -173,7 +173,6 @@ The '**Abandoned Calls**' report displays the total number of inbound calls wher
 
 * Select any time period with a maximum of 7 days between them.
 * Tick the checkbox if you wish to include calls that went to voicemail.
-* Click the '**Feedback**' button to provide feedback or feature requests.
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
@@ -188,7 +187,6 @@ Report results can be filtered by simply clicking on the Call Type labels in the
 * Select any time period with a maximum of 7 days between them.
 * Report can be filtered by clicking on the labels in the legend on the right hand side.
 * Hover over the bar graph to see the exact number of calls.
-* Click the '**Feedback**' button to provide feedback or feature requests.
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
@@ -200,7 +198,6 @@ The '**Time to Answer**' report displays the average time taken for a call to be
 
 * Select any time period with a maximum of 7 days between them.
 * Choose a phone number / numbers from the drop down menu.
-* Click the '**Feedback**' button to provide feedback or feature requests.
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
@@ -326,8 +323,11 @@ The '**Active Users**' report shows the total time users spent on calls.  Report
   * Internal (This will only display calls made internally.
   * Inbound (This will only display ***inbound calls***. (calls that you answered).
   * Outbound (This will only display ***outbound calls*** (calls that you made).  
-* Select the '**office**', or simply select '*all offices*'.
-* Click the '**Feedback**' button to provide feedback or feature requests.
+  * Select the '**office**', or simply select '*all offices*'.
+
+**Group by:**
+You can choose to group by extension number, or by the users' name by using the <img style="width: auto; height: 25px;" src="/images/slider.png"> slider.
+
 
 ::: tip
 
@@ -335,7 +335,10 @@ The '**Active Users**' report shows the total time users spent on calls.  Report
 
 :::
 
-![](/images/dashboard_active_users.png)
+![](/images/active_users_top.png)
+
+![](/images/active_users_bottom.png)
+
 
 ![](/images/dashboard_active_users_pie.png)
 
@@ -351,9 +354,16 @@ The '**Total Call Count**' report shows the total number of calls each user made
   * Inbound (This will only display ***inbound calls***. (calls that you answered).
   * Outbound (This will only display ***outbound calls*** (calls that you made).  
 * Select the '**office**', or simply select '*all offices*'.
-* Click the '**Feedback**' button to provide feedback or feature requests.
 
-![](/images/dashboard_total_call_count.png)
+**Group by:**
+You can choose to group by extension number, or by the users' name by using the <img style="width: auto; height: 25px;" src="/images/slider.png"> slider.
+
+
+
+
+![](/images/total_call_count_top.png)
+
+![](/images/total_call_count_bottom.png)
 
 ### Average Call Duration
 
@@ -367,7 +377,6 @@ The '**Average Call Duration**' report displays the average time each user spent
   * Inbound (This will only display ***inbound calls***. (calls that you answered).
   * Outbound (This will only display ***outbound calls*** (calls that you made).  
 * Select the '**office**', or simply select '*all offices*'.
-* Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
 
@@ -375,9 +384,13 @@ The '**Average Call Duration**' report displays the average time each user spent
 
 :::
 
-![](/images/dashboard_average_call_duration.png)
+**Group by:**
+You can choose to group by extension number, or by the users' name by using the <img style="width: auto; height: 25px;" src="/images/slider.png"> slider.
 
-![](/images/dashboard_average_call_duration_pie.png)
+
+![](/images/average_call_duration_top.png)
+
+![](/images/average_call_duration_bottom.png)
 
 ## Scheduled Reporting
 

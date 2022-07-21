@@ -8,7 +8,7 @@ date: 2019-07-13T01:11:25.989Z
 As a new user it's highly recommended to read this document from top down.
 :::
 
-An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.mycloudpbx.com.au/guides/mycloudpbx/music-on-hold.html).
+An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and **[music on hold](https://kb.mycloudpbx.com.au/guides/mycloudpbx/music-on-hold.html)**.
 
 ## Create or Modify an Office
 
@@ -116,7 +116,7 @@ You can also specify the '**Smart Call Type**':
 
 ![](/images/edit_extension_diversions.png)
 
-Call diversions are _similar_ to Smart Calling, but not the same.
+Call diversions are *similar* to Smart Calling, but not the same.
 
 Call diversion will simply divert your extension to another number without the smarts.
 
@@ -169,7 +169,7 @@ This will save the changes, however you will also need to apply these changes to
 
 ![](/images/pbx-apply-viewchanges.png)
 
-Finally, you will need to click '**_Apply Changes_**'.
+Finally, you will need to click '***Apply Changes***'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
@@ -188,3 +188,48 @@ Here you have three options:
 * **Click for Detailed View:** This will show you detailed information about the registration status of each extension including the WAN IP Address, SIP Transport, and PING time.
 * **Reboot:** This will remotely reboot each phone immediately.
 * **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
+
+## Linked Offices
+
+A '*Linked Office*' allows you to connect a legacy PABX to your myCloudPBX.
+
+When you configure a Linked Office, you dedicate an *extension range* to it.
+All calls addressed to that range will be routed to the legacy PABX.
+
+### Create or Modify a Linked-Office
+
+You can click the '**Link Office**' button to create another Linked Office or modify the Office by clicking the <img style="width: 25px; height: auto;" src="/images/offices_and_users_cog.png"> button.
+
+
+![](/images/linkedoffice1.png)
+
+Enter the following information:
+
+* **Name:** This is for your future reference
+
+* **Timezone:** The timezone in which the legacy PABX resides.
+
+* **State:** The state in which the legacy PABX resides.
+
+* **Office Default Outbound Number:** Default outbound caller ID for all extensions in the Linked Office.
+
+* **Start Range:** Start of the extension number range to be allocated.
+
+* **End Range:** End of the extension number range to be allocated.
+
+* **Authentication ID:** Unique username for the Linked Office. You will need to configure this on your PABX so it can authenticate with myCloudPBX.
+
+* **Password:** Set a secure password for the Linked Office. You will need to configure this on your PABX so it can authenticate with myCloudPBX.
+
+Click **Save** when finished.
+
+### Configure Linked Office on your PABX.
+
+You will need to configure the following information onto your PABX.
+
+* **Username:** This is the _Authentication ID_ shown on the Linked Office page.
+
+* **Password:** This is the password you set on the Linked Office page.
+
+* **Server:** your PBX _registration address_. This will be shown on the homepage for your PBX in the https://my.ecn.net.au Portal.
+
