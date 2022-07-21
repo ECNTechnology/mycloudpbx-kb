@@ -32,7 +32,7 @@
     >
       {{ data.footer }}
     </div> -->
-    <CustomFooter/>
+    <!-- <CustomFooter/> -->
   </main>
 </template>
 

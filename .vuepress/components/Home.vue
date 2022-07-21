@@ -17,7 +17,7 @@
   </div>
   <div class="row justify-content-center pt-2">
     <div class="col-sm-12">
-      <router-link to="/guides/mycloudpbx/" class="guide-link">
+      <router-link to="/guides/" class="guide-link">
       <p class="kb-btn"><span>Browse all articles</span></p>
       </router-link>
     </div>
