@@ -23,13 +23,13 @@ module.exports = {
     },
     {
       text: 'Guides',
-      link: '/guides/'
+      link: '/guides/mycloudpbx/'
     },
     ],
     sidebar: {
-      '/guides/': [{
+      '/guides/mycloudpbx/': [{
         title: 'Dashboard',
-        children: getChildren('./guides/')
+        children: getChildren('./guides/mycloudpbx/')
       }],
     },
     activeHeaderLinks: true,
